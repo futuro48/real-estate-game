@@ -15,6 +15,15 @@ npm run dev
 
 Run `npm test` to execute the unit tests with Vitest.
 
+## Linting
+
+This project uses ESLint with the configuration provided in `eslint.config.js`.
+After running `npm install`, you can check the code style by running:
+
+```bash
+npm run lint
+```
+
 ## Features
 
 - Multiple choice questions drawn from several topics
