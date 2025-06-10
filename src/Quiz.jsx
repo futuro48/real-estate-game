@@ -1,17 +1,21 @@
 import { useEffect, useMemo, useState } from 'react'
 import { questionBank } from './data/questions.js'
 
-const SESSION_DURATION = 60
-
-function getAllQuestions() {
-  return Object.values(questionBank.National).flat()
+function getQuestions(topics) {
+  const list = []
+  Object.values(questionBank).forEach(section => {
+    Object.entries(section).forEach(([topic, qs]) => {
+      if (topics.includes(topic)) list.push(...qs)
+    })
+  })
+  return list
 }
 
-export default function Quiz({ onComplete }) {
-  const questions = useMemo(() => getAllQuestions(), [])
+export default function Quiz({ onComplete, duration, topics }) {
+  const questions = useMemo(() => getQuestions(topics), [topics])
   const [index, setIndex] = useState(0)
   const [score, setScore] = useState(0)
-  const [time, setTime] = useState(SESSION_DURATION)
+  const [time, setTime] = useState(duration)
   const current = questions[index]
 
   useEffect(() => {
