@@ -15,6 +15,7 @@ function App() {
   const [inSession, setInSession] = useState(false)
   const [history, setHistory] = useState([])
   const [duration, setDuration] = useState(300)
+  const [questionCount, setQuestionCount] = useState(10)
   const [topics, setTopics] = useState(ALL_TOPICS)
 
   const aggregated = useMemo(() => {
@@ -43,7 +44,14 @@ function App() {
   }
 
   if (inSession) {
-    return <Quiz onComplete={handleComplete} duration={duration} topics={topics} />
+    return (
+      <Quiz
+        onComplete={handleComplete}
+        duration={duration}
+        topics={topics}
+        questionCount={questionCount}
+      />
+    )
   }
 
   return (
@@ -60,6 +68,18 @@ function App() {
             <option value={300}>5 minutes</option>
             <option value={600}>10 minutes</option>
             <option value={1200}>20 minutes</option>
+          </select>
+        </label>
+        <label className="block mb-2">
+          Number of Questions
+          <select
+            className="ml-2 border rounded p-1"
+            value={questionCount}
+            onChange={e => setQuestionCount(Number(e.target.value))}
+          >
+            <option value={10}>10</option>
+            <option value={20}>20</option>
+            <option value={50}>50</option>
           </select>
         </label>
         <div className="mb-2">Focus Areas</div>

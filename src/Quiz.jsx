@@ -1,6 +1,15 @@
 import { useEffect, useMemo, useState } from 'react'
 import { questionBank } from './data/questions.js'
 
+function shuffle(arr) {
+  const copy = [...arr]
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[copy[i], copy[j]] = [copy[j], copy[i]]
+  }
+  return copy
+}
+
 function getQuestions(topics) {
   const list = []
   Object.values(questionBank).forEach(section => {
@@ -11,8 +20,11 @@ function getQuestions(topics) {
   return list
 }
 
-export default function Quiz({ onComplete, duration, topics }) {
-  const questions = useMemo(() => getQuestions(topics), [topics])
+export default function Quiz({ onComplete, duration, topics, questionCount }) {
+  const questions = useMemo(() => {
+    const pool = getQuestions(topics)
+    return shuffle(pool).slice(0, questionCount)
+  }, [topics, questionCount])
   const [index, setIndex] = useState(0)
   const [score, setScore] = useState(0)
   const [time, setTime] = useState(duration)
