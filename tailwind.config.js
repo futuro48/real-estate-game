@@ -4,7 +4,11 @@ export default {
     "./src/**/*.{js,jsx}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        display: ['"Orbitron"', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
