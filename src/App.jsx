@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useMemo } from 'react'
 import './App.css'
 import Quiz from './Quiz.jsx'
 import { questionBank } from './data/questions.js'
@@ -16,6 +16,19 @@ function App() {
   const [history, setHistory] = useState([])
   const [duration, setDuration] = useState(300)
   const [topics, setTopics] = useState(ALL_TOPICS)
+
+  const aggregated = useMemo(() => {
+    const result = {}
+    history.forEach(session => {
+      if (!session.topicStats) return
+      Object.entries(session.topicStats).forEach(([topic, stats]) => {
+        if (!result[topic]) result[topic] = { correct: 0, total: 0 }
+        result[topic].correct += stats.correct
+        result[topic].total += stats.total
+      })
+    })
+    return result
+  }, [history])
 
   useEffect(() => {
     const stored = JSON.parse(localStorage.getItem('history') || '[]')
@@ -87,6 +100,26 @@ function App() {
               </li>
             ))}
           </ul>
+          <h2 className="font-semibold mt-4 mb-2">Overall Topic Performance</h2>
+          {ALL_TOPICS.map(topic => {
+            const stats = aggregated[topic] || { correct: 0, total: 0 }
+            const pct = stats.total
+              ? Math.round((stats.correct / stats.total) * 100)
+              : 0
+            return (
+              <div key={topic} className="mb-2">
+                <div className="text-sm font-medium">
+                  {topic} - {stats.correct}/{stats.total}
+                </div>
+                <div className="bg-gray-200 h-2 rounded">
+                  <div
+                    className="bg-green-500 h-2 rounded"
+                    style={{ width: `${pct}%` }}
+                  />
+                </div>
+              </div>
+            )
+          })}
         </div>
       )}
     </div>

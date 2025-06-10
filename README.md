@@ -17,6 +17,8 @@ npm run dev
 - Countdown timer for each quiz session
 - Score tracking and history saved to `localStorage`
 - Choose quiz length (5, 10, or 20 minutes) and focus areas
+- Per-topic performance charts to review strengths and weaknesses
+
 
 The app is a work in progress and is intended for experiments with question navigation and simple gamification.
 Tailwind's PostCSS plugin comes from the `tailwindcss` package, so no extra PostCSS plugin is required.
