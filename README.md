@@ -28,3 +28,7 @@ Run `npm test` to execute the unit tests with Vitest.
 
 The app is a work in progress and is intended for experiments with question navigation and simple gamification.
 Tailwind's PostCSS plugin comes from the `tailwindcss` package, so no extra PostCSS plugin is required.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
