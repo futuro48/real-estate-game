@@ -20,6 +20,8 @@ Run `npm test` to execute the unit tests with Vitest.
 - Multiple choice questions drawn from several topics
 - Countdown timer for each quiz session
 - Score tracking and history saved to `localStorage`
+- Earn points for correct answers and track levels
+- Badges awarded for streaks and total questions answered
 - Choose quiz length (5, 10, or 20 minutes) and focus areas
 - Per-topic performance charts to review strengths and weaknesses
 
