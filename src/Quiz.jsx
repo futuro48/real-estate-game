@@ -16,6 +16,7 @@ export default function Quiz({ onComplete, duration, topics }) {
   const [index, setIndex] = useState(0)
   const [score, setScore] = useState(0)
   const [time, setTime] = useState(duration)
+
   const [topicStats, setTopicStats] = useState(() => {
     const stats = {}
     topics.forEach(t => {
@@ -23,6 +24,7 @@ export default function Quiz({ onComplete, duration, topics }) {
     })
     return stats
   })
+
   const current = questions[index]
 
   useEffect(() => {
