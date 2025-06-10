@@ -2,6 +2,15 @@ import { useEffect, useState } from 'react'
 import { questionBank } from './data/questions.js'
 import { buildDueQuestions, updateRecord } from './scheduler.js'
 
+function shuffle(arr) {
+  const copy = [...arr]
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[copy[i], copy[j]] = [copy[j], copy[i]]
+  }
+  return copy
+}
+
 function getQuestions(topics) {
   let list = buildDueQuestions(topics, questionBank)
   if (list.length === 0) {
@@ -22,8 +31,13 @@ function getQuestions(topics) {
   return list
 }
 
-export default function Quiz({ onComplete, duration, topics }) {
-  const [questions, setQuestions] = useState(() => getQuestions(topics))
+
+export default function Quiz({ onComplete, duration, topics, questionCount }) {
+  const questions = useMemo(() => {
+    const pool = getQuestions(topics)
+    return shuffle(pool).slice(0, questionCount)
+  }, [topics, questionCount])
+
   const [index, setIndex] = useState(0)
   const [score, setScore] = useState(0)
   const [time, setTime] = useState(duration)
