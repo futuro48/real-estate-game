@@ -1,4 +1,5 @@
 import { useEffect, useState, useMemo } from 'react'
+import { aggregateTopicStats } from './scheduler.js'
 import './App.css'
 import Quiz from './Quiz.jsx'
 import { questionBank } from './data/questions.js'
@@ -17,9 +18,10 @@ function App() {
   const [duration, setDuration] = useState(300)
   const [questionCount, setQuestionCount] = useState(10)
   const [topics, setTopics] = useState(ALL_TOPICS)
+  const [weakOnly, setWeakOnly] = useState(false)
 
   const aggregated = useMemo(() => {
-    const result = {}
+    const result = aggregateTopicStats()
     history.forEach(session => {
       if (!session.topicStats) return
       Object.entries(session.topicStats).forEach(([topic, stats]) => {
@@ -83,6 +85,28 @@ function App() {
           </select>
         </label>
         <div className="mb-2">Focus Areas</div>
+        <label className="block mb-2 text-sm">
+          <input
+            type="checkbox"
+            className="mr-1"
+            checked={weakOnly}
+            onChange={e => {
+              const checked = e.target.checked
+              setWeakOnly(checked)
+              if (checked) {
+                const weak = ALL_TOPICS.filter(t => {
+                  const s = aggregated[t] || { correct: 0, total: 0 }
+                  const pct = s.total ? s.correct / s.total : 0
+                  return pct < 0.6
+                })
+                setTopics(weak)
+              } else {
+                setTopics(ALL_TOPICS)
+              }
+            }}
+          />
+          Focus on Weak Topics
+        </label>
         <div className="grid grid-cols-2 gap-1">
           {ALL_TOPICS.map(topic => (
             <label key={topic} className="text-sm">

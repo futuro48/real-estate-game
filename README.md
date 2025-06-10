@@ -11,6 +11,10 @@ npm install
 npm run dev
 ```
 
+## Testing
+
+Run `npm test` to execute the unit tests with Vitest.
+
 ## Features
 
 - Multiple choice questions drawn from several topics
