@@ -1,18 +1,29 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { questionBank } from './data/questions.js'
+import { buildDueQuestions, updateRecord } from './scheduler.js'
 
 function getQuestions(topics) {
-  const list = []
-  Object.values(questionBank).forEach(section => {
-    Object.entries(section).forEach(([topic, qs]) => {
-      if (topics.includes(topic)) list.push(...qs)
+  let list = buildDueQuestions(topics, questionBank)
+  if (list.length === 0) {
+    // fall back to all questions if none are due yet
+    Object.values(questionBank).forEach(section => {
+      Object.entries(section).forEach(([topic, qs]) => {
+        if (!topics.includes(topic)) return
+        qs.forEach((q, i) => {
+          list.push({ ...q, id: `${topic}-${i}` })
+        })
+      })
     })
-  })
+  }
+  for (let i = list.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[list[i], list[j]] = [list[j], list[i]]
+  }
   return list
 }
 
 export default function Quiz({ onComplete, duration, topics }) {
-  const questions = useMemo(() => getQuestions(topics), [topics])
+  const [questions, setQuestions] = useState(() => getQuestions(topics))
   const [index, setIndex] = useState(0)
   const [score, setScore] = useState(0)
   const [time, setTime] = useState(duration)
@@ -53,21 +64,26 @@ export default function Quiz({ onComplete, duration, topics }) {
       return updated
     })
 
-    if (choice === current.answer) {
+    const correct = choice === current.answer
+    updateRecord(current.id, correct)
+
+    if (correct) {
       setScore(s => s + 1)
+    }
+    if (!correct) {
+      setQuestions(qs => [...qs, current])
     }
     if (index + 1 < questions.length) {
       setIndex(i => i + 1)
     } else {
       onComplete({
-        score: choice === current.answer ? score + 1 : score,
+        score: correct ? score + 1 : score,
         total: index + 1,
         topicStats: {
           ...topicStats,
           [current.topic]: {
             correct:
-              topicStats[current.topic].correct +
-              (choice === current.answer ? 1 : 0),
+              topicStats[current.topic].correct + (correct ? 1 : 0),
             total: topicStats[current.topic].total + 1,
           },
         },
