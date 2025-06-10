@@ -113,7 +113,7 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
 
   if (showSummary) {
     return (
-      <div className="text-left">
+      <div className="p-6 max-w-xl mx-auto bg-gray-800 bg-opacity-80 rounded-xl shadow-2xl space-y-4 text-left">
         <h2 className="text-lg font-semibold mb-2">Quiz Summary</h2>
         <p className="mb-2">Score: {score}/{answers.length}</p>
         <ul className="space-y-4">
@@ -127,7 +127,7 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
           ))}
         </ul>
         <button
-          className="mt-4 px-3 py-1 bg-blue-600 text-white rounded"
+          className="mt-4 px-4 py-2 rounded font-semibold bg-gradient-to-r from-purple-600 to-blue-600 text-white hover:from-purple-500 hover:to-blue-500"
           onClick={handleFinish}
         >
           Done
@@ -138,14 +138,14 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
 
   if (answered) {
     return (
-      <div className="text-left">
+      <div className="p-6 max-w-xl mx-auto bg-gray-800 bg-opacity-80 rounded-xl shadow-2xl space-y-4 text-left">
         <div className="mb-2 font-medium">{current.question}</div>
         <div className="mb-2">
           {selected === current.answer ? 'Correct!' : `Incorrect. The correct answer is ${current.answer}.`}
         </div>
         <div className="mb-4 text-sm italic">{current.explanation}</div>
         <button
-          className="px-3 py-1 bg-blue-600 text-white rounded"
+          className="px-4 py-2 rounded font-semibold bg-gradient-to-r from-purple-600 to-blue-600 text-white hover:from-purple-500 hover:to-blue-500"
           onClick={handleNext}
         >
           {index + 1 < questions.length ? 'Next Question' : 'See Summary'}
@@ -155,14 +155,14 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
   }
 
   return (
-    <div>
+    <div className="p-6 max-w-xl mx-auto bg-gray-800 bg-opacity-80 rounded-xl shadow-2xl space-y-4">
       <div className="mb-2">Time Remaining: {time}s</div>
       <div className="mb-2 font-medium">{current.question}</div>
       <ul className="mb-4 space-y-1">
         {Object.entries(current.options).map(([key, text]) => (
           <li key={key}>
             <button
-              className="px-2 py-1 border rounded w-full text-left"
+              className="px-2 py-1 border border-purple-600 rounded bg-gray-700 hover:bg-purple-700 w-full text-left"
               onClick={() => handleAnswer(key)}
             >
               <strong>{key}.</strong> {text}

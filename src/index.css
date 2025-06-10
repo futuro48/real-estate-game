@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-purple-900 to-gray-900 text-gray-100 min-h-screen;
+    font-family: 'Orbitron', sans-serif;
+  }
+}

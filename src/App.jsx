@@ -109,8 +109,8 @@ function App() {
   }
 
   return (
-    <div className="p-4 max-w-xl mx-auto">
-      <h1 className="text-2xl font-bold mb-4">Real Estate Quiz</h1>
+    <div className="p-6 max-w-xl mx-auto bg-gray-800 bg-opacity-80 rounded-xl shadow-2xl space-y-4">
+      <h1 className="text-3xl font-bold text-purple-300 mb-4 text-center">Real Estate Quiz</h1>
       <div className="mb-4 text-left">
         <div>Points: {points}</div>
         <div>Level: {Math.floor(points / 100) + 1}</div>
@@ -195,7 +195,7 @@ function App() {
         </div>
       </div>
       <button
-        className="px-3 py-1 bg-blue-600 text-white rounded"
+        className="px-4 py-2 rounded font-semibold bg-gradient-to-r from-purple-600 to-blue-600 text-white hover:from-purple-500 hover:to-blue-500 disabled:opacity-50"
         onClick={() => setInSession(true)}
         disabled={topics.length === 0}
       >
