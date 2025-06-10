@@ -4,6 +4,8 @@ This project is a small quiz app built with React and Vite. It shows sample ques
 
 ## Development
 
+Run `npm install` before starting the development server with `npm run dev`.
+
 ```bash
 npm install
 npm run dev
@@ -16,3 +18,4 @@ npm run dev
 - Score tracking and history saved to `localStorage`
 
 The app is a work in progress and is intended for experiments with question navigation and simple gamification.
+Tailwind's PostCSS plugin comes from the `tailwindcss` package, so no extra PostCSS plugin is required.
