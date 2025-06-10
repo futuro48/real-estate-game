@@ -88,5 +88,109 @@ export const questionBank = {
         explanation: "Zoning ordinances are an exercise of the government’s *police power*, which allows governments to regulate land use to protect public health, safety, morals, and general welfare."
       }
     ],
+    "Licensing": [
+      {
+        topic: "Licensing",
+        question: "Which agency issues real estate licenses in Massachusetts?",
+        options: {
+          A: "Department of Housing",
+          B: "Board of Registration of Real Estate Brokers and Salespersons",
+          C: "Secretary of State",
+          D: "Massachusetts Association of Realtors"
+        },
+        answer: "B",
+        explanation: "Licensing is handled by the Board of Registration of Real Estate Brokers and Salespersons."
+      },
+      {
+        topic: "Licensing",
+        question: "How often must a Massachusetts real estate license be renewed?",
+        options: {
+          A: "Every year",
+          B: "Every two years",
+          C: "Every three years",
+          D: "Every four years"
+        },
+        answer: "B",
+        explanation: "Massachusetts licenses are renewed every two years."
+      }
+    ],
+    "Contracts": [
+      {
+        topic: "Contracts",
+        question: "Which element is NOT required for a valid real estate contract?",
+        options: {
+          A: "Offer and acceptance",
+          B: "Consideration",
+          C: "Recording",
+          D: "Legality of object"
+        },
+        answer: "C",
+        explanation: "Recording is not required for a contract to be valid, though it may be necessary for notice."
+      },
+      {
+        topic: "Contracts",
+        question: "What type of contract is created when actions, rather than words, indicate intent?",
+        options: {
+          A: "Express contract",
+          B: "Implied contract",
+          C: "Bilateral contract",
+          D: "Unilateral contract"
+        },
+        answer: "B",
+        explanation: "An implied contract is formed by the actions of the parties."
+      }
+    ],
+    "Finance": [
+      {
+        topic: "Finance",
+        question: "Which type of loan allows the borrower to make periodic payments of interest only?",
+        options: {
+          A: "Amortized loan",
+          B: "Adjustable-rate mortgage",
+          C: "Straight loan",
+          D: "FHA loan"
+        },
+        answer: "C",
+        explanation: "A straight loan, also known as a term loan, involves payments of interest only with principal paid in full at maturity."
+      },
+      {
+        topic: "Finance",
+        question: "What is the primary purpose of the Truth in Lending Act (Regulation Z)?",
+        options: {
+          A: "To set maximum interest rates on loans",
+          B: "To ensure full disclosure of credit terms",
+          C: "To regulate appraisal fees",
+          D: "To provide mortgage insurance"
+        },
+        answer: "B",
+        explanation: "Regulation Z requires lenders to disclose key loan terms and costs to consumers."
+      }
+    ],
+    "Ethics": [
+      {
+        topic: "Ethics",
+        question: "According to the REALTOR® Code of Ethics, a real estate professional must disclose?",
+        options: {
+          A: "Only material defects in a property",
+          B: "Personal interest in the transaction",
+          C: "The buyer's financial status",
+          D: "Commission splits with cooperating brokers"
+        },
+        answer: "B",
+        explanation: "Ethics rules require disclosure when the licensee has a personal interest in the property or transaction."
+      },
+      {
+        topic: "Ethics",
+        question: "What practice is prohibited as discriminatory under fair housing laws?",
+        options: {
+          A: "Offering different terms based on national origin",
+          B: "Denying a mortgage due to poor credit history",
+          C: "Verifying income of potential tenants",
+          D: "Requiring a security deposit"
+        },
+        answer: "A",
+        explanation: "Fair housing laws prohibit discrimination based on protected classes such as national origin."
+      }
+    ]
   }
 };
