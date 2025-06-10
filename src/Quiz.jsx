@@ -1,17 +1,28 @@
 import { useEffect, useMemo, useState } from 'react'
 import { questionBank } from './data/questions.js'
 
-const SESSION_DURATION = 60
-
-function getAllQuestions() {
-  return Object.values(questionBank.National).flat()
+function getQuestions(topics) {
+  const list = []
+  Object.values(questionBank).forEach(section => {
+    Object.entries(section).forEach(([topic, qs]) => {
+      if (topics.includes(topic)) list.push(...qs)
+    })
+  })
+  return list
 }
 
-export default function Quiz({ onComplete }) {
-  const questions = useMemo(() => getAllQuestions(), [])
+export default function Quiz({ onComplete, duration, topics }) {
+  const questions = useMemo(() => getQuestions(topics), [topics])
   const [index, setIndex] = useState(0)
   const [score, setScore] = useState(0)
-  const [time, setTime] = useState(SESSION_DURATION)
+  const [time, setTime] = useState(duration)
+  const [topicStats, setTopicStats] = useState(() => {
+    const stats = {}
+    topics.forEach(t => {
+      stats[t] = { correct: 0, total: 0 }
+    })
+    return stats
+  })
   const current = questions[index]
 
   useEffect(() => {
@@ -19,16 +30,27 @@ export default function Quiz({ onComplete }) {
       setTime(t => {
         if (t <= 1) {
           clearInterval(id)
-          onComplete({ score, total: index })
+          onComplete({ score, total: index, topicStats })
           return 0
         }
         return t - 1
       })
     }, 1000)
     return () => clearInterval(id)
-  }, [index, onComplete, score])
+  }, [index, onComplete, score, topicStats])
 
   const handleAnswer = choice => {
+    setTopicStats(stats => {
+      const t = current.topic
+      const updated = { ...stats }
+      updated[t] = {
+        correct:
+          stats[t].correct + (choice === current.answer ? 1 : 0),
+        total: stats[t].total + 1,
+      }
+      return updated
+    })
+
     if (choice === current.answer) {
       setScore(s => s + 1)
     }
@@ -38,6 +60,15 @@ export default function Quiz({ onComplete }) {
       onComplete({
         score: choice === current.answer ? score + 1 : score,
         total: index + 1,
+        topicStats: {
+          ...topicStats,
+          [current.topic]: {
+            correct:
+              topicStats[current.topic].correct +
+              (choice === current.answer ? 1 : 0),
+            total: topicStats[current.topic].total + 1,
+          },
+        },
       })
     }
   }
