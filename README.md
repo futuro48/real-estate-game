@@ -54,6 +54,10 @@ Deployments are handled by `npm run deploy`, which publishes the `dist` folder u
 The app is a work in progress and is intended for experiments with question navigation and simple gamification.
 Tailwind's PostCSS plugin comes from the `tailwindcss` package, so no extra PostCSS plugin is required.
 
+## Deployment
+
+The `base` option in `vite.config.js` is set to `/real-estate-game/` so that assets resolve correctly when deployed to GitHub Pages. Run `npm run deploy` to build the project and publish the contents of `dist`.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
