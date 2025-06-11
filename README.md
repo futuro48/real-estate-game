@@ -58,6 +58,20 @@ Tailwind's PostCSS plugin comes from the `tailwindcss` package, so no extra Post
 
 The `base` option in `vite.config.js` is set to `/real-estate-game/` so that assets resolve correctly when deployed to GitHub Pages. Run `npm run deploy` to build the project and publish the contents of `dist`.
 
+## Resetting Progress
+
+The quiz saves history and points in the browser's `localStorage`. If you want a
+fresh start, open the developer console and remove the stored items:
+
+```js
+['history', 'points', 'totalQuestions', 'streak', 'badges', 'lastSession', 'schedule']
+  .forEach(key => localStorage.removeItem(key));
+```
+
+This clears your quiz history, badges, and statistics so you can begin again fro
+m scratch. You can also use the **Reset Progress** button in the app's interface
+to perform the same action.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

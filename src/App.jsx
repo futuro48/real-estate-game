@@ -97,6 +97,24 @@ function App() {
     setInSession(false)
   }
 
+  const resetProgress = () => {
+    ;[
+      'history',
+      'points',
+      'totalQuestions',
+      'streak',
+      'badges',
+      'lastSession',
+      'schedule',
+    ].forEach(key => localStorage.removeItem(key))
+    setHistory([])
+    setPoints(0)
+    setTotalQuestions(0)
+    setStreak(0)
+    setBadges([])
+    setLastSession('')
+  }
+
   if (inSession) {
     return (
       <Quiz
@@ -228,11 +246,20 @@ function App() {
         
         {/* Start Button */}
         <button
-          className="quiz-button mb-6"
+          className="quiz-button mb-3"
           onClick={() => setInSession(true)}
           disabled={topics.length === 0}
         >
           Start Quiz
+        </button>
+
+        {/* Reset Button */}
+        <button
+          className="quiz-button mb-6"
+          onClick={resetProgress}
+          style={{ background: 'linear-gradient(to right, #dc2626, #b91c1c)' }}
+        >
+          Reset Progress
         </button>
         
         {/* History Section */}
