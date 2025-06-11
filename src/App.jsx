@@ -128,14 +128,10 @@ function App() {
             <div className="text-2xl font-bold text-yellow-400">{streak} <span className="text-xs">day{streak === 1 ? '' : 's'}</span></div>
           </div>
         </div>
-        
-        {/* Badges */}
+          {/* Badges */}
         {badges.length > 0 && (
           <div className="mb-6 bg-indigo-800 bg-opacity-30 p-4 rounded-xl">
-            <h2 className="text-lg font-semibold text-white mb-2 flex items-center">
-              <svg className="w-5 h-5 mr-2 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-                <path fillRule="evenodd" d="M10 2a1 1 0 011 1v1.323l3.954 1.582a1 1 0 01.646.942V7.5a1 1 0 01-.5.866l-3.5 2a1 1 0 00-.5.866v1.834a1 1 0 00.5.866l3.5 2a1 1 0 01.5.866v1.5a1 1 0 01-.646.942L10 19.323V20.5a1 1 0 01-1 1h-4a1 1 0 01-1-1v-1.177l-3.954-1.582A1 1 0 010 16.8v-1.5a1 1 0 01.5-.866l3.5-2A1 1 0 004.5 11.5V9.667a1 1 0 00-.5-.867l-3.5-2A1 1 0 010 6v-1.5a1 1 0 01.646-.942L4.5 2.323V1a1 1 0 011-1h4z" clipRule="evenodd"/>
-              </svg>
+            <h2 className="text-lg font-semibold text-white mb-2">
               Achievements
             </h2>
             <div className="flex flex-wrap gap-2">
