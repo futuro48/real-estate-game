@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { questionBank } from './data/questions.js'
 import { buildDueQuestions, updateRecord } from './scheduler.js'
+import { motion, AnimatePresence } from 'framer-motion' // You'll need to install this package
 
 function shuffle(arr) {
   const copy = [...arr]
@@ -31,6 +32,11 @@ function getQuestions(topics) {
   return list
 }
 
+function formatQuestion(text) {
+  // Replace **text** with <strong>text</strong> for bold emphasis
+  if (!text) return '';
+  return text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+}
 
 export default function Quiz({ onComplete, duration, topics, questionCount }) {
   const [questions, setQuestions] = useState(() => {
@@ -111,66 +117,221 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
     onComplete({ score, total: answers.length, topicStats })
   }
 
+  // Format time as MM:SS
+  const formatTime = (seconds) => {
+    const mins = Math.floor(seconds / 60);
+    const secs = seconds % 60;
+    return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+  };
+
+  // Calculate progress percentage
+  const progressPercent = (index / questionCount) * 100;
+  const timePercent = (time / duration) * 100;
+
   if (showSummary) {
     return (
-      <div className="p-6 max-w-xl mx-auto bg-gray-800 bg-opacity-80 rounded-xl shadow-2xl space-y-4 text-left">
-        <h2 className="text-lg font-semibold mb-2">Quiz Summary</h2>
-        <p className="mb-2">Score: {score}/{answers.length}</p>
-        <ul className="space-y-4">
-          {answers.map((a, i) => (
-            <li key={i}>
-              <div className="font-medium">{a.question}</div>
-              <div>Your answer: {a.userChoice} - {a.options[a.userChoice]}</div>
-              <div>Correct answer: {a.answer} - {a.options[a.answer]}</div>
-              <div className="text-sm italic">{a.explanation}</div>
-            </li>
-          ))}
-        </ul>
-        <button
-          className="mt-4 px-4 py-2 rounded font-semibold bg-gradient-to-r from-purple-600 to-blue-600 text-white hover:from-purple-500 hover:to-blue-500"
-          onClick={handleFinish}
-        >
-          Done
-        </button>
-      </div>
-    )
+      <motion.div 
+        initial={{ opacity: 0, scale: 0.9 }}
+        animate={{ opacity: 1, scale: 1 }}
+        className="quiz-container"
+      >
+        <div className="absolute top-0 left-0 w-full h-full bg-[url('/pattern.svg')] opacity-5 z-0"></div>
+        <div className="relative z-10">
+          <div className="flex items-center justify-between mb-6">
+            <h2 className="text-2xl font-bold text-white">Quiz Complete!</h2>
+            <div className="quiz-status">
+              {Math.round((score/answers.length) * 100)}%
+            </div>
+          </div>
+          
+          <div className="bg-indigo-800 bg-opacity-50 p-4 rounded-xl mb-6">
+            <div className="flex justify-between items-center mb-2">
+              <span className="text-indigo-200">Final Score</span>
+              <div className="flex items-center">
+                <span className="text-2xl font-bold text-yellow-400">{score}</span>
+                <span className="text-indigo-200">/{answers.length}</span>
+              </div>
+            </div>
+            
+            {/* Topic progress bars */}
+            {Object.entries(topicStats).map(([topic, stats]) => (
+              <div key={topic} className="mb-2">
+                <div className="flex justify-between text-xs text-indigo-200 mb-1">
+                  <span>{topic}</span>
+                  <span>{stats.correct}/{stats.total}</span>
+                </div>
+                <div className="w-full bg-indigo-950 rounded-full h-2">
+                  <div 
+                    className="quiz-progress-bar"
+                    style={{ width: `${(stats.correct/Math.max(1, stats.total)) * 100}%` }}
+                  ></div>
+                </div>
+              </div>
+            ))}
+          </div>
+          
+          <div className="bg-indigo-800 bg-opacity-50 p-4 rounded-xl max-h-60 overflow-y-auto">
+            <h3 className="text-lg font-semibold mb-3 text-white">Question Review</h3>
+            <div className="space-y-4">
+              {answers.map((a, i) => (                <div key={i} className={`p-3 rounded-lg ${a.userChoice === a.answer ? 'bg-green-900 bg-opacity-40' : 'bg-red-900 bg-opacity-40'}`}>
+                  <div className="font-medium text-white mb-2" dangerouslySetInnerHTML={{ __html: formatQuestion(a.question) }}></div>
+                  <div className={`text-sm ${a.userChoice === a.answer ? 'text-green-300' : 'text-red-300'}`}>
+                    Your answer: {a.options[a.userChoice]}
+                  </div>
+                  {a.userChoice !== a.answer && (
+                    <div className="text-sm text-green-300">
+                      Correct answer: {a.options[a.answer]}
+                    </div>
+                  )}
+                  {a.explanation && (
+                    <div className="text-xs italic text-indigo-200 mt-1">{a.explanation}</div>
+                  )}
+                </div>
+              ))}
+            </div>
+          </div>
+          
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            className="quiz-button mt-6"
+            onClick={handleFinish}
+          >
+            Complete Quiz
+          </motion.button>
+        </div>
+      </motion.div>
+    );
   }
 
   if (answered) {
+    const isCorrect = selected === current.answer;
+    
     return (
-      <div className="p-6 max-w-xl mx-auto bg-gray-800 bg-opacity-80 rounded-xl shadow-2xl space-y-4 text-left">
-        <div className="mb-2 font-medium">{current.question}</div>
-        <div className="mb-2">
-          {selected === current.answer ? 'Correct!' : `Incorrect. The correct answer is ${current.answer}.`}
+      <motion.div 
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        className="quiz-container"
+      >
+        <div className="absolute top-0 left-0 w-full h-full bg-[url('/pattern.svg')] opacity-5 z-0"></div>
+        <div className="relative z-10">
+          <div className="flex items-center mb-4">
+            <div className="quiz-progress">
+              <div 
+                className="quiz-progress-bar"
+                style={{ width: `${progressPercent}%` }}
+              ></div>
+            </div>
+            <div className="ml-3 text-indigo-200 text-sm font-medium">{index + 1}/{questionCount}</div>
+          </div>
+            <div className="quiz-question" dangerouslySetInnerHTML={{ __html: formatQuestion(current.question) }}></div>
+          
+          <motion.div
+            initial={{ scale: 0.8, opacity: 0 }}
+            animate={{ scale: 1, opacity: 1 }}
+            className={`p-5 rounded-xl mb-6 flex flex-col items-center ${
+              isCorrect 
+                ? 'bg-green-900 bg-opacity-20 border border-green-500' 
+                : 'bg-red-900 bg-opacity-20 border border-red-500'
+            }`}
+          >
+            <div className={`text-2xl font-bold mb-2 ${isCorrect ? 'text-green-400' : 'text-red-400'}`}>
+              {isCorrect ? '🎉 Correct!' : '❌ Incorrect'}
+            </div>
+            <div className="text-white mb-2">
+              {isCorrect 
+                ? 'Great job!' 
+                : `The correct answer is: ${current.options[current.answer]}`
+              }
+            </div>
+            {current.explanation && (
+              <div className="text-sm text-indigo-200 italic mt-2">{current.explanation}</div>
+            )}
+          </motion.div>
+          
+          <motion.button
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            className="quiz-button"
+            onClick={handleNext}
+          >
+            {index + 1 < questions.length ? 'Next Question' : 'See Results'}
+          </motion.button>
         </div>
-        <div className="mb-4 text-sm italic">{current.explanation}</div>
-        <button
-          className="px-4 py-2 rounded font-semibold bg-gradient-to-r from-purple-600 to-blue-600 text-white hover:from-purple-500 hover:to-blue-500"
-          onClick={handleNext}
-        >
-          {index + 1 < questions.length ? 'Next Question' : 'See Summary'}
-        </button>
-      </div>
-    )
+      </motion.div>
+    );
   }
 
   return (
-    <div className="p-6 max-w-xl mx-auto bg-gray-800 bg-opacity-80 rounded-xl shadow-2xl space-y-4">
-      <div className="mb-2">Time Remaining: {time}s</div>
-      <div className="mb-2 font-medium">{current.question}</div>
-      <ul className="mb-4 space-y-1">
-        {Object.entries(current.options).map(([key, text]) => (
-          <li key={key}>
-            <button
-              className="px-2 py-1 border border-purple-600 rounded bg-gray-700 hover:bg-purple-700 w-full text-left"
+    <motion.div 
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      className="quiz-container"
+    >
+      <div className="absolute top-0 left-0 w-full h-full bg-[url('/pattern.svg')] opacity-5 z-0"></div>
+      <div className="relative z-10">
+        {/* Status bar */}
+        <div className="flex items-center justify-between mb-6">
+          <div className="quiz-status">
+            Question {index + 1}/{questionCount}
+          </div>
+          <div className="quiz-status flex items-center">
+            <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            {formatTime(time)}
+          </div>
+        </div>
+        
+        {/* Timer bar */}
+        <div className="w-full h-2 bg-indigo-800 rounded-full mb-6 overflow-hidden">
+          <motion.div 
+            className="h-full bg-gradient-to-r from-orange-500 to-red-500 rounded-full"
+            initial={{ width: '100%' }}
+            animate={{ width: `${timePercent}%` }}
+            transition={{ duration: 1 }}
+          ></motion.div>
+        </div>
+          {/* Question */}
+        <div className="quiz-question" dangerouslySetInnerHTML={{ __html: formatQuestion(current.question) }}></div>
+        
+        {/* Options */}
+        <div className="space-y-3 mb-6">
+          {Object.entries(current.options).map(([key, text]) => (
+            <motion.button
+              key={key}
+              whileHover={{ scale: 1.02 }}
+              whileTap={{ scale: 0.98 }}
+              className="quiz-option"
               onClick={() => handleAnswer(key)}
             >
-              <strong>{key}.</strong> {text}
-            </button>
-          </li>
-        ))}
-      </ul>
-      <div>Score: {score}/{index}</div>
-    </div>
-  )
+              <div className="quiz-option-letter">
+                <span className="text-white font-bold">{key}</span>
+              </div>
+              <span className="text-white">{text}</span>
+            </motion.button>
+          ))}
+        </div>
+        
+        {/* Score */}
+        <div className="flex justify-between items-center">
+          <div className="quiz-status">
+            Score: {score}/{index}
+          </div>
+          <div className="flex">
+            {[...Array(3)].map((_, i) => (
+              <svg 
+                key={i} 
+                className={`w-6 h-6 ${i < Math.min(3, score) ? 'text-yellow-400' : 'text-indigo-800'}`} 
+                fill="currentColor" 
+                viewBox="0 0 20 20"
+              >
+                <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+              </svg>
+            ))}
+          </div>
+        </div>
+      </div>
+    </motion.div>
+  );
 }

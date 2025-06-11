@@ -107,132 +107,185 @@ function App() {
       />
     )
   }
-
   return (
-    <div className="p-6 max-w-xl mx-auto bg-gray-800 bg-opacity-80 rounded-xl shadow-2xl space-y-4">
-      <h1 className="text-3xl font-bold text-purple-300 mb-4 text-center">Real Estate Quiz</h1>
-      <div className="mb-4 text-left">
-        <div>Points: {points}</div>
-        <div>Level: {Math.floor(points / 100) + 1}</div>
-        <div>Streak: {streak} day{streak === 1 ? '' : 's'}</div>
+    <div className="quiz-container max-w-2xl">
+      <div className="absolute top-0 left-0 w-full h-full bg-[url('/pattern.svg')] opacity-5 z-0"></div>
+      <div className="relative z-10">
+        <h1 className="text-3xl font-bold bg-gradient-to-r from-orange-300 to-yellow-400 text-transparent bg-clip-text mb-6 text-center">Real Estate Quiz</h1>
+        
+        {/* Stats Cards */}
+        <div className="grid grid-cols-3 gap-4 mb-6">
+          <div className="bg-indigo-800 bg-opacity-50 p-4 rounded-xl shadow-lg flex flex-col items-center justify-center">
+            <div className="text-sm text-indigo-200">Points</div>
+            <div className="text-2xl font-bold text-yellow-400">{points}</div>
+          </div>
+          <div className="bg-indigo-800 bg-opacity-50 p-4 rounded-xl shadow-lg flex flex-col items-center justify-center">
+            <div className="text-sm text-indigo-200">Level</div>
+            <div className="text-2xl font-bold text-yellow-400">{Math.floor(points / 100) + 1}</div>
+          </div>
+          <div className="bg-indigo-800 bg-opacity-50 p-4 rounded-xl shadow-lg flex flex-col items-center justify-center">
+            <div className="text-sm text-indigo-200">Streak</div>
+            <div className="text-2xl font-bold text-yellow-400">{streak} <span className="text-xs">day{streak === 1 ? '' : 's'}</span></div>
+          </div>
+        </div>
+        
+        {/* Badges */}
         {badges.length > 0 && (
-          <div className="mt-2">
-            <h2 className="font-semibold">Badges</h2>
-            <ul className="list-disc pl-5">
+          <div className="mb-6 bg-indigo-800 bg-opacity-30 p-4 rounded-xl">
+            <h2 className="text-lg font-semibold text-white mb-2 flex items-center">
+              <svg className="w-5 h-5 mr-2 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M10 2a1 1 0 011 1v1.323l3.954 1.582a1 1 0 01.646.942V7.5a1 1 0 01-.5.866l-3.5 2a1 1 0 00-.5.866v1.834a1 1 0 00.5.866l3.5 2a1 1 0 01.5.866v1.5a1 1 0 01-.646.942L10 19.323V20.5a1 1 0 01-1 1h-4a1 1 0 01-1-1v-1.177l-3.954-1.582A1 1 0 010 16.8v-1.5a1 1 0 01.5-.866l3.5-2A1 1 0 004.5 11.5V9.667a1 1 0 00-.5-.867l-3.5-2A1 1 0 010 6v-1.5a1 1 0 01.646-.942L4.5 2.323V1a1 1 0 011-1h4z" clipRule="evenodd"/>
+              </svg>
+              Achievements
+            </h2>
+            <div className="flex flex-wrap gap-2">
               {badges.map((b, i) => (
-                <li key={i}>{b}</li>
+                <span key={i} className="bg-indigo-900 text-indigo-200 text-xs px-3 py-1 rounded-full">
+                  {b}
+                </span>
               ))}
-            </ul>
+            </div>
           </div>
         )}
-      </div>
-      <div className="mb-4 text-left">
-        <label className="block mb-2">
-          Duration
-          <select
-            className="ml-2 border rounded p-1"
-            value={duration}
-            onChange={e => setDuration(Number(e.target.value))}
-          >
-            <option value={300}>5 minutes</option>
-            <option value={600}>10 minutes</option>
-            <option value={1200}>20 minutes</option>
-          </select>
-        </label>
-        <label className="block mb-2">
-          Number of Questions
-          <select
-            className="ml-2 border rounded p-1"
-            value={questionCount}
-            onChange={e => setQuestionCount(Number(e.target.value))}
-          >
-            <option value={10}>10</option>
-            <option value={20}>20</option>
-            <option value={50}>50</option>
-          </select>
-        </label>
-        <div className="mb-2">Focus Areas</div>
-        <label className="block mb-2 text-sm">
-          <input
-            type="checkbox"
-            className="mr-1"
-            checked={weakOnly}
-            onChange={e => {
-              const checked = e.target.checked
-              setWeakOnly(checked)
-              if (checked) {
-                const weak = ALL_TOPICS.filter(t => {
-                  const s = aggregated[t] || { correct: 0, total: 0 }
-                  const pct = s.total ? s.correct / s.total : 0
-                  return pct < 0.6
-                })
-                setTopics(weak)
-              } else {
-                setTopics(ALL_TOPICS)
-              }
-            }}
-          />
-          Focus on Weak Topics
-        </label>
-        <div className="grid grid-cols-2 gap-1">
-          {ALL_TOPICS.map(topic => (
-            <label key={topic} className="text-sm">
+        
+        {/* Quiz Setup */}
+        <div className="mb-6 bg-indigo-800 bg-opacity-30 p-4 rounded-xl">
+          <h2 className="text-lg font-semibold text-white mb-4">Quiz Setup</h2>
+          
+          <div className="grid grid-cols-2 gap-4 mb-4">
+            <div>
+              <label className="block mb-2 text-indigo-200 text-sm">Duration</label>
+              <select
+                className="w-full bg-indigo-900 bg-opacity-50 text-white border border-indigo-700 rounded-lg p-2"
+                value={duration}
+                onChange={e => setDuration(Number(e.target.value))}
+              >
+                <option value={300}>5 minutes</option>
+                <option value={600}>10 minutes</option>
+                <option value={1200}>20 minutes</option>
+              </select>
+            </div>
+            <div>
+              <label className="block mb-2 text-indigo-200 text-sm">Questions</label>
+              <select
+                className="w-full bg-indigo-900 bg-opacity-50 text-white border border-indigo-700 rounded-lg p-2"
+                value={questionCount}
+                onChange={e => setQuestionCount(Number(e.target.value))}
+              >
+                <option value={10}>10</option>
+                <option value={20}>20</option>
+                <option value={50}>50</option>
+              </select>
+            </div>
+          </div>
+          
+          <div className="mb-4">
+            <label className="block mb-2 text-indigo-200 text-sm">
               <input
                 type="checkbox"
-                className="mr-1"
-                checked={topics.includes(topic)}
+                className="mr-2 accent-indigo-500"
+                checked={weakOnly}
                 onChange={e => {
-                  if (e.target.checked) {
-                    setTopics([...topics, topic])
+                  const checked = e.target.checked
+                  setWeakOnly(checked)
+                  if (checked) {
+                    const weak = ALL_TOPICS.filter(t => {
+                      const s = aggregated[t] || { correct: 0, total: 0 }
+                      const pct = s.total ? s.correct / s.total : 0
+                      return pct < 0.6
+                    })
+                    setTopics(weak)
                   } else {
-                    setTopics(topics.filter(t => t !== topic))
+                    setTopics(ALL_TOPICS)
                   }
                 }}
               />
-              {topic}
+              Focus on Weak Topics
             </label>
-          ))}
-        </div>
-      </div>
-      <button
-        className="px-4 py-2 rounded font-semibold bg-gradient-to-r from-purple-600 to-blue-600 text-white hover:from-purple-500 hover:to-blue-500 disabled:opacity-50"
-        onClick={() => setInSession(true)}
-        disabled={topics.length === 0}
-      >
-        Start Quiz
-      </button>
-      {history.length > 0 && (
-        <div className="mt-4 text-left">
-          <h2 className="font-semibold mb-2">Past Sessions</h2>
-          <ul className="list-disc pl-5 space-y-1">
-            {history.map((h, i) => (
-              <li key={i}>
-                {new Date(h.date).toLocaleString()} - Score: {h.score}/{h.total}
-              </li>
-            ))}
-          </ul>
-          <h2 className="font-semibold mt-4 mb-2">Overall Topic Performance</h2>
-          {ALL_TOPICS.map(topic => {
-            const stats = aggregated[topic] || { correct: 0, total: 0 }
-            const pct = stats.total
-              ? Math.round((stats.correct / stats.total) * 100)
-              : 0
-            return (
-              <div key={topic} className="mb-2">
-                <div className="text-sm font-medium">
-                  {topic} - {stats.correct}/{stats.total}
-                </div>
-                <div className="bg-gray-200 h-2 rounded">
-                  <div
-                    className="bg-green-500 h-2 rounded"
-                    style={{ width: `${pct}%` }}
-                  />
-                </div>
+          </div>
+          
+          <div>
+            <h3 className="text-indigo-200 text-sm mb-2">Topic Selection</h3>
+            <div className="max-h-40 overflow-y-auto bg-indigo-900 bg-opacity-30 p-3 rounded-lg">
+              <div className="grid grid-cols-2 gap-2">
+                {ALL_TOPICS.map(topic => (
+                  <label key={topic} className="flex items-start text-white text-sm">
+                    <input
+                      type="checkbox"
+                      className="mr-1 mt-1 accent-indigo-500"
+                      checked={topics.includes(topic)}
+                      onChange={e => {
+                        if (e.target.checked) {
+                          setTopics([...topics, topic])
+                        } else {
+                          setTopics(topics.filter(t => t !== topic))
+                        }
+                      }}
+                    />
+                    <span>{topic}</span>
+                  </label>
+                ))}
               </div>
-            )
-          })}
+            </div>
+          </div>
         </div>
-      )}
+        
+        {/* Start Button */}
+        <button
+          className="quiz-button mb-6"
+          onClick={() => setInSession(true)}
+          disabled={topics.length === 0}
+        >
+          Start Quiz
+        </button>
+        
+        {/* History Section */}
+        {history.length > 0 && (
+          <div className="bg-indigo-800 bg-opacity-30 p-4 rounded-xl">            <h2 className="text-lg font-semibold text-white mb-3">
+              Quiz History
+            </h2>
+            
+            <div className="mb-4 max-h-32 overflow-y-auto bg-indigo-900 bg-opacity-30 rounded-lg p-2">
+              {history.map((h, i) => (
+                <div key={i} className="text-sm border-b border-indigo-700 last:border-0 py-2 flex justify-between">
+                  <span className="text-indigo-200">{new Date(h.date).toLocaleString()}</span>
+                  <span className="font-medium">
+                    <span className="text-yellow-400">{h.score}</span>
+                    <span className="text-indigo-300">/{h.total}</span>
+                  </span>
+                </div>
+              ))}
+            </div>
+              <h2 className="text-lg font-semibold text-white mb-3">
+              Topic Performance
+            </h2>
+            
+            <div className="space-y-3 max-h-60 overflow-y-auto pr-1">
+              {ALL_TOPICS.map(topic => {
+                const stats = aggregated[topic] || { correct: 0, total: 0 }
+                const pct = stats.total
+                  ? Math.round((stats.correct / stats.total) * 100)
+                  : 0
+                return (
+                  <div key={topic} className="mb-1">
+                    <div className="flex justify-between text-xs mb-1">
+                      <span className="text-indigo-200">{topic}</span>
+                      <span className="text-indigo-200">
+                        {stats.correct}/{stats.total} <span className="text-yellow-400">({pct}%)</span>
+                      </span>
+                    </div>
+                    <div className="w-full bg-indigo-950 rounded-full h-2">
+                      <div 
+                        className="quiz-progress-bar" 
+                        style={{ width: `${pct}%` }} 
+                      />
+                    </div>
+                  </div>
+                )
+              })}
+            </div>
+          </div>        )}
+      </div>
     </div>
   )
 }

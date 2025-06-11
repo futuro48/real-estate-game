@@ -595,7 +595,7 @@ export const questionBank = {
         "topic": "Land Use Controls",
         "question": "Under **eminent domain**, a city needs part of a privately owned lot to widen a road. The city will exercise condemnation. Which of the following is TRUE?",
         "options": {
-          "A": "The city can take the land but must pay the owner fair compensation:contentReference[oaicite:0]{index=0}",
+          "A": "The city can take the land but must pay the owner fair compensation",
           "B": "The city can take the land without compensating the owner due to police power",
           "C": "The city cannot acquire private land for a road without the owner’s consent",
           "D": "The city must offer the owner a similar parcel in exchange instead of money"
@@ -1109,7 +1109,7 @@ export const questionBank = {
           "D": "To require banks to meet community credit needs (Community Reinvestment Act)"
         },
         "answer": "B",
-        "explanation": "RESPA is a federal law aimed at *consumer protection in home purchases*. It requires lenders to provide borrowers with disclosures of settlement costs (such as the Loan Estimate and Closing Disclosure under TRID) and prohibits certain practices like *kickbacks* or referral fees between settlement service providers (like between a lender and a real estate agent):contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2}. It covers loans on 1-4 family residential properties."
+        "explanation": "RESPA is a federal law aimed at *consumer protection in home purchases*. It requires lenders to provide borrowers with disclosures of settlement costs (such as the Loan Estimate and Closing Disclosure under TRID) and prohibits certain practices like *kickbacks* or referral fees between settlement service providers (like between a lender and a real estate agent). It covers loans on 1-4 family residential properties."
       },
       {
         "topic": "Financing",
@@ -1145,7 +1145,7 @@ export const questionBank = {
           "D": "Only if the borrower requests it"
         },
         "answer": "B",
-        "explanation": "Under TRID, the borrower must receive the *Closing Disclosure* at least **3 business days before** the consummation of the loan (generally the closing date):contentReference[oaicite:3]{index=3}. This is to allow the borrower time to review final terms and costs. The Loan Estimate must be provided within 3 business days of application. These integrated disclosures aim to improve consumer understanding and prevent surprises at closing."
+        "explanation": "Under TRID, the borrower must receive the *Closing Disclosure* at least **3 business days before** the consummation of the loan (generally the closing date). This is to allow the borrower time to review final terms and costs. The Loan Estimate must be provided within 3 business days of application. These integrated disclosures aim to improve consumer understanding and prevent surprises at closing."
       },
       {
         "topic": "Financing",
@@ -1267,7 +1267,7 @@ export const questionBank = {
           "D": "Executory until corrected"
         },
         "answer": "B",
-        "explanation": "A contract missing an essential element (such as legality, consideration, etc.) is *void*. It is not a contract at all in the eyes of the law and cannot be enforced:contentReference[oaicite:4]{index=4}. For example, a contract for an illegal purpose is void (and also unenforceable)."
+        "explanation": "A contract missing an essential element (such as legality, consideration, etc.) is *void*. It is not a contract at all in the eyes of the law and cannot be enforced. For example, a contract for an illegal purpose is void (and also unenforceable)."
       },
       {
         "topic": "Contracts",
@@ -1279,7 +1279,7 @@ export const questionBank = {
           "D": "Executed"
         },
         "answer": "B",
-        "explanation": "A *voidable* contract is one that is valid on its face (it has all essential elements) but one party can cancel it due to a legal defect in consent. Examples include contracts entered under fraud, misrepresentation, duress, or with a minor. The wronged party may choose to enforce it or void it:contentReference[oaicite:5]{index=5}:contentReference[oaicite:6]{index=6}. Until it is rescinded, a voidable contract can be performed as if valid."
+        "explanation": "A *voidable* contract is one that is valid on its face (it has all essential elements) but one party can cancel it due to a legal defect in consent. Examples include contracts entered under fraud, misrepresentation, duress, or with a minor. The wronged party may choose to enforce it or void it. Until it is rescinded, a voidable contract can be performed as if valid."
       },
       {
         "topic": "Contracts",
@@ -1435,7 +1435,7 @@ export const questionBank = {
           "D": "Specific performance"
         },
         "answer": "B",
-        "explanation": "When both parties agree to cancel the contract and undo it as if it never existed, it is called *rescission*. Mutual rescission releases both parties from obligations and usually involves returning any deposits or considerations, putting them back in their pre-contract state:contentReference[oaicite:7]{index=7}. (Novation substitutes a new contract or party; assignment transfers contract rights to a new party; specific performance is a legal remedy to enforce the contract.)"
+        "explanation": "When both parties agree to cancel the contract and undo it as if it never existed, it is called *rescission*. Mutual rescission releases both parties from obligations and usually involves returning any deposits or considerations, putting them back in their pre-contract state. (Novation substitutes a new contract or party; assignment transfers contract rights to a new party; specific performance is a legal remedy to enforce the contract.)"
       },
       {
         "topic": "Contracts",
@@ -1519,7 +1519,7 @@ export const questionBank = {
           "D": "A multiple listing"
         },
         "answer": "B",
-        "explanation": "A *net listing* is one in which the broker’s commission is any sale proceeds above a set net amount to the seller. Net listings are generally viewed as unprofessional or unethical and are illegal in many states:contentReference[oaicite:8]{index=8} because of the potential conflict of interest (the broker might be tempted not to act in the seller’s best interest in pursuit of a higher commission)."
+        "explanation": "A *net listing* is one in which the broker’s commission is any sale proceeds above a set net amount to the seller. Net listings are generally viewed as unprofessional or unethical and are illegal in many states because of the potential conflict of interest (the broker might be tempted not to act in the seller’s best interest in pursuit of a higher commission)."
       },
       {
         "topic": "Contracts",
@@ -1579,7 +1579,7 @@ export const questionBank = {
           "D": "It is automatically paid to the state as an escrow violation penalty"
         },
         "answer": "B",
-        "explanation": "If the purchase contract included a liquidated damages clause stating that the earnest money deposit would serve as damages in case of buyer default, then upon Betty’s unjustified failure to close, Seller Sam is entitled to keep the deposit:contentReference[oaicite:9]{index=9} as full settlement of damages. (Often, the broker may receive a portion depending on the listing agreement, but the key point is it’s forfeited to the seller per the contract.)"
+        "explanation": "If the purchase contract included a liquidated damages clause stating that the earnest money deposit would serve as damages in case of buyer default, then upon Betty’s unjustified failure to close, Seller Sam is entitled to keep the deposit as full settlement of damages. (Often, the broker may receive a portion depending on the listing agreement, but the key point is it’s forfeited to the seller per the contract.)"
       },
       {
         "topic": "Contracts",
@@ -1862,12 +1862,12 @@ export const questionBank = {
         "question": "In most states, a real estate agent must provide a written **agency disclosure** to a prospective client or customer:",
         "options": {
           "A": "At the closing table",
-          "B": "At the time of first substantive contact or initial meeting, to explain whom the agent represents:contentReference[oaicite:12]{index=12}",
+          "B": "At the time of first substantive contact or initial meeting, to explain whom the agent represents",
           "C": "Only if asked by the consumer",
           "D": "After writing an offer"
         },
         "answer": "B",
-        "explanation": "State laws require agents to disclose their agency relationships early – typically at the first substantive contact with a buyer or seller – so that consumers understand *whom the agent is representing*:contentReference[oaicite:13]{index=13}. For instance, a listing agent should inform a prospective buyer if they represent the seller, and a buyer’s agent should disclose their role to a seller or listing agent upon initial interactions. This transparency helps avoid misunderstandings (in some states this is done via a written disclosure or pamphlet)."
+        "explanation": "State laws require agents to disclose their agency relationships early – typically at the first substantive contact with a buyer or seller – so that consumers understand *whom the agent is representing*. For instance, a listing agent should inform a prospective buyer if they represent the seller, and a buyer’s agent should disclose their role to a seller or listing agent upon initial interactions. This transparency helps avoid misunderstandings (in some states this is done via a written disclosure or pamphlet)."
       },
       {
         "topic": "Contracts",
