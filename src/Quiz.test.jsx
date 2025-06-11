@@ -87,5 +87,13 @@ describe('Quiz component', () => {
     expect(screen.getByText(/Quiz Complete!/i)).toBeInTheDocument()
     expect(screen.getByText(/0\/1/)).toBeInTheDocument()
   })
-})
 
+
+  it('shows summary when timer expires', () => {
+    render(
+      <Quiz onComplete={() => {}} duration={5} topics={['Topic']} questionCount={1} />
+    )
+    vi.advanceTimersByTime(5000)
+    expect(screen.getByText(/Quiz Complete!/i)).toBeInTheDocument()
+  })
+})

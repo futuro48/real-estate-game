@@ -1,5 +1,5 @@
 import { describe, it, beforeEach, expect, vi } from 'vitest'
-import { updateRecord, buildDueQuestions, getRecord, DEFAULT_INTERVALS } from './scheduler.js'
+import { updateRecord, buildDueQuestions, getRecord, DEFAULT_INTERVALS, aggregateTopicStats } from './scheduler.js'
 
 const noopQuestion = {
   question: 'Q',
@@ -57,5 +57,30 @@ describe('scheduler', () => {
     const due = buildDueQuestions(['Topic'], bank)
     expect(due.map(q => q.question)).toEqual(['Q2'])
     expect(due[0].id).toBe('Topic-1')
+  })
+
+  it('updates interval over consecutive correct answers', () => {
+    updateRecord('t-2', true)
+    let rec = getRecord('t-2')
+    expect(rec.box).toBe(2)
+    expect(rec.next).toBe(Date.now() + DEFAULT_INTERVALS[2] * 24 * 60 * 60 * 1000)
+    updateRecord('t-2', true)
+    rec = getRecord('t-2')
+    expect(rec.box).toBe(3)
+    expect(rec.next).toBe(Date.now() + DEFAULT_INTERVALS[3] * 24 * 60 * 60 * 1000)
+  })
+
+  it('aggregates topic stats', () => {
+    const schedule = {
+      'A-0': { box: 2, next: 0, correct: 1, total: 2 },
+      'A-1': { box: 1, next: 0, correct: 2, total: 3 },
+      'B-0': { box: 3, next: 0, correct: 4, total: 5 }
+    }
+    localStorage.setItem('schedule', JSON.stringify(schedule))
+    const agg = aggregateTopicStats()
+    expect(agg).toEqual({
+      A: { correct: 3, total: 5 },
+      B: { correct: 4, total: 5 }
+    })
   })
 })
