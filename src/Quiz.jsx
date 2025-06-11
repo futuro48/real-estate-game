@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { questionBank } from './data/questions.js'
 import { buildDueQuestions, updateRecord } from './scheduler.js'
-import { motion, AnimatePresence } from 'framer-motion' // You'll need to install this package
+import { motion, AnimatePresence } from 'framer-motion'
 
 function shuffle(arr) {
   const copy = [...arr]
