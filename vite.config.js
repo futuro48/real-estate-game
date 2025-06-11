@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/real-estate-game/',
   plugins: [react()],
   test: {
     environment: 'jsdom',
