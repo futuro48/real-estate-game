@@ -24,6 +24,22 @@ After running `npm install`, you can check the code style by running:
 npm run lint
 ```
 
+## Build & Deploy
+
+Create a production-ready build using:
+
+```bash
+npm run build
+```
+
+Preview the optimized output locally with:
+
+```bash
+npm run preview
+```
+
+Deployments are handled by `npm run deploy`, which publishes the `dist` folder using `gh-pages`. You must have permission to push to the repository for this to succeed.
+
 ## Features
 
 - Multiple choice questions drawn from several topics
