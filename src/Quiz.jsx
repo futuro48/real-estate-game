@@ -3,6 +3,21 @@ import { questionBank } from './data/questions.js'
 import { buildDueQuestions, updateRecord } from './scheduler.js'
 import { motion, AnimatePresence } from 'framer-motion'
 
+// Simple HTML sanitizer to strip scripts and event handlers
+function sanitize(html) {
+  const parser = new DOMParser()
+  const doc = parser.parseFromString(html, 'text/html')
+  doc.querySelectorAll('script').forEach(el => el.remove())
+  doc.body.querySelectorAll('*').forEach(el => {
+    ;[...el.attributes].forEach(attr => {
+      if (attr.name.startsWith('on')) {
+        el.removeAttribute(attr.name)
+      }
+    })
+  })
+  return doc.body.innerHTML
+}
+
 function shuffle(arr) {
   const copy = [...arr]
   for (let i = copy.length - 1; i > 0; i -= 1) {
@@ -33,9 +48,9 @@ function getQuestions(topics) {
 }
 
 function formatQuestion(text) {
-  // Replace **text** with <strong>text</strong> for bold emphasis
-  if (!text) return '';
-  return text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  if (!text) return ''
+  const formatted = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+  return sanitize(formatted)
 }
 
 export default function Quiz({ onComplete, duration, topics, questionCount }) {
