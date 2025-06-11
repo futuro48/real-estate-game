@@ -87,5 +87,26 @@ describe('Quiz component', () => {
     expect(screen.getByText(/Quiz Complete!/i)).toBeInTheDocument()
     expect(screen.getByText(/0\/1/)).toBeInTheDocument()
   })
+
+  it('sanitizes question html before rendering', () => {
+    mockQuestions.Section.XSS = [
+      {
+        topic: 'XSS',
+        question: 'Unsafe?<img src="x" onerror="alert(1)" /><script>evil()</script>',
+        options: { A: 'Yes', B: 'No' },
+        answer: 'A',
+      },
+    ]
+
+    render(
+      <Quiz onComplete={() => {}} duration={60} topics={['XSS']} questionCount={1} />
+    )
+
+    expect(screen.getByText('Unsafe?')).toBeInTheDocument()
+    const img = document.querySelector('img')
+    expect(img).toBeInTheDocument()
+    expect(img.hasAttribute('onerror')).toBe(false)
+    expect(document.querySelector('script')).toBeNull()
+  })
 })
 
