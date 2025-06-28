@@ -133,6 +133,7 @@ function App() {
   const handleFullTestComplete = (summary) => {
     // Analyze performance and provide study recommendations
     const { sectionAScore, sectionBScore, topicBreakdown } = summary
+    const fullTest = fullTests[selectedTest]
     const studyRecommendations = []
     
     // Check overall performance
