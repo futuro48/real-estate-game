@@ -1,4 +1,8 @@
-export const DEFAULT_INTERVALS = [0, 1, 3, 7] // days for boxes 1-3
+// Spaced repetition parameters
+export const INITIAL_EASE = 2.5
+export const MIN_EASE = 1.3
+export const FIRST_INTERVAL = 1 // days after first correct answer
+export const SECOND_INTERVAL = 6 // days after second correct answer
 
 function load() {
   try {
@@ -14,21 +18,48 @@ function save(data) {
 
 export function getRecord(id) {
   const schedule = load()
-  return schedule[id] || { box: 1, next: 0, correct: 0, total: 0 }
+  return (
+    schedule[id] || {
+      ease: INITIAL_EASE,
+      interval: 0,
+      next: 0,
+      correct: 0,
+      total: 0,
+    }
+  )
 }
 
 export function updateRecord(id, correct) {
   const schedule = load()
-  const rec = schedule[id] || { box: 1, next: 0, correct: 0, total: 0 }
+  const rec =
+    schedule[id] ||
+    {
+      ease: INITIAL_EASE,
+      interval: 0,
+      next: 0,
+      correct: 0,
+      total: 0,
+    }
+
+  const quality = correct ? 5 : 2
+  rec.ease += 0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02)
+  if (rec.ease < MIN_EASE) rec.ease = MIN_EASE
+
   if (correct) {
-    rec.box = Math.min(rec.box + 1, 3)
     rec.correct += 1
+    if (rec.interval === 0) {
+      rec.interval = FIRST_INTERVAL
+    } else if (rec.interval === FIRST_INTERVAL) {
+      rec.interval = SECOND_INTERVAL
+    } else {
+      rec.interval = Math.round(rec.interval * rec.ease)
+    }
   } else {
-    rec.box = 1
+    rec.interval = FIRST_INTERVAL
   }
+
   rec.total += 1
-  const days = DEFAULT_INTERVALS[rec.box]
-  rec.next = Date.now() + days * 24 * 60 * 60 * 1000
+  rec.next = Date.now() + rec.interval * 24 * 60 * 60 * 1000
   schedule[id] = rec
   save(schedule)
 }
