@@ -183,7 +183,7 @@ function App() {
     if (isFullTest) {
       return (
         <Quiz
-          onComplete={handleFullTestComplete}
+          onEndSession={handleFullTestComplete}
           duration={10800} // 3 hours in seconds
           isFullTest={true}
           selectedTest={selectedTest}
@@ -191,15 +191,14 @@ function App() {
       )
     }
     return (
-      <Quiz
-        onComplete={handleComplete}
-        duration={duration}
-        topics={topics}
-        questionCount={questionCount}
-        isFullTest={isFullTest}
-        selectedTest={selectedTest}
-        onEndSession={handleComplete}
-      />
+        <Quiz
+          duration={duration}
+          topics={topics}
+          questionCount={questionCount}
+          isFullTest={isFullTest}
+          selectedTest={selectedTest}
+          onEndSession={handleComplete}
+        />
     )
   }
   return (
