@@ -367,7 +367,7 @@ function App() {
             <select
               value={selectedTest}
               onChange={(e) => setSelectedTest(e.target.value)}
-              className="quiz-button flex-1 mr-2"
+              className="quiz-button quiz-select flex-1 mr-2"
               style={{ height: '3rem' }}
             >
                 <option value="test-one">Test One</option>

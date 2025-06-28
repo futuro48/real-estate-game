@@ -40,3 +40,19 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Dropdown option readability */
+.quiz-button option {
+  color: #1f2937; /* dark text for options */
+}
+
+/* Custom styling for quiz-select dropdown to improve readability */
+.quiz-select {
+  background-color: white;
+  color: #1f2937;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.quiz-select option {
+  color: #1f2937;
+}
