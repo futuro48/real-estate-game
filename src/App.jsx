@@ -222,7 +222,8 @@ function App() {
             <div className="text-2xl font-bold text-yellow-400">{streak} <span className="text-xs">day{streak === 1 ? '' : 's'}</span></div>
           </div>
         </div>
-          {/* Badges */}
+        
+        {/* Badges */}
         {badges.length > 0 && (
           <div className="mb-6 bg-indigo-800 bg-opacity-30 p-4 rounded-xl">
             <h2 className="text-lg font-semibold text-white mb-2">
@@ -321,7 +322,7 @@ function App() {
         </div>
         
         {/* Start Button */}
-        <div className="flex flex-col items-center">
+        <div className="flex flex-col items-center w-full">
           <button
             className="quiz-button mb-3"
             onClick={() => setInSession(true)}
@@ -329,22 +330,35 @@ function App() {
           >
             Start Quiz
           </button>
-          <div className="mt-4 flex items-center">
-            <select 
-              value={selectedTest} 
-              onChange={(e) => setSelectedTest(e.target.value)} 
-              className="quiz-button mr-2"
+          <div className="mt-4 flex items-center w-full">
+            <select
+              value={selectedTest}
+              onChange={(e) => setSelectedTest(e.target.value)}
+              className="quiz-button flex-1 mr-2"
+              style={{ height: '3rem' }}
             >
                 <option value="test-one">Test One</option>
                 <option value="test-two">Test Two</option>
             </select>
-            <button 
-              onClick={startFullTest} 
-              className="quiz-button"
+            <button
+              onClick={startFullTest}
+              className="quiz-button flex-1"
+              style={{ height: '3rem' }}
             >
-                Start Full Test
+              Start Full Test
             </button>
           </div>
+          {/* Reset button grouped with start options */}
+          <button
+            onClick={resetProgress}
+            className="quiz-button mt-3"
+            style={{
+              height: '3rem',
+              background: 'linear-gradient(to right, #dc2626, #b91c1c)'
+            }}
+          >
+            Reset Progress
+          </button>
         </div>
       </div>
     </div>
