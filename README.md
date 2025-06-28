@@ -49,9 +49,12 @@ Deployments are handled by `npm run deploy`, which publishes the `dist` folder u
 - Badges awarded for streaks and total questions answered
 - Choose quiz length (5, 10, or 20 minutes) and focus areas
 - Per-topic performance charts to review strengths and weaknesses
+- View detailed full test results with study recommendations
+- Progress dashboard showing topic performance and session history
 
 
 The app is a work in progress and is intended for experiments with question navigation and simple gamification.
+You can review your overall progress from the **View Progress** button on the home screen, which lists past sessions and full test results.
 Tailwind's PostCSS plugin comes from the `tailwindcss` package, so no extra PostCSS plugin is required.
 
 ## Deployment
