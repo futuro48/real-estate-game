@@ -111,11 +111,12 @@ export default function Quiz({ onEndSession, duration, topics, questionCount, is
         'test-two': testTwo,
       }[selectedTest]
 
-      if (testData) {
-        // For full test, extract topics from all questions
+      if (testData && testData.sections) {
+        // For full test, extract topics from all sections
         const allTopics = new Set()
-        testData.sectionA.forEach(q => allTopics.add(q.topic))
-        testData.sectionB.forEach(q => allTopics.add(q.topic))
+        testData.sections.forEach(section => {
+          section.questions.forEach(q => allTopics.add(q.topic))
+        })
         allTopics.forEach(t => {
           stats[t] = { correct: 0, total: 0 }
         })

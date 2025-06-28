@@ -4,7 +4,12 @@
 // Section B: Massachusetts Specific
 
 export const testOne = {
-  sectionA: [
+  title: "Massachusetts Real Estate Exam",
+  testName: "Test One",
+  sections: [
+    {
+      name: "Section A",
+      questions: [
     {
       question: "A broker's promise to make every effort to sell an exclusive listing makes a (an):",
       options: {
@@ -1025,8 +1030,11 @@ export const testOne = {
         topic: "Deeds",
         explanation: "Marketability of title refers to the legal status of the title, not the physical condition of the property."
     }
-  ],
-  sectionB: [
+      ]
+    },
+    {
+      name: "Section B",
+      questions: [
     {
       question: "An owner wishes to list his dwelling which, he admits, contains .09 parts of UFFI. What would you do?",
       options: {
@@ -1398,6 +1406,8 @@ export const testOne = {
       answer: "B",
       topic: "Massachusetts Law",
       explanation: "The Massachusetts Board of Registration of Real Estate Brokers and Salespersons is composed of three licensed brokers with at least seven years of experience, and two members of the public."
+    }
+      ]
     }
   ],
   analysisRules: {
