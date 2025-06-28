@@ -21,6 +21,8 @@ const ALL_TOPICS = (() => {
   return Array.from(set)
 })()
 
+const WRONG_PENALTY = 1
+
 function App() {
   const [inSession, setInSession] = useState(false)
   const [isFullTest, setIsFullTest] = useState(false)
@@ -80,7 +82,9 @@ function App() {
     setHistory(updated)
     localStorage.setItem('history', JSON.stringify(updated))
 
-    const newPoints = points + summary.score
+    const wrong = summary.total - summary.score
+    const sessionPoints = summary.score - wrong * WRONG_PENALTY
+    const newPoints = points + sessionPoints
     const newTotal = totalQuestions + summary.total
 
     const today = new Date().toDateString()
