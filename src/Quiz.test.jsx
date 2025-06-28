@@ -48,7 +48,7 @@ describe('Quiz component', () => {
 
   it('renders question and options', () => {
     render(
-      <Quiz onComplete={() => {}} duration={60} topics={['Topic']} questionCount={1} />
+      <Quiz onEndSession={() => {}} duration={60} topics={['Topic']} questionCount={1} />
     )
 
     expect(screen.getByText('Sample question?')).toBeInTheDocument()
@@ -58,7 +58,7 @@ describe('Quiz component', () => {
 
   it('handles correct answer and shows summary', () => {
     render(
-      <Quiz onComplete={() => {}} duration={60} topics={['Topic']} questionCount={1} />
+      <Quiz onEndSession={() => {}} duration={60} topics={['Topic']} questionCount={1} />
     )
 
     fireEvent.click(screen.getByRole('button', { name: /Option A/i }))
@@ -74,7 +74,7 @@ describe('Quiz component', () => {
 
   it('handles incorrect answer and updates score', () => {
     render(
-      <Quiz onComplete={() => {}} duration={60} topics={['Topic']} questionCount={1} />
+      <Quiz onEndSession={() => {}} duration={60} topics={['Topic']} questionCount={1} />
     )
 
     fireEvent.click(screen.getByRole('button', { name: /Option B/i }))
@@ -99,7 +99,7 @@ describe('Quiz component', () => {
     ]
 
     render(
-      <Quiz onComplete={() => {}} duration={60} topics={['XSS']} questionCount={1} />
+      <Quiz onEndSession={() => {}} duration={60} topics={['XSS']} questionCount={1} />
     )
 
     expect(screen.getByText('Unsafe?')).toBeInTheDocument()
