@@ -337,7 +337,6 @@ function App() {
             >
                 <option value="test-one">Test One</option>
                 <option value="test-two">Test Two</option>
-                <option value="test-three">Test Three</option>
             </select>
             <button 
               onClick={startFullTest} 
