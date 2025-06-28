@@ -2,6 +2,8 @@ import { useEffect, useState, useMemo } from 'react'
 import { aggregateTopicStats } from './scheduler.js'
 import './App.css'
 import Quiz from './Quiz.jsx'
+import Progress from './Progress.jsx'
+import FullTestResults from './FullTestResults.jsx'
 import { questionBankPSI as questionBank } from './data/questions-psi.js'
 import { testOne } from './data/test-one.js'
 import { testTwo } from './data/test-two.js'
@@ -34,6 +36,8 @@ function App() {
   const [badges, setBadges] = useState([])
   const [lastSession, setLastSession] = useState('')
   const [selectedTest, setSelectedTest] = useState('test-one')
+  const [showProgress, setShowProgress] = useState(false)
+  const [fullTestHistory, setFullTestHistory] = useState([])
 
   const aggregated = useMemo(() => {
     const result = aggregateTopicStats()
@@ -45,12 +49,24 @@ function App() {
         result[topic].total += stats.total
       })
     })
+    fullTestHistory.forEach(t => {
+      if (!t.topicBreakdown) return
+      Object.entries(t.topicBreakdown).forEach(([topic, stats]) => {
+        if (!result[topic]) result[topic] = { correct: 0, total: 0 }
+        result[topic].correct += stats.correct
+        result[topic].total += stats.total
+      })
+    })
     return result
-  }, [history])
+  }, [history, fullTestHistory])
 
   useEffect(() => {
     const stored = JSON.parse(localStorage.getItem('history') || '[]')
     setHistory(stored)
+    const storedFull = JSON.parse(localStorage.getItem('fullTestHistory') || '[]')
+    setFullTestHistory(storedFull)
+    const lastFull = localStorage.getItem('lastFullTest')
+    if (lastFull) setFullTestResults(JSON.parse(lastFull))
     setPoints(Number(localStorage.getItem('points') || 0))
     setTotalQuestions(Number(localStorage.getItem('totalQuestions') || 0))
     setStreak(Number(localStorage.getItem('streak') || 0))
@@ -170,13 +186,26 @@ function App() {
     }
     
     // Save to separate full test history
-    const fullTestHistory = JSON.parse(localStorage.getItem('fullTestHistory') || '[]')
-    fullTestHistory.push(fullTestResult)
-    localStorage.setItem('fullTestHistory', JSON.stringify(fullTestHistory))
+    const storedFull = JSON.parse(localStorage.getItem('fullTestHistory') || '[]')
+    storedFull.push(fullTestResult)
+    localStorage.setItem('fullTestHistory', JSON.stringify(storedFull))
+    setFullTestHistory(storedFull)
+    localStorage.setItem('lastFullTest', JSON.stringify(fullTestResult))
     
     setFullTestResults(fullTestResult)
     setIsFullTest(false)
     setInSession(false)
+  }
+
+  if (showProgress) {
+    return (
+      <Progress
+        history={history}
+        fullTestHistory={fullTestHistory}
+        aggregated={aggregated}
+        onClose={() => setShowProgress(false)}
+      />
+    )
   }
 
   if (inSession) {
@@ -237,6 +266,10 @@ function App() {
               ))}
             </div>
           </div>
+        )}
+
+        {fullTestResults && (
+          <FullTestResults results={fullTestResults} onClose={() => setFullTestResults(null)} />
         )}
         
         {/* Quiz Setup */}
@@ -358,6 +391,13 @@ function App() {
             }}
           >
             Reset Progress
+          </button>
+          <button
+            onClick={() => setShowProgress(true)}
+            className="quiz-button mt-3"
+            style={{ height: '3rem' }}
+          >
+            View Progress
           </button>
         </div>
       </div>
