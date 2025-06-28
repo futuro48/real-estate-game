@@ -186,7 +186,6 @@ export default function Quiz({ onEndSession, duration, topics, questionCount, is
       const testData = {
         'test-one': testOne,
         'test-two': testTwo,
-        'test-three': testThree,
       }[selectedTest]
 
       // Calculate section scores and topic breakdown for full test
