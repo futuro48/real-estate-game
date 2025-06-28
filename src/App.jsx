@@ -2,7 +2,14 @@ import { useEffect, useState, useMemo } from 'react'
 import { aggregateTopicStats } from './scheduler.js'
 import './App.css'
 import Quiz from './Quiz.jsx'
-import { questionBank } from './data/questions.js'
+import { questionBankPSI as questionBank } from './data/questions-psi.js'
+import { testOne } from './data/test-one.js'
+import { testTwo } from './data/test-two.js'
+
+const fullTests = {
+  'test-one': testOne,
+  'test-two': testTwo,
+}
 
 const ALL_TOPICS = (() => {
   const set = new Set()
@@ -14,6 +21,8 @@ const ALL_TOPICS = (() => {
 
 function App() {
   const [inSession, setInSession] = useState(false)
+  const [isFullTest, setIsFullTest] = useState(false)
+  const [fullTestResults, setFullTestResults] = useState(null)
   const [history, setHistory] = useState([])
   const [duration, setDuration] = useState(300)
   const [questionCount, setQuestionCount] = useState(10)
@@ -24,6 +33,7 @@ function App() {
   const [streak, setStreak] = useState(0)
   const [badges, setBadges] = useState([])
   const [lastSession, setLastSession] = useState('')
+  const [selectedTest, setSelectedTest] = useState('test-one')
 
   const aggregated = useMemo(() => {
     const result = aggregateTopicStats()
@@ -115,13 +125,79 @@ function App() {
     setLastSession('')
   }
 
+  const startFullTest = () => {
+    setIsFullTest(true)
+    setInSession(true)
+  }
+
+  const handleFullTestComplete = (summary) => {
+    // Analyze performance and provide study recommendations
+    const { sectionAScore, sectionBScore, topicBreakdown } = summary
+    const studyRecommendations = []
+    
+    // Check overall performance
+    const overallScore = summary.score / summary.total
+    const passedOverall = overallScore >= 0.70
+    const passedSectionA = sectionAScore >= 0.60
+    const passedSectionB = sectionBScore >= 0.60
+    
+    // Generate topic-specific recommendations
+    Object.entries(topicBreakdown).forEach(([topic, stats]) => {
+      const topicScore = stats.correct / stats.total
+      const threshold = fullTest.analysisRules.studyRecommendations[topic]?.threshold || 70
+      if (topicScore < (threshold / 100)) {
+        const materials = fullTest.analysisRules.studyRecommendations[topic]?.materials || []
+        studyRecommendations.push({
+          topic,
+          score: Math.round(topicScore * 100),
+          threshold,
+          materials
+        })
+      }
+    })
+    
+    // Store full test results with analysis
+    const fullTestResult = {
+      ...summary,
+      type: 'full-test',
+      passed: passedOverall && passedSectionA && passedSectionB,
+      overallScore: Math.round(overallScore * 100),
+      sectionAScore: Math.round(sectionAScore * 100),
+      sectionBScore: Math.round(sectionBScore * 100),
+      studyRecommendations,
+      date: Date.now()
+    }
+    
+    // Save to separate full test history
+    const fullTestHistory = JSON.parse(localStorage.getItem('fullTestHistory') || '[]')
+    fullTestHistory.push(fullTestResult)
+    localStorage.setItem('fullTestHistory', JSON.stringify(fullTestHistory))
+    
+    setFullTestResults(fullTestResult)
+    setIsFullTest(false)
+    setInSession(false)
+  }
+
   if (inSession) {
+    if (isFullTest) {
+      return (
+        <Quiz
+          onComplete={handleFullTestComplete}
+          duration={10800} // 3 hours in seconds
+          isFullTest={true}
+          selectedTest={selectedTest}
+        />
+      )
+    }
     return (
       <Quiz
         onComplete={handleComplete}
         duration={duration}
         topics={topics}
         questionCount={questionCount}
+        isFullTest={isFullTest}
+        selectedTest={selectedTest}
+        onEndSession={handleComplete}
       />
     )
   }
@@ -245,69 +321,32 @@ function App() {
         </div>
         
         {/* Start Button */}
-        <button
-          className="quiz-button mb-3"
-          onClick={() => setInSession(true)}
-          disabled={topics.length === 0}
-        >
-          Start Quiz
-        </button>
-
-        {/* Reset Button */}
-        <button
-          className="quiz-button mb-6"
-          onClick={resetProgress}
-          style={{ background: 'linear-gradient(to right, #dc2626, #b91c1c)' }}
-        >
-          Reset Progress
-        </button>
-        
-        {/* History Section */}
-        {history.length > 0 && (
-          <div className="bg-indigo-800 bg-opacity-30 p-4 rounded-xl">            <h2 className="text-lg font-semibold text-white mb-3">
-              Quiz History
-            </h2>
-            
-            <div className="mb-4 max-h-32 overflow-y-auto bg-indigo-900 bg-opacity-30 rounded-lg p-2">
-              {history.map((h, i) => (
-                <div key={i} className="text-sm border-b border-indigo-700 last:border-0 py-2 flex justify-between">
-                  <span className="text-indigo-200">{new Date(h.date).toLocaleString()}</span>
-                  <span className="font-medium">
-                    <span className="text-yellow-400">{h.score}</span>
-                    <span className="text-indigo-300">/{h.total}</span>
-                  </span>
-                </div>
-              ))}
-            </div>
-              <h2 className="text-lg font-semibold text-white mb-3">
-              Topic Performance
-            </h2>
-            
-            <div className="space-y-3 max-h-60 overflow-y-auto pr-1">
-              {ALL_TOPICS.map(topic => {
-                const stats = aggregated[topic] || { correct: 0, total: 0 }
-                const pct = stats.total
-                  ? Math.round((stats.correct / stats.total) * 100)
-                  : 0
-                return (
-                  <div key={topic} className="mb-1">
-                    <div className="flex justify-between text-xs mb-1">
-                      <span className="text-indigo-200">{topic}</span>
-                      <span className="text-indigo-200">
-                        {stats.correct}/{stats.total} <span className="text-yellow-400">({pct}%)</span>
-                      </span>
-                    </div>
-                    <div className="w-full bg-indigo-950 rounded-full h-2">
-                      <div 
-                        className="quiz-progress-bar" 
-                        style={{ width: `${pct}%` }} 
-                      />
-                    </div>
-                  </div>
-                )
-              })}
-            </div>
-          </div>        )}
+        <div className="flex flex-col items-center">
+          <button
+            className="quiz-button mb-3"
+            onClick={() => setInSession(true)}
+            disabled={topics.length === 0}
+          >
+            Start Quiz
+          </button>
+          <div className="mt-4 flex items-center">
+            <select 
+              value={selectedTest} 
+              onChange={(e) => setSelectedTest(e.target.value)} 
+              className="quiz-button mr-2"
+            >
+                <option value="test-one">Test One</option>
+                <option value="test-two">Test Two</option>
+                <option value="test-three">Test Three</option>
+            </select>
+            <button 
+              onClick={startFullTest} 
+              className="quiz-button"
+            >
+                Start Full Test
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   )

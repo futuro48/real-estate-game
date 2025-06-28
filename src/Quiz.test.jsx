@@ -17,8 +17,8 @@ const mockQuestions = {
 
 const mockUpdateRecord = vi.fn()
 
-vi.mock('./data/questions.js', () => ({
-  questionBank: mockQuestions
+vi.mock('./data/questions-psi.js', () => ({
+  questionBankPSI: mockQuestions
 }))
 
 vi.mock('./scheduler.js', () => ({

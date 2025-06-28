@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react'
-import { questionBank } from './data/questions.js'
+import { questionBankPSI as questionBank } from './data/questions-psi.js'
+import { testOne } from './data/test-one.js'
+import { testTwo } from './data/test-two.js'
 import { buildDueQuestions, updateRecord } from './scheduler.js'
 import { motion, AnimatePresence } from 'framer-motion'
 
@@ -47,16 +49,49 @@ function getQuestions(topics) {
   return list
 }
 
+function getFullTestQuestions(selectedTest) {
+  const testData = {
+    'test-one': testOne,
+    'test-two': testTwo,
+  }[selectedTest]
+
+  if (!testData || !testData.sections) {
+    return []
+  }
+
+  const questions = []
+
+  const sectionA = testData.sections.find(s => s.name === 'Section A')
+  if (sectionA && sectionA.questions) {
+    sectionA.questions.forEach((q, i) => {
+      questions.push({ ...q, id: `sectionA-${i}`, section: 'A' })
+    })
+  }
+
+  const sectionB = testData.sections.find(s => s.name === 'Section B')
+  if (sectionB && sectionB.questions) {
+    sectionB.questions.forEach((q, i) => {
+      questions.push({ ...q, id: `sectionB-${i}`, section: 'B' })
+    })
+  }
+
+  return questions
+}
+
 function formatQuestion(text) {
   if (!text) return ''
   const formatted = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
   return sanitize(formatted)
 }
 
-export default function Quiz({ onComplete, duration, topics, questionCount }) {
+export default function Quiz({ onEndSession, duration, topics, questionCount, isFullTest = false, selectedTest }) {
   const [questions, setQuestions] = useState(() => {
-    const pool = getQuestions(topics)
-    return shuffle(pool).slice(0, questionCount)
+    if (isFullTest) {
+      return getFullTestQuestions(selectedTest)
+    } else {
+      const pool = getQuestions(topics)
+      return shuffle(pool).slice(0, questionCount)
+    }
   })
 
   const [index, setIndex] = useState(0)
@@ -70,9 +105,27 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
 
   const [topicStats, setTopicStats] = useState(() => {
     const stats = {}
-    topics.forEach(t => {
-      stats[t] = { correct: 0, total: 0 }
-    })
+    if (isFullTest) {
+      const testData = {
+        'test-one': testOne,
+        'test-two': testTwo,
+      }[selectedTest]
+
+      if (testData) {
+        // For full test, extract topics from all questions
+        const allTopics = new Set()
+        testData.sectionA.forEach(q => allTopics.add(q.topic))
+        testData.sectionB.forEach(q => allTopics.add(q.topic))
+        allTopics.forEach(t => {
+          stats[t] = { correct: 0, total: 0 }
+        })
+      }
+    } else if (topics) {
+      // For regular quiz mode
+      topics.forEach(t => {
+        stats[t] = { correct: 0, total: 0 }
+      })
+    }
     return stats
   })
 
@@ -129,7 +182,45 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
   }
 
   const handleFinish = () => {
-    onComplete({ score, total: answers.length, topicStats })
+    if (isFullTest) {
+      const testData = {
+        'test-one': testOne,
+        'test-two': testTwo,
+        'test-three': testThree,
+      }[selectedTest]
+
+      // Calculate section scores and topic breakdown for full test
+      const sectionAAnswers = answers.filter(a => a.section === 'A')
+      const sectionBAnswers = answers.filter(a => a.section === 'B')
+
+      const sectionAScore = sectionAAnswers.length > 0 ? sectionAAnswers.filter(a => a.userChoice === a.answer).length / sectionAAnswers.length : 0
+      const sectionBScore = sectionBAnswers.length > 0 ? sectionBAnswers.filter(a => a.userChoice === a.answer).length / sectionBAnswers.length : 0
+
+      // Build topic breakdown
+      const topicBreakdown = {}
+      answers.forEach(a => {
+        if (!topicBreakdown[a.topic]) {
+          topicBreakdown[a.topic] = { correct: 0, total: 0 }
+        }
+        topicBreakdown[a.topic].total++
+        if (a.userChoice === a.answer) {
+          topicBreakdown[a.topic].correct++
+        }
+      })
+
+      onEndSession({ 
+        score, 
+        total: answers.length, 
+        topicStats,
+        sectionAScore,
+        sectionBScore,
+        topicBreakdown,
+        answers,
+        analysisRules: testData.analysisRules
+      })
+    } else {
+      onEndSession({ score, total: answers.length, topicStats, answers })
+    }
   }
 
   // Format time as MM:SS
@@ -140,7 +231,7 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
   };
 
   // Calculate progress percentage
-  const progressPercent = (index / questionCount) * 100;
+  const progressPercent = (index / questions.length) * 100;
   const timePercent = (time / duration) * 100;
 
   if (showSummary) {
@@ -153,7 +244,9 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
         <div className="absolute top-0 left-0 w-full h-full bg-[url('/pattern.svg')] opacity-5 z-0"></div>
         <div className="relative z-10">
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-bold text-white">Quiz Complete!</h2>
+            <h2 className="text-2xl font-bold text-white">
+              {isFullTest ? 'Full Test Complete!' : 'Quiz Complete!'}
+            </h2>
             <div className="quiz-status">
               {Math.round((score/answers.length) * 100)}%
             </div>
@@ -167,6 +260,23 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
                 <span className="text-indigo-200">/{answers.length}</span>
               </div>
             </div>
+            
+            {isFullTest && (
+              <div className="space-y-2 mb-4">
+                <div className="flex justify-between items-center text-sm">
+                  <span className="text-indigo-200">Section A (General)</span>
+                  <span className="text-white">
+                    {Math.round((answers.filter(a => a.section === 'A' && a.userChoice === a.answer).length / answers.filter(a => a.section === 'A').length) * 100)}%
+                  </span>
+                </div>
+                <div className="flex justify-between items-center text-sm">
+                  <span className="text-indigo-200">Section B (Massachusetts)</span>
+                  <span className="text-white">
+                    {Math.round((answers.filter(a => a.section === 'B' && a.userChoice === a.answer).length / answers.filter(a => a.section === 'B').length) * 100)}%
+                  </span>
+                </div>
+              </div>
+            )}
             
             {/* Topic progress bars */}
             {Object.entries(topicStats).map(([topic, stats]) => (
@@ -237,7 +347,14 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
                 style={{ width: `${progressPercent}%` }}
               ></div>
             </div>
-            <div className="ml-3 text-indigo-200 text-sm font-medium">{index + 1}/{questionCount}</div>
+            <div className="ml-3 text-indigo-200 text-sm font-medium">
+              {index + 1}/{isFullTest ? questions.length : questionCount}
+              {isFullTest && (
+                <div className="text-xs text-indigo-300">
+                  Section {current.section}
+                </div>
+              )}
+            </div>
           </div>
             <div className="quiz-question" dangerouslySetInnerHTML={{ __html: formatQuestion(current.question) }}></div>
           
@@ -288,7 +405,16 @@ export default function Quiz({ onComplete, duration, topics, questionCount }) {
         {/* Status bar */}
         <div className="flex items-center justify-between mb-6">
           <div className="quiz-status">
-            Question {index + 1}/{questionCount}
+            {isFullTest ? (
+              <div>
+                <div>Question {index + 1}/{questions.length}</div>
+                <div className="text-xs text-indigo-300">
+                  Section {current.section} {current.section === 'A' ? '(General)' : '(Massachusetts)'}
+                </div>
+              </div>
+            ) : (
+              `Question ${index + 1}/${questionCount}`
+            )}
           </div>
           <div className="quiz-status flex items-center">
             <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">

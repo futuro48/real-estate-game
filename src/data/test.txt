@@ -1,0 +1,4213 @@
+1. Concepts of Property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+2. Estates-Types, Creation, Transfer and Limitation . . . . . . . . . . 9
+3. Cooperatives, Condominiums, Condominium Conversion
+and Timesharing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+4. Leases, Options, Property Management and Insurance . . . . . . 27
+5. Deeds and Contracts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+6. Financing and Mortgages . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+7. Real Estate Brokerage and Agency... . . . . . . . . . . . . . . . . . . 75
+8. Brokers' Commissions or Fees . . . . . . . . . . . . . . . . . . . . . . . . 97
+9. Appraisal of Real Estate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+10. Fair Housing and Consumer Protection. . . . . . . . . . . . . . . . . . 117
+11. Environmental Protection . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129
+12. Zoning, Building Codes, Subdivisions and Plans . . . . . . . . . . 137
+13. Title Examination, RESPA and Closing Statements . . ..... . . 147
+14. Listing, Contract and Settlement Problems . . . . . . . . . . . . . . . 157
+15. Commercial-Investment Brokerage, Syndication, Exchanges
+and Installment Sales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+16. The License Law, Board of Registration and Licensing
+Requirements-Massachusetts . . . . . . . . . . . . . . . . . . . . . . . . . 179
+17. Real Estate Mathematics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 209
+18. Ethics and Your Career in Real Estate .... ... . . . ......... 239
+19. Review Tests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+
+
+QUESTIONS ON CONCEPTS OF PROPERTY
+1. An article that has become real estate by reason of its permanent attachment
+is:
+(A) A freehold (B) A fixture
+(C) An appendage (D) Personal property
+2. The general term of property means:
+(A) Real estate (B) Land
+(C) Real and personal property (D) Land and improvements
+3. When real property is sold, cut firewood is the property of the:
+(A) Seller (B) Buyer
+(C) Split between buyer and seller (D) Abutter
+4. When an item of personal property is annexed or attached to real property
+it is considered to be:
+(A) Chattel (B) A fixture
+(C) Personalty (D) Real estate
+5. A major factor in determining whether an item is real or personal property
+is:
+(A) Utility (B) Disposition
+(C) Annexation (D) Fixation
+6. Which of the following would be personal property?
+(A) Fence (B) Natural growing trees and plants
+(C) Trade fixtures (D) Air rights
+7. Physical types of personal property are:
+(A) Intangible (B) Tangible
+(C) Corporeal (D) Incorporeal
+8. Rights, benefits and improvements that transfer with title are:
+(A) Emblements (B) Appurtenances
+(C) Encumbrances (D) Chattels
+9. The four basic rights accompanying ownership of real property are:
+(A) Possession, control, quite enjoyment, disposition
+(B) Bundle of rights, air rights, mineral rights and escheat
+(C) Privacy, disposition, bundle of rights and escheat
+(D) Possession, bundle of rights, disposition and quiet enjoyment
+10. A taking by eminent domain must be:
+(A) Justified (B) For the public good
+(C) For a fair price (D) For the public good at a fair price
+11. Two of the most common limitations of the police power of a state are:
+(A) Eminent domain and taxation
+(B) Building codes and zoning by-laws
+(C) Control and escheat
+(D) Building codes and eminent domain
+12. A law of Descent and Distribution applies:
+(A) When a person over 18 leaves a will
+(B) When a witness to a will is a devisee
+(C) When there are no heirs
+(D) When a person dies intestate
+13. Acme Propane Co. has a gas line running under Avery's property. Acme
+has:
+(A) An easement appurtenant in a servient estate
+(B) An easement in gross in a dominant estate
+(C) An easement appurtenant in a dominant estate
+(D) An easement in gross in a servient estate
+14. In the above question, Acme holds:
+(A) An affirmative easement that runs with the land
+(B) A negative easement that may not run with the land
+(C) An affirmative easement that may not run with the land
+(D) A negative easement that runs with the land
+15. An easement is terminated by all EXCEPT:
+(A) Taking by eminent domain
+(B) Merger
+(C) Destruction of a servient tenament
+(D) A sale wherein the deed does not mention the easement
+16. A license in real estate:
+(A) Is transferred with title
+(B) Runs with the land
+(C) Passes to grantee's heirs
+(D) Grants authority to use without possession
+17. The use of right of way continuously for 21 years:
+(A) Confers a license (B) Confers a right of necessity
+(C) Confers a prescription right (D) Confers no right
+18. All of the following are easements appurtenant EXCEPT:
+(A) A utility easement (B) A joint driveway easement
+(C) A party wall agreement (D) A right of way
+19. Mr. Fifer's four dogs, kept in his yard, barked all night disturbing his
+neighbor's sleep. This is a (an):
+(A) Public nuisance (B) Private nuisance
+(C) Restrictive use (D) Encroachment
+20. The bay window in Fifer's dining room also hung 10" over the lot line
+between him and his neighbor. This is a (an):
+(A) Encroachment (B) Private nuisance
+(C) Restrictive use (C) Encumbrance
+21. An easement in gross is:
+(A) A negative easement (B) An encroachment
+(C) Attached to a property (D) Attached to a person
+22. A small towns' budget is $6,600,000. Its assessment roll is $960,000. A
+farm with an assessed value of $275,000 should have an ad valorem tax
+of:
+(A) $ 1,890.63
+(C) $349.09
+(B) $20,509
+(D) $2,196. 10
+
+Answers
+l. B 7. B 13. D 19. B
+2. C 8. B 14.B 20.A
+3.A 9.A 15. D 21. D
+4.B 10. D 16. D 22.A
+5. C 11. B 17. C
+6. C 12. D 18. A
+
+
+QUESTIONS ON ESTATES
+1. Title by adverse possession is referred to as:
+(A) Inheritance (B) Squatter's rights
+(C) Riparian rights (D) A lien
+2. The highest type of estate is known as:
+(A) Fee Simple Indeterminable (B) Fee Without Condition
+(C) Fee Simple Determinable (D) Fee Simple
+3. Estates consider the:
+(A) Amount and duration of property rights
+(B) Title to the property
+(C) Quality of property rights
+(D) Indefinite duration
+4. Fee simple absolute is:
+(A) Terminable by adverse possession
+(B) Of limited duration
+(C) Of infinite duration and without limitation
+(D) Uninheritable
+5. A woman's life estate in property owned by her deceased husband at the
+time of his death is:
+(A) Homestead (B) Curtesy (C) Dower (D) Nothing
+6. A life estate:
+(A) Terminates upon death of grantee (B) Is a fee upon condition
+(C) Is a fee determinable (D) Is a fee simple
+7. Under "dower and curtesy" rights, a surviving spouse is entitled to hold
+for life:
+(A) One-half of land owned by the deceased spouse *
+(B) Two-thirds of land owned by the deceased spouse
+(C) All of the land owned by the deceased spouse
+(D) One-third of land owned by the deceased spouse
+8. Property held by two or more persons, together with distinct character of
+survivorship is:
+(A) Tenancy in common (B) Joint tenancy
+(C) Remainder (D) Life estate
+9. Title to most residential real estate in this state is held as: *
+(A) Tenancy by the entirety (B) Joint tenancy
+(C) Tenancy in common (D) Dower and curtesy
+10. A husband or wife may not convey any part of realty without having the
+spouse join in the deed of:
+(A) Tenancy in common (B) Tenancy by the entirety
+(C) Joint tenancy (D) The remainder
+J 1. A form of estate held by two or more persons, each of whom is considered
+as being possessed of his share of the whole is:
+(A) Tenancy in common (B) Tenancy by the entirety
+(C) Joint tenancy (D) Remainder
+12. A distinction of tenancy by the entirety is:
+(A) Each owner holds an individual interest in severalty
+(B) Owners have right of survivorship
+(C) It is a joint tenancy restricted to husbands and wives
+(D) One-half of property is owned by surviving spouse
+13. A lien is:
+(A) An encumbrance (B) A judgment (C) An attachment (D) A right
+14. Acme Electrical Supply provides material to Sam the electrician who
+does not get paid for the work he did on the Smith property.
+(A) Sam may file a lien against Smith's property
+(B) Acme Supply may file a lien against Smith's property
+(C) Sam and Acme may both file liens against Smith's property
+(D) Neither may file a lien against Smith's property
+15. The rear lot line of Smith's property is a brook.
+(A) Smith owns the brook (B) Smith owns to the far bank
+(C) Smith owns to the near bank (D) Smith owns to the middle
+16. Unless contained within one owner's property, surface water of a great
+pond within a town is under control of:
+(A) All abutting owners (B) The state (C) The county (D) The town
+17. Boyes owns shore frontage on Buzzard's Bay. His land runs to the:
+(A) High water line (B) Mean low water line
+(C) Mean high water line (D) Low water line
+18. A Municipal Lien Certificate is required:
+(A) At time of conveyance
+(B) When the municipality files a tax lien
+(C) When a deed is recorded
+(D) When obtaining a mortgage
+19. An owner may utilize his air rights:
+(A) In accordance with local zoning ordinances
+(B) As he wishes
+(C) Only if he does not cause inconvenience or discomfort to abutters
+(D) If he does not obstruct sunlight from abutters
+20. The drainage of a shopping center parking lot causes flooding on an
+abutter's (Smith) land after exceptionally heavy rains.
+(A) Smith has no recourse for damages or correction of the problem
+(B) Smith has recourse
+(C) Smith has partial recourse because of infrequency of flooding
+(D) Smith may file for Servient Estate
+21. The size of a waterfront lot may be increased by all of the following
+EXCEPT:
+(A) Accretion (B) Avulsion (C) Affiant (D) Alluvion
+22. A Municipal Lien Certificate would be obtained from:
+(A) The state Registry of Deeds
+(B) The local tax collector
+(C) The local county Registry of Deeds
+(D) The attorney for the seller
+23. W, X, Y and Z are joint tenants. W wills his interest to A and dies. X then
+dies. The state of the title is:
+(A) 2/3 in Y and Z and 1/3 in A as a joint tenant
+(B) 1/4 in Y, 1/4 in Z, 1/4 in X's heirs, and 1/4 in A
+(C) 1/3 in Y, 1/3 in Zand 1/3 in A
+(D) 1/2 in Y and 1/2 in Z
+24. X and Y are joint tenants. X conveys his interest to Z. The relationship
+between Z and Y is:
+(A) Tenants by the entirety
+(C) Tenants in common
+25. A freehold estate is one in which:
+(A) Duration is limited
+(B) Duration is indefinite
+(C) There is no ownership of title
+(B) Tenants at sufferance
+(D) Joint tenants
+(D) Dower and curtesy play an important part
+26. The lien with the greatest priority of the following is:
+(A) Any mechanics lien (B) The first lien recorded
+(C) A vendor lien (D) A special assessment lien
+27. In a tenancy in partnership, the following are true EXCEPT:
+(A) Partners have equal rights
+(B) Conveyed property requires signatures of all partners and spouses
+(C) Partners share equally in profits
+(D) Partners generally conduct business for profit
+Answers
+1. B 8. B 15. D 22.B
+2.D 9.A 16. B 23. D
+3.A 10. B 17. B 24. C
+4. C II. A 18. A 25. B
+5. C 12. C 19. A 26. D
+6.A 13. A 20. B 27. B
+7. D 14. C 21. C
+
+
+QUESTIONS
+1. A condominium owner:
+(A) Gets his own mortgage (B) Is covered by a blanket mortgage
+(C) Is ineligible for a mortgage (D) Is a stockholder
+2. A high rise condominium owner owns all of the land:
+(A) Under his unit (B) In front of his unit
+(C) Behind his unit (D) None of the land
+3. A condominium owner:
+(A) Shares his tax bill with others
+(B) Is billed directly for taxes
+(C) Is not billed directly for taxes
+(D) Pays his share of a blanket tax bill.
+4. Title to ownership of a condo unit is vested in:
+(A) The corporation
+(B) The condominium association
+(C) The individual owner of each unit
+(D) The board of managers
+5. Title to units in a cooperative is vested in:
+(A) The corporation
+(B) The co-op association
+(C) The owner-shareholder of each unit
+(D) The manager
+6. The master deed to a condo is recorded in:
+(A) The city or town hall (B) The assessor's office
+(C) The county courthouse (D) The county registry of deeds
+7. Mortgage interest and taxes are deductible under federal tax laws by all
+EXCEPT
+(A) A cooperative tenant-shareholder
+(B) The owner of a condo unit
+(C) The weekly owner of a timeshare unit
+(D) The unit owner of a dockominium
+8. If several tenant-shareholders of a cooperative have not paid their
+monthly payments or assessments to the corporation so that the corporation
+defaults in its mortgage payments, foreclosure proceedings may be
+started against:
+(A) The shareholders who didn't pay (B) The corporation
+(C) The management (D) Each shareholder
+9. The buyer-shareholder of a cooperative apartment:
+(A) Becomes a stockholder in the corporation and receives a
+proprietary interest
+(B) Owns his unit
+(C) Signs a lease
+(D) Has no voice in management
+10. Condominium form of ownership applies to all EXCEPT:
+(A) Apartments (B) Office buildings
+(C) Other types of multi-unit buildings (D) Hospitals
+11. An owner of a condo unit has:
+(A) Absolute ownership (B) Partial ownership
+(C) Shares of stock (D) A lease
+12. A condo owner has an interest or share in all EXCEPT:
+(A) The land or plot on which the condo is located
+(B) The parking lot
+(C) The roof
+(D) Chapter 183A
+13. The owner of a condo unit pays his share for common areas for all
+EXCEPT:
+(A) Insurance
+(C) Maintenance
+(B) Repair
+(D) Community property
+14. A "Condominium Declaration" is:
+(A) The charter of the condominium
+(B) An agreement to abide by the bylaws
+(C) A declaration of faith by the unit owner that he will contribute to
+maintenance of common areas
+(D) A declaration by the unit owner that he will pay his condo fee on time.
+15. A common area in a condo is one that:
+(A) Is not found in every type condo
+(B) Every unit owner has an interest in
+(C) Is not shown on the floor plan
+(D) Is not described in the Master Deed
+16. A floor plan shows:
+(A) Interior layout (B) Exterior layout
+(C) Type of floors (D) Building inspector's certification
+17. Condo bylaws govern the operation of:
+(A) Elevators (B) Janitors
+(C) The condo association (D) Who will mow the lawn
+18. Unit organization bylaws provide for all EXCEPT:
+(A) Maintenance and repairs
+(B) Collection of common expenses
+(C) Hiring of a management agent
+(D) Duties of the management agent
+19. For real estate purposes, common areas are:
+(A) Taxable (B) Not taxable
+(C) Assessed low (D) Assessed the same as units
+20. In a condo conversion, a tenant given an owner-signed P&S has how
+many days to accept or reject?
+(A)90 (B)75 (C)60 (D)30
+21. Condo and coop owners have the following in common:
+(A) Ownership of their units
+(B) Income tax deduction for interest and taxes
+(C) Both are stockholders
+(D) Both pay monthly rent
+22. Timesharing ownership is all EXCEPT
+(A) Generally divided into 50 weekly time periods
+(B) Used in resort or vacation areas
+(C) Can be used for condominiums
+(D) Weekly time periods must be consecutive
+23. At closing of a resale condo, the following is necessary:
+(A) Master insurance policy (B) Floor plan
+(C) Condo declaration (D) Manager's verification
+24. When an apartment building is to be converted to a condo, the following
+are true EXCEPT
+(A) Special protection must be given the elderly
+(B) Tenants must be given one year to vacate
+(C) Handicapped persons must be given three years to vacate
+(D) Protected categories must be given two years to vacate
+
+25. Unit 22 consisting of 1,755 sq. ft. is part of Ace Condominiums which
+contains 30,100 sq. ft. The annual budget for common areas and facilities
+is $23,300. What is the percentage and monthly cost of Unit 22's
+individual interest?
+(A) 5.8% - $112.62
+(C) 7.2% - $137.70
+(B) 6.0% - $116.11
+(D) 7.7% - $149.57
+
+Answers
+I.A 6. D
+2.D 7. C
+3. B 8. B
+4. C 9.A
+5.A 10. D
+11. A 16. A
+12. D 17. C
+13. D 18. D
+14. A 19. B
+15. B 20.A
+26
+21. B
+22. D
+23.A
+24.C
+25.A
+
+
+QUESTIONS
+LEASES AND OPTIONS,
+PROPERTY MANAGEMENT and INSURANCE
+1. A lease which requires the tenant to pay all expenses of the property in
+addition to his rent is called a (an):
+(A) Gross lease (B) Assigned lease
+(C) Percentage lease (D) Net lease
+2. Which one of the following types of tenancies does not apply to a lessorlessee
+relationship?
+(A) Tenancy at will (B) Tenancy in common
+(C) Tenancy for years (D) Leasehold
+3. Transfer of a lease for the balance of the term is:
+(A) A sublease (B) Illegal
+(C) A breach (D) An assignment
+4. The owner of real estate who leases it to another is a:
+(A) Lessor (B) Optionee (C) Vendee (D) Lessee
+5. The following will terminate a lease EXCEPT:
+(A) A breach (B) Surrender (C) Vacancy (D) Eminent Domain
+6. When a leased property is sold, the sale has the following effect upon the
+tenant:
+(A) Tenant must record lease in recorder's office
+(B) Tenant must obtain assignment from purchaser
+(C) No effect unless lease is for seven or more years and lessee has not
+recorded it
+(D) Tenant must move out after 30 days' notice
+7. In an option agreement there is usually no legal interest in the land until
+the option is:
+(A) Revoked (B) Considered (C) Exercised (D) Denied
+8. The legal compensation of income received from the use of real property
+is called:
+(A) Ground rent (B) Interest (C) Rent (D) Owner's equity
+9. A clause, in a lease, by which the lessor agrees with the lessee that the
+latter shall have the right to purchase the property at the same price as
+offered by a prospective purchaser, is called:
+(A) An option clause (B) First right of refusal clause
+(C) An election clause (D) A prime clause
+10. A lease cannot be recorded unless it is acknowledged by the:
+(A) Lessee (B) Vendee (C) Vendor (D) Seller
+11. A property manager should manage a property as if he was:
+(A) Getting a salary
+(B) Getting a salary plus commission
+(C) Getting a percentage of the gross
+(D) The owner of the property
+12. A lease may be terminated:
+(A) If the lessor interferes with tenant's quiet enjoyment
+(B) If property is sold by lessor
+(C) If lessor became delinquent in his mortgage payments
+(D) If 5 day "notice to quit" is given lessee
+13. A sub-lease is for:
+(A) Basement premises
+(B) The entire premises
+(C) A portion of the leased premises
+(D) A portion of or balance of the term
+14. A lease for less than one year:
+(A) May be oral
+(B) Must be in writing
+(C) May be "by handshake"
+(D) Must be reduced to writing within one year
+15. Apart from the actual sale of real estate there are two areas in which the
+broker plays a significant role. They are:
+(A) Rentals and leases (B) Tenancies at will and tenancy for years
+(C) Landlord and tenant (D) Leases and options
+16. A tenancy at will is:
+(A) Tenancy for a specified duration
+(B) Possession of property under a will
+(C) Life estate
+(D) Tenancy for an unspecified duration
+17. A real estate broker usually represents:
+(A) The lessor (B) An adverse party
+(C) Lessor and lessee (D) Lessee
+18. A leased interest in property is what kind of an estate?
+(A) Non-freehold (B) Periodic (C) Freehold (D) Tenancy for years
+19. A lease which provides for a step-by-step increase in rent at regular
+intervals is what kind of lease?
+(A) Accelerated (B) Percentage (C) Open (D) Graduated
+20. A lease basing rental on portion of gross sales with a guaranteed minimum
+is what kind of lease?
+(A) Percentage (B) Net (C) Accelerated (D) Graduated
+21. Another term is sometimes used for "tenancy for years." It is:
+(A) Household (B) Lease hold (C) Option (D) Periodic tenancy
+22. Net return on investment property is computed by deducting all expenses
+from:
+(A) Gross annual income
+(B) Gross annual income less depreciation
+(C) Net income
+(D) Gross annual income less taxes.
+23. Fixtures under ordinary lease, at the expiration of the lease will be the
+property of:
+(A) Lessor (B) Lessee (C) Mortgagee (D) Ground rent owner
+24. Dispossession of a tenant by a landlord is known as:
+(A) A forfeiture (B) Breach (C) Waiver (D) Eviction
+25. A security deposit must be returned after a tenant moves out within:
+(A) Five days (B) Twenty days (C) Thirty days (D) Sixty days
+26. A security deposit can be no more than:
+(A) 1 month's rent (B) 2 months' rent
+(C) 3 months' rent (D) 4 months' rent
+27. Interest paid on security deposits held for 365 days or more minus damages
+shall be:
+(A) 2% (B) 3% (C) 4% (D) not more than 5%
+28. Extended coverage is a rider generally attached to a:
+(A) Rent insurance policy (B) Surety bond
+(C) Comprehensive coverage policy (D) Standard insurance policy
+29. Tenant A advises Agent B he wishes insurance to cover any rent difference
+he may incur after a fire. B should recommend:
+(A) Rent insurance (B) Leasehold insurance
+(C) Business interruption (D) Landlord/tenant liability
+30. Dow gave Lowe a 30 day option to buy Dow's lot for $12,000. The following
+statements are correct EXCEPT:
+(A) Dow is the optionor
+(B) Lowe is the optionee
+(C) Lowe can assign his option to a third party
+(D) Dow can make Lowe purchase within 30 days
+31. In order to establish appropriate rental rates, a property manager must:
+(A) Analyze the competition
+(B) Meet or beat competitive units
+(C) Analyze vacancy rates and market conditions
+(D) Prepare an annual operating statement
+32. A security deposit for a three month rental on Cape Cod:
+(A) May not exceed one month's rent
+(B) May not exceed the first and last months' rent
+(C) Is not required
+(D) Must earn not more than 5% interest
+33. Sommes, a tenant at will, pays his rent on the 15th day of each month.
+On the 14th of April he received a notice to quit from his landlord. How
+long does he have to vacate the property?
+(A) 60 days (B) 30 days (C) 16 days (D) 15 days
+34. In a triple net lease, the tenant pays all expenses EXCEPT:
+(A) Insurance (B) Taxes (C) Repairs (D) Lessor's mortgage
+35. Four years still remain of a ten year lease. What kind of estate does the
+tenant hold in the property?
+(A) Reversionary interest (B) Freehold
+(C) Tenancy for years (D) Non-freehold
+36. In a lease, habitability of the premises is:
+(A) An implied warranty (B) Guaranteed
+(C) A forgone conclusion (D) No guaranteed
+37. That clause in a lease which relieves the landlord from liability for a tenants'
+personal injury in common areas is a (an):
+(A) Exception (B) Defeasance
+(C) Exculpatory (D) Errors and Omissions
+38. A true security deposit is:
+(A) One month's rent
+(B) First and last month's rent and a change of lock fee
+(C) Three month's rent
+(D) Change of lock fee and three month's rent
+
+Answers
+1. D 11. D 21. B
+2. B 12. A 22.A
+3. D 13. C 23.A
+4.A 14. B 24. D
+5.C 15. D 25. C
+6.C 16. D 26.A
+7. C 17. A 27. D
+8. C 18.A 28. D
+9. B 19. D 29.B
+10. A 20.A
+30. D
+31. C
+32. C
+33. B
+34. D
+35. D
+36.A
+37. C
+38.A
+
+
+QUESTIONS
+DEED AND CONTRACTS
+I. Actual consideration to a deed is:
+(A) Essential (B) Not essential
+(C) Not important (D) Need not be recited
+2. The fact that a deed does not contain covenants:
+(A) Prevents title from passing (B) Makes the deed confusing
+(C) Does not prevent ti tle from passing (D) None of the above
+3. Building and zoning bylaws as a police power:
+(A) Are not considered to be encumbrances
+(B) Never impede use
+(C) Should be considered a type of encumbrance
+(D) Are restrictions in a deed
+4. In a conveyance of real estate, all rights, easements, privileges, etc ., shall
+be included:
+(A) Subject to the grantor's approval
+(B) Subject to the grantee's approval
+(C) Unless the contrary shall be stated in the deed
+(D) Unless they are only apparent
+5. A deed must contain:
+(A) A conveying clause (B) Reference to any mortgage
+(C) A granting clause (D) Signatures of subscribing witnesses
+6. The deed that provides the greatest protection is:
+(A) Quitclaim (B) Warranty
+(C) Special warranty (D) Quitclaim with warranty
+7. A land description in a deed is best described by:
+(A) Street address (B) Metes and bounds
+(C) Abutting owners (D) Monuments
+8. A description of land in a deed:
+(A) Refers to all monuments
+(B) Always contains a street number
+(C) Includes everything annexed to it
+(D) Always describes buildings
+9. A deed, to be completely effective, should be:
+(A) Signed (B) Delivered (C) Recorded (D) Acknowledged
+10. The type of deed in which the grantor warrants the premises to be free
+of encumbrances made by him is:
+(A) Warranty (B) Special warranty
+(C) Quitclaim (D) Certificate of title
+11. A restrictive covenant in a deed if recorded:
+(A) ls unenforceable.
+(B) Will continue for life
+(C) If not enforced may become void after 30 years
+(D) Becomes void when recorded
+12. The right of a gas company to lay pipe along the rear lot line of Lot D,
+Boyberry Subdivision is:
+(A) An easement (B) An encroachment right
+(C) A restriction (D) A covenant
+13. A recorded deed will show:
+(A) That it was delivered
+(B) Time of execution
+(C) The book and page number of the registry in which recorded
+(D) The original owner
+14. The Torren's System:
+(A) Settles title claims
+(B) Guarantees freedom from all claims
+(C) Registers title with the Land Court
+(D) Allows only bank attorneys to search titles
+15. Question deleted:
+(A) Federal stamps of $1.10/$1000 (B) State stamps of $4.28/$1000
+(C) Federal stamps of $2.281$1000 (D) State stamps of $2.28/$500
+16. Smith executed a deed to his niece Jones citing the consideration as
+"love and affection". The deed is:
+(A) Invalid (B) Valid (C) Foolish (D) Incomplete
+
+17. A contract having no legal effect because it does not have all necessary
+requirements of contract is:
+(A) Voidable (B) Cancelled (C) Void (D) Unenforceable
+18. A property is listed with broker Bixby for $98,000. Bixby delivers an
+offer of $96,000 which is rejected. He obtains another offer of $98,000.
+While presenting it, he receives a call at the property from the offeror
+withdrawing it. There is:
+(A) No contract
+(C) An express contract
+19. The following statements
+EXCEPT:
+(B) An implied contract
+(D) A unilateral contract
+regarding offer and acceptance
+(A) An offer may be withdrawn before being accepted
+(B) An offer remains in effect until terminated or withdrawn
+are true
+(C) An offer is terminated and automatically rejected if a counter offer
+is made
+(D) An offer and acceptance need not be communicated
+20. The doctrine of laches:
+(A) Permits assignment of a contract
+(B) Is a breach of contract remedy
+(C) Makes a contract binding
+(D) Prevents unfair relief that is detrimental to a party being sued
+21 . A unilateral contract is enforceable against:
+(A) The offeree (B) The offeror
+(C) Both offeree and offeror (D) Neither offeree nor offeror
+22. A metes and bounds description should include the following EXCEPT:
+(A) Identification of town and county
+(B) Reference to a point of the beginning
+(C) Distances
+(D) Compass courses or angular bearings
+23. A street address, city and state is an acceptable means of describing a
+property in a:
+(A) Contract of sale (B) Mortgage (C) Deed (D) Lease
+24. The rights of an owner to utilize a lot for a specific purpose may not be
+limited by which of the following:
+(A) Zoning (B) Deed restrictions
+(C) Building codes (D) Subdivision control
+25. In order for a deed to be recorded it must:
+(A) Be signed by the grantees
+(B) Have the grantor's signature notarized
+(C) Contain the street address of the property
+(D) Be typed and capable of being photocopied
+26. A deed, when recorded:
+(A) Is valid against the grantee
+(B) Takes precedence over a mortgage
+(C) Is "constructive notice"
+(D) Protects the grantor's devisees
+
+
+27. Topical lines on a plan indicate:
+(A) Land contours (B)Wetlands
+(C) Metes and bounds (D) Tropical climate
+28. A deed conveying only a foreclosed interest is a:
+(A) Sheriff's deed (B) Bargain and Sale deed
+(C) Foreclosure deed (D) Special Warranty
+
+Answers:
+1. B 8. C 15. 22.A
+2. C 9. C 16. B 23. D
+3. C 10. C 17. C 24. D
+4.C 11. C 18. A 25.B
+5. C 12. A 19. D 26. C
+6. B 13. A 20. D 27.A
+7.B 14. C 21. B 28. A
+
+
+QUESTIONS
+FINANCING AND MORTGAGES
+I. After a foreclosure sale:
+(A) Foreclosed mortgagor has right of redemption
+(B) Foreclosed mortgagor has entitlement to proceeds in excess of
+unpaid balance of the loan
+(C) Mortgagor has recourse
+(D) The public is notified of the sale price
+2. A mortgage in Massachusetts is all of the following EXCEPT:
+(A) Conveyance of equitable title to the lender
+(B) A lien
+(C) An encumbrance
+(D) A recordable legal document
+3. A mortgagor with a direct reduction loan will:
+(A) In the long run, actually pay a higher rate of interest than the rate
+stated
+(B) Make equal monthly payments for the term of the loan
+(C) Amortize his loan over 20 years
+(D) Avoid default
+4. All of the following are advantages of an FHA insured loan EXCEPT:
+(A) Lower down payment
+(B) Lower interest rate
+(C) Buyer is protected with FHA insurance
+(D) Enables young marrieds to buy a home
+5. The sale of property by foreclosure:
+(A) Requires payment of a commission to the selling broker
+(B) Terminates a listing of the property with the broker
+(C) Satisfies all liens and mortgages
+(D) Gives the mortgagor a redemption period
+6. Liquidation of a debt by periodic installments is:
+(A) Amortization (B) An annuity
+(C) Principal, interest and taxes (D) Arbitrage
+7. A mortgage where the mortgagee retains title until the mortgage is paid
+off is considered a (an):
+(A) Lien (B) Contract for deed
+(C) Intermediate theory mortgage (D) Title theory mortgage
+8. A clause in a mortgage which permits due dates of payments to be
+advanced by the mortgagor is:
+(A) A prepayment penalty (B) A prepayment privilege
+(C) Acceleration (D) A covenant
+9. A mortgage deed includes the right:
+(A) For the mortgagor to retain title
+(B) For the mortgagee to retain title
+(C) For the mortgagor to redeem title when mortgage is discharged
+(D) For the mortgagor to prepay the loan without penalty
+10. Default can be claimed against a mortgagor for all EXCEPT:
+(A) Failing to abide by an "or more" clause in the mortgage
+(B) Removing improvements
+(C) Failing to keep property insured
+(D) Failing to keep property in good repair
+11. Most mortgage loans are direct reduction and:
+(A) Always include balloon payments
+(B) Never include balloon payments
+(C) Amount of each monthly payment applied to principal remains the
+same
+(D) Constant payment will pay off principal at maturity
+12. A 2'h point discount on a $43,500 loan would be:
+(A) $1,087.50 (B) $870.00 (C) $1,075.00 (D) $970.00
+13. A federal savings and loan association must insure deposits up to:
+(A) $50,000 (B) $ l 00,000 (C) $40,000 (D) $125,000
+14. An institutional lender, by definition, includes the following EXCEPT:
+(A) Savings and loan associations (B) Commercial banks
+(C) Credit unions (D) Pension funds
+15. A conventional mortgage may be:
+(A) Approved by the VA
+(B) A commercial loan
+(C) Insured by FHA
+(D) Made at an interest rate set by a government agency
+16. Interest on an 8% loan for six months was $50.00. Principal on the
+Joan is:
+(A) $1,250 (B) $1,200 (C) $1,225 (D) $625
+17. A seller who takes back a mortgage as part of the purchase price with a
+buyer who obtains a 1st mortgage holds:
+(A) A package mortgage (B) A wrap-around
+(C) A purchase money mortgage (D) A bridge loan
+18. A mortgage which may be increased by subsequent advances of principal
+which do not exceed the original loan is:
+(A) A wrap-around (B) An open end
+(C) Accelerated (D) Package
+19. The type of mortgage in which the lender assumes payment of an existing
+mortgage and gives a new and larger mortgage is:
+(A) Wrap-around (B) Package
+(C) Blanket (D) Leasehold
+20. How many installment payments are required before Regulation Z disclosure
+is required?
+(A) Two (B) Three (C) Four (D) Five
+21. A home buyer can do which of the following:
+(A) Pay more than the FHA appraisal but not more than the CRV
+(B) Pay more than either the FHA appraisal or CRV
+(C) Pay more than the CRV but not more than the FHA appraisal
+(D) Pay up to three points discount on an FHA mortgage
+22. A VA loan may be granted for purchase of a four family dwelling if:
+(A) Rents equal monthly mortgage payments
+(B) Term of loan does not exceed 15 years
+(C) Property is in excellent condition
+(D) Veteran certifies he will occupy property
+23. The following are true EXCEPT:
+(A) FNMA funds are available to buy VA, FHA and conventional loans
+(B) FNMA loans are not for resale to private lenders
+(C) FNMA is a quasi-governmental agency
+(D) FNMA offers a 30 year "two step mortgage"
+24. Under Truth in Lending which of the following is permissible to advertise
+alone?
+(A) $250 per month (B) 12% interest
+(C) Reasonable monthly terms (D) $5,000 down
+25. Under Regulation Z, the borrower, except in the case of a purchase
+money mortgage to buy or construct a home, has a right of rescission of:
+(A) 24 hours (B) Two calendar days
+(C) 72 hours (D) Three business days
+26. Only one of the following is not included in the "finance charge" under
+Regulation Z:
+(A) Attorney's fees (B) Points
+(C) Service charges (D) Loan finder fee
+27. A mortgagee may give notice of a pending legal action that may affect a
+property's title by filing a:
+(A) Civil suit (B) Notice of lis pendens
+(C) Foreclosure action (D) Notice of trustee's sale
+28. Which of the following would NOT be used in financing real estate:
+(A) Mortgages (B) Deeds of trust
+(C) Contracts of sale (D) Promissory notes
+29. A sold property requiring by agreement that the buyer make monthly
+payments to the seller who will deliver a deed upon receipt of final payment
+is sometimes known as:
+(A) A mortgage assumption
+(B) A mortgage take-over
+(C) A land sales contract
+(D) A purchase money mortgage
+30. The following covenants usually are found in a mortgage EXCEPT a
+covenant:
+(A) To provide insurance
+(B) Against removal
+31. A Bridge Loan
+(C) Of quiet enjoyment
+(D) Of good repair
+(A) Is a form of construction loan
+(B) Contains a prepayment penalty
+(C) Is long-term financing contingent upon lower rates
+(D) Is used to finance purchase of a new home until old home is sold
+32. A forecloses on a loan which was originated for B at $109,000 and
+which has been amortized to $90,000. Ten months ago, C bought the
+property from B for $10,000 subject to the mortgage. A receives $82,500
+at the foreclosure sale. Which of the following is true?
+(A) A by foreclosing is limited to $82,500
+(B) A may collect $17,500 from C
+(C) A may collect $7,500 from C
+(D) A may collect $7,500 from B
+33. Insurance covering loss of earnings as a result of an uninsured peril is
+called:
+(A) Business interruption (B) Homeowners
+(C) Liability (D) Casualty
+34. The type of insurance required by the licensing board before renewal of
+a broker's license is:
+(A) Casualty (B) Liability
+(C) Workmen's Compensation (D) Surety Bond
+35. A judicial foreclosure is:
+(A) A court supervised sale
+(B)Presided over by a judge
+(C) Auctioned off by a judge
+(D) One in which any bid is accepted
+36. Ames made the top bid at an auction. His bid was rejected. Which type
+of auction was he attending?
+(A) Absolute (B) Minimum (C) Reserve (D) Statutory
+37. An investor may find a Mass. Housing Finance Agency bond offering
+attractive because:
+(A) MHFA seldom makes an offering
+(B) Dividends are higher than other bonds
+(C) Not much money is required
+(D) Dividends will be tax exempt
+38. Rosen had a gross income of $55,000 and would pay monthly P.I.T of
+$1100 plus insurance on the house he was buying. His car payment was
+$250/mo. Acme Cooperative used a 36% formula when reviewing
+Rosen's application.
+(A) Acme rejected Rosen
+(B) Acme approved Rosen
+(C) Rosen was marginal, Acme rejected
+(D) Rosen was marginal, Acme accepted
+39. To qualify for an MHFA loan, an applicant must be:
+(A) A minority (B) On welfare
+(C) Creditworthy (D) Priority borrower
+40. A defeasance clause in a mortgage provides for:
+(A) Mortgage insurance
+(B) Mortgagee's right to foreclose
+(C) Mortgagor's liability for deficiency in event of foreclosure
+(D) Cancellation of the mortgage upon payment of the note
+41. Increasing the points asked to obtain a mortgage in a level economy
+should have what effect on a loan?
+(A) Shorten the term
+(B) Pay the premium for mortgage insurance
+(C) Reduce the interest
+(D) Allow prepayment privilege without penalty
+42. A prepayment privilege in a mortgage gives the mortgagor the right to:
+(A) Pay off mortgage before due date without penalty.
+(B) Make monthly payments before due date
+(C) Let a new buyer assume the mortgage
+(D) Pay off mortgage before due date but with penalty
+43. HUD's Fraud Protection Program protects homebuyers from:
+(A) Predatory lending practices
+(B) Cost free counseling
+(C) High interest rates
+(D) Below market appraisals
+44. Masshousing's ability to adjust income and price limits is determined
+by:
+(A) The Governor
+(B) The legislature
+(C) The State Banking Commission
+(D) U.S. Treasury and HUD
+45. FNMA is all but the following:
+(A) Foremost in the secondary market
+(B) Has introduced attractive financing programs
+(C) Federal Court approved
+(D) Shareholder owned
+
+Answers:
+I. B 9. C 17. C 25. D
+2.A 10.A 18. B 26.A
+3.B 11. D 19. A 27. B
+4.C 12.A 20.D 28. C
+5. B 13. B 21. B 29. C
+6.A 14. D 22. D 30. C
+7. D 15. B 23. B 31. D
+8. B 16. A 24. C
+32. D 39. C
+33.A 40.D
+34. D 41. C
+35.A 42.A
+36. C 43.A
+37. D 44.D
+38. B 45. C
+
+
+BROKERAGE QUESTIONS
+1. A broker may engage the services of a licensed salesman as any EXCEPT:
+(A) An employee (B) A manager
+(C) An independent contractor (D) An appraiser
+2. A broker cannot buy for himself a property:
+(A) In which he has an interest
+(B) Without showing his license
+(C) Without disclosing same to the seller
+(D) Unless he has the listing
+3. A broker's first obligation in a transaction is to
+(A) The buyer (B) The seller
+(C) The one who hired him (D) Both seller and buyer
+4. "Caveat Emptor" means:
+(A) Let the seller beware (B) Let the buyer beware
+(C) Let the consumer beware (D) Let the broker beware
+5. A broker's relationship to a seller or buyer is that of:
+(A) Fiduciary (B) Dual agency
+(C) Implied agency (D) Bonded-licensee
+6. A broker's relationship to a seller and buyer is that of:
+(A) Fiduciary (B) Dual agency
+(C) Implied agency (D) Apparent authority
+7. A listing may be terminated by all EXCEPT:
+(A) Expiration of time period (B) Sickness
+(C) Death (D) Bankruptcy
+8. A seller wishes to net $91,000 and advises the broker he can keep anything
+he can get above that price. The listing is all EXCEPT:
+(A) Illegal (B) An open listing
+(C) A net listing (D) Prohibited in Massachusetts
+9. A seller wishes to net $30,000 and the broker's commission is 6%, the
+gross listing price should be:
+(A) $31,915 (B) $28,200 (C) $31,800 (D) $31,919
+10. A broker received a commission of $2520 on a $36,000 sale. What percentage
+did he charge?
+(A) 5% (B) 6% (C) 7% (D) 8%
+11. A listing broker with an "exclusive right to sell" for a listed price of
+$93,500, received an offer from Broker A for $93,300. Before he had
+time to present it, Broker B brought him an offer of $93,500 and Broker
+Ca firm offer of$93,700. Which offer should the listing broker present
+to the seller?
+(A) None of them
+(C) The first offer
+(B) Broker C's firm offer
+(D) All of them
+12. If an offer of $82,600 was made and the seller refused it, but countered
+with $83,000, the buyer is:
+(A) Relieved of his original offer
+(B) Bound to accept the counter offer
+(C) Still bound to his original offer
+(D) Still bound to the transaction
+13. A court order requiring a defendant to comply with the terms of a real
+estate contract is called:
+(A) Specific performance (B) Liquidated damages
+(C) Violation of agency (D) Order of fulfillment
+14. Broker A holds an "exclusive listing" on a property for $80,000. His fee
+is 5%. Broker B is a subagent. Property is sold by the owner. Broker A
+gets:
+(A) $4,000 (B) $2,000 (C) $1,000 (D)$0,000
+15. You are listing a 3BR, l 1h bath ranch in good condition, with 2 car
+detached garage, no basement, and an 18,345 sq. ft. lot. Six months ago,
+under similar market conditions, you sold a similar ranch, also in good
+condition and located 3 houses away, with 1 car detached garage,
+screened porch and on an 18,000 sq. ft. lot for $71,500. If asked by the
+owner what price would you suggest the property be listed for?
+(A) $71,000 (B) $71 ,500 (C) $72,500 (D) $7 1,700
+16. The maximum commission a broker may charge for the sale of 1-4 family
+residences is.
+(A) Determined by the real estate commission
+(B) Determined by broker's contract with the seller
+(C) Determined by the local Board of Realtors
+(D) No more than the prevailing rate
+17. A contract which provides for payment of a fee to a broker even though
+the owner makes a sale without the broker's aid is called:
+(A) Exclusive listing (B) Exclusive right to sell
+(C) Open listing (D) MLS listing
+18. Broker A sold a property to Chafe. The sales contract contained a provision:
+buyer to accept property in an "as is" condition. The seller and A
+knew there was a septic tank problem but did not tell Chafe. Would
+Chafe have any course of action against A?
+(A) No. The contract stated "as is"
+(B) No. The "as is" provision was evidence of a meeting of the minds
+(C) Yes. The duty to discharge a known fact cannot be avoided by an
+"as is" clause
+(D) Yes. "As is" refers only to interior defects.
+19. Adams offered Damon, through broker Daniels, $92,000 for his property
+listed at $98,000. The offer was accompanied by a $3,000 deposit.
+Damon countered with $95,500 which Adams accepted contingent upon
+his obtaining a mortgage in the amount of $85,950 for 25 years at 12%
+interest. Damon agreed subject to Adams giving an additional $2,000
+deposit which Adams reluctantly did. Two months later broker Daniels
+advised Damon that Adams had been declined by four lenders and wanted
+his deposit back. Damon authorized Daniels to return the deposit
+from his interest-bearing account.
+(A) Adams received only $5,000
+(B) Damon received the interest
+(C) Daniels legally retained the interest
+(D) Adams received $5,000 plus interest
+20. The relationship of a broker to an owner in a listing agreement is that of:
+(A) Special agent (B) Limited agent
+(C) General agent (D) Listing agent
+21. Seller Bird has accepted an offer of $156,000 from Buyer Wing and both
+sign a P&S. Prospect Song submits an offer of $157,000 through a cobroker.
+What would you do?
+(A) Tell the co-broker the property is sold
+(B) Tell Buyer Wing to up his offer to compete with Song
+(C) Talk to Buyer Song and convince him to withdraw his offer
+(D) Submit Song's offer
+22. If a buyer must first close a property to obtain his equity for purchase of
+a second property, the broker should.
+(A) Act as coordinator (B) Act as communicator
+(C) Preferably attend both closings (D) Attend one closing only
+23. The manager of a real estate office must:
+(A) Be a good salesman
+(B) Hold a broker's license
+(C) Be capable of planning, budgeting and controlling expenditures
+and personnel
+(D) Hire only independent contractors
+24. Technologies have become more prominent in the real estate office.
+Which are the most prominent?
+(A) Computers and on-line terminals
+(B) Revised standard forms
+(C) New telephone systems
+(D) Computerized form templates
+25. You have screened prospects Mr. Tyler and Miss Kell and are about to
+show them three specific properties. The law requires that you:
+(A) Ask if they are married
+(B) Have them sign an Agency Disclosure Form
+(C) Show them the Seller Disclosure Form
+(D) Show them your license and its date of expiration
+26. The Agency Disclosure Form in Massachusetts must be provided to a
+prospective seller or buyer:
+(A) Before a listing or offer to purchase is signed
+(B) Before a P&S is signed
+(C) At the first personal meeting to discuss a specific property
+(D) When dual agency is anticipated
+27. A subsequent change to a P&S must be:
+(A) Typed (B) Approved by broker
+(C) Initialed by all parties (D) Signed by broker
+28. A Mortgage Application consists of all EXCEPT:
+(A) Property Description (B) Buyers ability to carry
+(C) Name of insuror (D) Terms requested
+29. The statute of limitations for a breach of contract is:
+(A) 24 months (B) 84 months (C) 48 months (D) 72 months
+30. Technology can:
+(A) Provide horizons unlimited
+(B) Destroy a brokers efficiency
+(C) Save time and generate business
+(D) Help only the large office
+31. A broker should attend a closing to:
+(A) Collect the commission
+(B) To help it proceed harmoniously
+(C) Substantiate the amount of deposit
+(D) Explain closing costs
+32. A buyer's deposit must be placed in a trust account:
+(A) Upon signing of an offer by the seller
+(B) Immediately
+(C) Within 24 hours
+(D) Upon signing of a P&S by the seller
+33. A buyer must be given a brochure concerning home inspections when:
+(A) The broker first meets him
+(B) An Agency Agreement is given
+(C) At signing of first written contract to purchaser
+(D) At conveyance
+
+Answers:
+1. D 8. B 15. D 22. A
+2. C 9.A 16. B 23 . C
+3. C 10. C 17. B 24.A
+4.B 11. D 18. C 25. B
+5.A 12. A 19. D 26. C
+6. B 13. A 20. A 27.C
+7.B 14. D 21. D 28. C
+29. D
+30. C
+31. B
+32. B
+33. C
+
+
+COMMISSIONS QUESTIONS
+1. Broker Allen has a 60 day Exclusive Right to Sell on a property. The
+owner gives Broker Jones an Open Listing during the exclusive period
+and he produces a buyer. What is the owner's liability for a commission?
+(A) Only one commission must be paid. Both brokers share 50/50
+(B) The owner is liable for payment of commissions to both brokers
+(C) Jones only is entitled for producing a buyer
+(D) Allen only is entitled for having an Exclusive Right to Sell
+2. Broker Almond is to receive a 7% fee for sale of the Bowes house for
+$73,000. How much less will he earn if the property sells for $68,000?
+(A) $280 (B) $420
+(C) $300 (D) $350
+3. A seller wishes to net $58,000 for his property. His broker agrees to a 5%
+commission plus $150 for advertising. What is the selling price?
+(A) $61,160.73 (B) $60,750.13
+(C) $61,210.53 (D) $61,202.63
+4. If an owner refused to pay a fee to which a broker was entitled the broker
+should:
+(A) File a complaint with the Board of Registration
+(B) Bring action in court
+(C) Advise the buyer not to take occupancy
+(D) Request police to arrest the owner
+5. The seller defaults. The broker holds the buyer's deposit in an interest
+bearing account. The broker should:
+(A) Return the deposit and retain the interest
+(B) Return the deposit and give interest to the seller
+(C) Return the deposit and interest to the buyer
+(D) Forfeit deposit to the seller and give interest to the buyer
+6. A 1975 Massachusetts Supreme Court decision
+(A) Makes it no longer necessary to convey title in order to have
+commission entitlement
+(B) Obviates the "ready, willing and able" concept
+(C) Limits the amount of commission a broker may charge
+(D) Makes it necessary to convey title in order to have commission
+entitlement
+7. A broker's right to a commission includes all EXCEPT:
+(A) Does not depend upon the amount of work he does
+(B) Depends on whether he produces a bona-fide buyer
+(C) Depends upon whether he is the procuring cause
+(D) Depends on whether he disclosed "agency" at first meeting with buyer.
+8. In "Tristam's Landing vs Wait" the concept of a broker being entitled to
+a commission for procuring a ready, willing and able buyer was:
+(A) Changed
+(B) Reinforced
+(C) Unchanged
+(D) Ratified
+9. A broker is hired and presents a ready, willing and able buyer at the listed
+price. The seller refuses to sell:
+(A) The broker has no redress
+(B) The broker can force the seller to sell
+(C) The buyer forfeits his deposit
+(D) The broker can sue the seller
+I 0. A salesman of Broker A shows a home to a prospect. Two days later, the
+prospect goes directly to the seller and purchases the home:
+(A) The seller need not pay the salesman a commission as he was not
+the procuring cause
+(B) The seller must pay a commission to the salesman
+(C) The prospect may be sued for his actions
+(D) The seller is liable for a commission to the salesman's broker
+11. In a real estate transaction to "accept an offer" usually means the seller:
+(A) Accepts delivery of the written offer
+(B) Is legally bound to be a party to the transaction
+(C) Has approved the buyer's terms
+(D) Signs a receipt for the written offer
+12. Broker A shows a property to a customer who saw his advertisement of
+it. The customer, not liking Broker A bought the property 31 days later
+through Broker B advising him after signing an offer that he had seen the
+property with A initially.
+(A) Broker A has no commission entitlement after 30 days
+(B) Broker A has no commission entitlement at all
+(C) Broker B should advise A and agree to split the commission on the
+basis of procuring cause
+(D) The seller owes commissions to A and B
+13. A broker collects a fee from buyer and seller on a block containing four
+stores:
+(A) It is permissible if buyer and seller knew and agreed
+(B) It is illegal
+(C) Only 'h commission could be paid by each
+(D) The buyer should sue the broker
+14. The Board of Registration requires that a broker:
+(A) Pay his listing salesman I 0%
+(B) Pay his "selling" salesman 40%
+(C) Pay a co-broker 50%
+(D) Be responsible for acts of his salesmen
+15. A buyer's broker must:
+(A) Split any retainer with a listing broker
+(B) Share his commission with the lister
+(C) Disclose he is a buyer's broker to the listing broker
+(D) Get 50% of the listing broker's commission
+16. In order to earn a commission, some terms of the contract may be
+implied such as:
+(A) The broker must put the listing in MLS
+(B) The broker need not advertise the property
+(C) The broker must render service and expect to be paid
+(D) The broker is entitled to "fair value" for his services whether the
+seller agrees or not
+17. Broker A's commission is $5,500. He holds a deposit of $1,200, owes
+subagent B 50% and his listing broker 20%. When transfer is recorded,
+broker A would ordinarily receive:
+(A) $5,500 (B) $2,750 (C) $1,550 (D) $4,300
+18. A multiple listed property sold for $163,500. The listing firm is to
+receive 40% of a 7% commission and the listing salesman 20% of that.
+The selling salesman gets a 50% commission. What does his firm net?
+(A) $4,578 (B) $3,433.50 (C) $6,867 (D) $915.60
+19. Broker A showed Prospect B several properties. One of these properties,
+she told Broker A she had seen with Broker C. Three days later B signed
+a Purchase and Sale on that property through Broker C. Broker A is entitled
+to:
+(A) A 50% commission
+(B) A full commission
+(C) No commission
+(D) Sue Broker C
+20. A Massachusetts Supreme Court decision in 1975 stated that a broker
+has no entitlement to a commission if the contract is not consummated
+because of the buyer's default. That decision is known as:
+(A) Watts Landing
+(B) Efficient and Procuring Cause
+(C) Land Court
+(D) Tristam's Landing
+21. To be entitled to a commission, a broker must first:
+(A) Advertise the property
+(B) Be the procuring cause
+(C) Obtain the listing
+(D) Give the buyer an Agency Disclosure form
+Answers
+1. B 5. C 9. D 13. A
+2. D 6. D 10. D 14. D
+3. D 7. D 11. B 15. C
+4.B 8.A 12. C 16. C
+17. D
+18. B
+19. C
+20. D
+21. C
+
+QUESTIONS
+I . What is the purpose of the appraisal process?
+(A) To make a professional appraisal
+(B) To allow the appraiser to make an appraisal in an efficient manner
+(C) To require an interpretation in terms of money
+(D) To solve a problem
+2. Value is defined as:
+(A) An intangible thing
+(B) The present worth of all future benefits
+(C) The price paid for a property
+(D) The future worth of all present benefits
+3. Market value would be:
+(A) The value currently in the market
+(B) The highest price a comparable property has brought on the open
+market
+(C) Market price
+(D) The highest price a property should bring in a competitive open market
+4. A warehouse nets $7,600 after expenses of $5,000 per year. Capitalized
+at 81/,%, what is its value estimate?
+(A) $89,412 (B) $23,529 (C) $30,588 (D) $58,824
+5. A residence located close to an airport where there is smoke and noise
+suffers from:
+(A) Economic obsolescence (B) Functional obsolescence
+(C) Physical depreciation (D) Violation of the bundle of rights
+6. A lack of desirability because of outmoded design would be:
+(A) Functional obsolescence (B) Economic obsolescence
+(C) Physical deterioration (D) Physical depreciation
+7. The highest and best use of a property is determined by one that:
+(A) Produces the highest net yield over the longest period of time
+(B) Represents fair market price
+(C) Produces the best use of property at the highest price
+(D) Produces the highest use of property at the best price
+8. Two appraisers make an appraisal of the same property using the income
+approach. A uses a remaining economic life of 25 years. B estimates it
+to be 20 years. Which statement is correct?
+(A) A's value would be higher than B's
+(B) B's value would be higher than A's
+(C) There would be a l % difference in value
+(D) There would be a 2% difference in value
+9. Capitalization is based on:
+(A) The measure of gross income during remaining life
+(B) Comparison of investments of similar type
+(C) The measure of net income during remaining life
+(D) Remaining economic life alone
+10. Homogeneity in a neighborhood:
+(A) Increases prices (B) Stabilizes values
+(C) Decreases values (D) Decreases prices
+11. The difference between reproduction cost and current value is:
+(A) Accrued depreciation (B) Assessed value
+(C) Cost to cure (D) Physical deterioration
+12. Which approach to value are most residential appraisals primarily based on?
+(A) Market data (B) Cost less depreciation
+(C) Income (D) Replacement less depreciation
+13. Physical depreciation is generally associated with:
+(A) Changing function (B) Obsolescence
+(C) Unusual design (D) Ordinary wear and tear
+14. The before and after technique of determining value is used in:
+(A) Cost approach less depreciation
+(B) Condemnation
+(C) Comparing market and effective rent
+(D) Correction of functional obsolescence
+15. Remaining economic life of a residence may be described as:
+(A) Deterioration at its present rate
+(B) Total economic life
+(C) Period of time house will contribute economic value to property
+(D) Remaining life based on rehabilitation
+16. Using a risk rate of 3% and a safe rate of 10% what would be the capitalization
+rate on a property with a remaining economic life of 25 years?
+(A) 14% (B) 17% (C) 11 % (D) 13%
+17. A 3-family house sold one month ago for $87,500. Rent on the 1st, 2nd
+and 3rd floors is $400, $375 and $350 per month, respectively. What is
+theGMRM?
+(A) 77 (B) 76 (C) 78.76 (D) 77.77
+18. There are three methods of estimating reproduction cost. They are:
+(A) Quantitative, unit-in-place and comparative
+(B) Cost less depreciation, obsolescence and deterioration
+(C) Cost plus cost to cure less incurable cost
+(D) Cost plus land less depreciation from all causes
+19. A capitalization rate is composed of:
+(A) Interest rate and gross rent multiplier
+(B) Interest rate and 100 divided by remaining economic life
+(C) Interest rate and economic life
+(D) Interest rate and 100 multiplied by remaining economic life
+20. A property with a gross income of $15,000 and a net of $10,000 has a
+useful life of 40 years. If current rate ofretum on investment is 7%, estimated
+value of the improvements is:
+(A) $105,263 . (B) $158,623 (C) $106,263 (D) $160,263
+21. The appraisal method used mostly for raw land is:
+(A) Comparative (B) Distribution
+(C) Development (D) Land residual
+22. Highest and best use is determined by:
+(A) Restrictions (B) Probable permitted use
+(C) Legal permitted use (D) Neighborhood conformity
+23. A loan on property A is 75% of its appraised value. The interest rate is
+12% per annum. The first semi-annual interest payment is $1 ,500. What
+is the figure closest to the appraised value of A?
+(A) $17,900 (B) $35,800 (C) $25,600 (D) $33,300
+24. In the cost approach, land value is obtained by:
+(A) Quantitative survey (B) Assessed value
+(C) Cost estimating (D) Market comparison
+25. Appraiser A has identified a comp sold 6 months ago for $72,000.
+Inflation rate was 4% for the last year. What adjustment should A make?
+(A) Adjust to $76,320
+(B) Increase indicated value by 4%
+(C) Decrease indicated value by 2%
+(D) Adjust to $73,440
+26. A broker is often called upon to list and recommend the selling price for
+a property. He should:
+(A) Make a CMA (B) Make an educated guess
+(C) Make an appraisal (D) Tour the neighborhood first
+27. The continuing education requirement for recertification of an appraisers
+license is:
+(A) 12 hours every 2 years
+(C) 45 hours every 3 years
+(B) 20 hours every 3 years
+(D) 30 hours every 2 years
+
+Answers
+1. B 7. A
+2. B 8.A
+3. D 9. C
+4.A 10. B
+5.A 11. A
+6.A
+12. A 17.D
+13. D 18. A
+14. B 19. B
+15. C 20.A
+16. B 21. C
+22. C
+23. D
+24.D
+25. D
+26.A
+27. C
+
+
+QUESTIONS
+FAIR HOUSING PRACTICES and CONSUMER PROTECTION
+1. The 1866 Civil Rights Act prohibits discrimination on the basis of:
+(A) Race (B) Religion (C) Age (D) Sex
+2. The 1968 Act prohibits discrimination on the basis of:
+(A) Race, color, religion, sex and national origin
+(B) Race, color, national origin, age and handicapped
+(C) Race, elderly, familial status, color and handicapped
+(D) Race, sex, color, religion, national origin, handicapped and familial
+status.
+3. In addition to the "protected classes" of Title VIII, Chapter 15 lB covers:
+(A) Elderly, children, rental assistance
+(B) Veterans, age, ancestry and marital status
+(C) Public or rental assistance, sexual orientation, age (excluding
+minors), marital status, familial status
+(D) Military status, age (excluding minors), sexual orientation, ancestry,
+marital status, public or rental assistance
+4. The 1866 Act covers:
+(A) Single family only.
+(B) Multi-family only
+(C) Owner occupied 2 family
+(D) All housing
+5. Prohibitions of the 1968 Act DO NOT apply to:
+(A) Privately owned single family for sale by owner
+(B) Multi-family dwelling with 4 or more units
+(C) Multi-family of 4 or less units not occupied by owner
+(D) Multi-family of 4 or less units occupied by owner with a broker
+6. The 1968 Act as amended requires handicapped accessibilitiY in which of
+the following multi-family dwellings?
+(A) 2 or more units built before September 1991
+(B) 3 or more units built after September 1991
+(C) 4 or more units initially occupied after September 1991
+(D) 5 or more units initially occupied after September 1991
+7. The following are included in Chapter 15 IB as amended EXCEPT:
+(A) Leasing a bakery
+(B) A deaf person
+(C) A Persian Gulf veteran
+(D) A qualified retirement complex on 12 acres
+8. The U.S. Supreme Court in Jones v. Mayer
+(A) Upheld the 1968 Fair Housing Act
+(B) Gave testers "standing" as a protected class
+(C) Upheld the 1866 Fair Housing Act
+(D) Struck down the 1866 Act as "unfair"
+9. A lender offering different terms to a minority person for a home loan is:
+(A) Blockbusting (B) Redlining (C) Steering (D) Channeling
+10. Lee owns two single family homes and wishes to sell only to Asiatics.
+Without violating the 1968 Act, he may:
+(A) Sell one home without a broker in any two year period
+(B) Sell both homes without a broker in any two year period
+(C) Use a broker in the sale of each
+(D) Advertise his property requesting that only Asiatics respond
+11. The U.S. Supreme Court decision in Havens v. Coleman,
+(A) Gave testers the right to bring action if discriminated against in
+seeking employment
+(B) Authorized testers to work in pairs
+(C) Gave testers the right to sue and be awarded damages in proven
+cases of housing discrimination
+(D) Gave testers the right to "entrap" real estate brokers or salesmen
+12. "Handicapped" as a protected class covers:
+(A) A person with physical or mental impairments affecting a major life
+activity
+(B) A person with AIDS
+(C) Blindness and hearing impairment only
+(D) Pregnancy
+13. The category of "familial status" covers:
+(A) Newly marrieds
+(B) Marital status
+(C) Familiarity with children
+(D) In process of adopting a child
+14. Todd expected to complete development of a 10 unit, 2 story elevatored
+apartment building in October of 1991. According to law, first floor units
+should have doorways of what width?
+(A) Standard width
+(B) Narrower than units on the second floor
+(C) Enough to accommodate a person on crutches
+(D) Enough to accommodate a wheelchair
+15. Existing premises may be reasonably modified for a handicapped tenant at:
+(A) The time of occupancy (B) Before occupancy
+(C) The tenant's expense (D) The owner's expense
+16. An exemption to Chapter 151B except on the basis of public assistance
+or being handled by a broker would be the leasing of:
+(A) Commercial space
+(B) Elderly communities of any size
+(C) An owner-occupied 2 family
+(D) Elderly retired communities with minimum age of 55
+17. For a rental subsidy recipient, discrimination would include:
+(A) Requiring a security deposit
+(B) Refusal to sign a subsidized housing program lease
+(C) Refusal to grant an occupancy permit
+(D) Requiring a 10 day termination notice
+18. Public or rental housing recipients fall into which of the following?
+(A) Chapter 151B, Category II (B) Title VIII, Category II
+(C) Title VIII "protected class" (D) Chapter 151, Category III
+19. The Statute of Limitations for 93A is:
+(A) 2 years (B) 3 years (C) 4 years (D) 5 years
+20. Broker Granville was found guilty of discrimination in housing in 1989
+and 1991. Which of the following penalties would MCAD or an administrative
+law judge impose?
+(A) $1,000 (B) $10,000 (C) $20,000 (D) $25,000
+21. In addition to a penalty, a real estate broker found guilty of discrimination
+can also:
+(A) Face a prison sentence
+(B) Have his license suspended for 60 days
+(C) Lose his license
+(D) Be placed on probation for 60 days
+22. Brokers A, B and C were lunching together. A and C started to discuss
+raising their commission rate. B excused himself and left, because he felt
+they could be accused of:
+(A) Price fixing (B) Collusion (C) Restraining trade (D) Tying
+23. Before legal process can ensue in a Chapter 93A complaint:
+(A) The accused party must be given 30 days written notice
+(B) Offer of settlement must have been made
+(C) Offer of settlement must not have been made
+(D) Offer of settlement must have been refused
+24. In the listing process a seller advises that occasionally the roof leaks
+after a heavy rain. Seller and broker agree not to disclose the fact
+because it only happens "occasionally". Six months after taking title, the
+new buyer discovers a leak in the roof.
+(A) The broker could not be sued, because he had no obligation to disclose
+the defect
+(B) The seller could not be sued, because he disclosed the fact to the
+agent
+(C) The broker and seller could both be sued for treble damages
+(D) Neither could be sued because of the Lantner v. Carson Massachusetts
+Supreme Court decision
+25. Massachusetts towns may require that:
+(A) Sump pumps be installed in wet basements before transfer of ownership
+(B) New housing of four or more units be equipped with sprinkler
+systems
+(C) Dwellings of 3 to 5 apartments over 25 years old be equipped with
+sprinklers
+(D) Projects approved by permit within two years prior to adoption of
+the "sprinkler option" are exempt
+26. Massachusetts requires the following at closing:
+(A) Proof that all dwelling units have smoke detectors
+(B) Proof of smoke detectors on all floors of the transferred dwelling
+(C) Local Fire Department Smoke Detection Certificate
+(D) Proof of battery operated smoke detectors outside all bedrooms
+27. Upon change of ownership, who inspects smoke detectors?
+(A) Fire Department (B) Building Inspector
+(C) Police Department (D) Electrical Department
+28. Which of the following is not regarded as a handicap?
+(A) Impaired vision (B) Alcoholism
+(C) Drug addiction (C) AIDS
+29. If an agent has actual knowledge he may answer inquiries on all of the
+following stigmatisms, EXCEPT:
+(A) Murders (B) AIDS
+(C) Suicides (C) Any crime
+
+Answers:
+I.A 7. D 13. D 19. C 25.B
+2. D 8. C 14. D 20. D 26.C
+3. D 9. B 15. C 21. B 27.A
+4.D IO.A 16. C 22.A 28. C
+5.A 11. C 17. B 23.A 29.B
+6. C 12. A 18.A 24. C
+
+
+QUESTIONS
+ENVIRONMENTAL CONTROL
+1. A developer wishing to fill a small portion of a wetland in order to comply
+with local zoning should first contact the:
+(A) Conservation commission (B) Board of selectmen or mayor
+(C) Planning Board (D) Board of health
+2. Radon gas can be detected by which of the following.
+(A) Its light odor (B) Its light color
+(C) Lightly flavored taste (D) Testing
+3. The Massachusetts Environmental Policy Act:
+(A) Requires an Environmental Impact Report for conversion of wetlands
+(B) Created a permit system by the Army Corps of Engineers for dredging
+wetlands
+(C) Prohibited filling of wetlands
+(D) Prohibited dredging of navigable waters
+4. Development of large tracts of undeveloped land may require the filing of:
+(A) A report stating number of trees to be cut down.
+(B) A damage and remedy report
+(C) A report of amount of fill required
+(D) An environmental impact report
+5. In which type property is a Superlien a chronological lien?
+(A) Commercial (B) Residential
+(C) Industrial (D) Unimproved property
+6. The presence of asbestos must be disclosed to a prospective buyer:
+(A) Before signing a P&S (B) Before showing the property
+(C) Before conveyance (D) At passing of papers
+7. A seller cannot discriminate because of children under six in the sale of
+a property containing:
+(A) Radon (B) Lead paint (C) Asbestos (D) UFFI
+8. Question deleted
+(A) At conveyance (B) Before signing a P&S
+(C) Before showing the property (D) Before passing of papers
+9. Ns house, completed in December 1970, heated by steam, is being
+shown by broker B to prospect C who has children aged 9, 7, 5, and 3.
+Broker B must:
+(A) Advise C of the lack of asbestos lagging
+(B) Advise C the property does not have UFFII
+(C) Advise C the property may have lead paint
+(D) Advise C of the availability of a Septic Tank Certificate
+10. Title 5 requires inspection of sewage systems:
+(A) As soon as title is transferred
+(B) When a mortgage is refinanced
+(C) Within 2 years before a transfer of title
+(D) When title is transferred from one spouse to another
+11. Asbestos materials are considered harmful when they are:
+(A) Used in kitchen floor or ceiling
+(B) Used as "lagging" on steam pipes
+(C) Used as insulation on a hot water tank
+(D) Emitting dust
+12. A failed septic system must be repaired within:
+(A) 6 Months (B) One Year (C) 2 Years (D) 18 Months
+13. A added fill to his river front without a permit to build a pier. A, transferred
+suddenly, sold to B. B is:
+(A) Not liable for any acts of A
+(B) Able to proceed with the pier
+(C) Entitled to add additional fill
+(D) Liable to restore the real estate to its former condition
+14. A, for years, changed the crank-case oil in his car and disposed of the old
+oil on his land in the gully behind his house. In the listing process he
+casually mentioned this to broker B. Broker B should:
+(A) Refuse the listing
+(B) Advise A to have the soil examined by an expert.
+(C) Take the listing recognizing the Superfund Law did not apply
+(D) Recommend A fill the gully
+15. If found, lead paint must be removed from which of the following?
+(A) A fireplace mantel
+(B) 5 feet up interior walls and exterior siding
+(C) Porch rail ballisters
+(D) Window panes
+16. An abandoned underground oil storage tank must be:
+(A) Repaired (B) Removed (C) Emptied (D) Filled with cement
+Answers:
+LA 5. B 9. C 13.D
+2. D 6.A 10. C 14.B
+3.A 7. B 11. D 15. B
+4.D 8. 12. C 16. B
+
+
+ZONING QUESTIONS
+1. The three basic classes of zoning are:
+(A) Residential, commercial and industrial
+(B) Commercial, shopping center and industrial
+(C) Single family, multi-family, non-residential
+2. A non-conforming use is:
+(A) Not permitted by law
+(B) One which must be corrected
+(C) Called spot zoning
+(D) One which existed prior to enactment or revision of current zoning
+3. Sikes' proposed garage would violate a sideline requirement. Which
+must he obtain?
+(A) A non-conforming use approval (B) Spot zoning permission
+(C) A set-back approval (D) A variance
+4. A zoning ordinance could validly affect which of the following?
+(A) Building density (B) Building height
+(C) proportion of building area to land area (D) all of the above
+5. A buffer zone is one which:
+(A) Is a zone for industrial buffing operations
+(B) Is a wall which separates objectionable uses
+(C) Separates residential areas from other types of zoning
+(D) Screens high rise buildings from residences
+6. The Interstate Land Sales Act regulates:
+(A) Sale or lease within the state of out-of-state unimproved subdivision
+lots
+(B) Sales through the mail
+(C) 50 or less unimproved subdivision lots
+(D) 50 or more unimproved subdivision lots
+7. A parcel containing dwellings grouped closely together in one section
+and the rest maintained as open space will likely be a:
+(A) Subdivision (B) Planned unit development
+(C) Buffer zone (D) Cluster development
+8. A wishes to list a 20,500 square foot lot in a flood plain district with you
+as his broker. You should:
+(A) Take it only as an open listing
+(B) Check first at town hall to see if the lot can be built upon
+(C) Take it as an exclusive listing
+(D) Refuse the listing
+Answers
+l.A
+2. D
+3.D
+4.D
+5. C
+6.A
+7.D
+8. B
+
+
+QUESTIONS-PLOT PLANS
+The following questions apply to the Flintlock Acres Subdivision (see preceding
+pages).
+l. The scale of Flintlock Acres is:
+(A) 1 inch = 50 ft. (B) l" = 100'
+(C) 1 acre = 40,000 sq. ft. (D) Not acceptable to town clerk
+2. The plan of Flintlock Acres was prepared by:
+(A) Town Clerk (B) Planning Board
+(C) Civil engineers and land surveyors (D) Kenneth D. Miller
+3. Talbot Lane runs off Sanford Road in a direction which is:
+(A) South (B) South Southeast (C) S30°36'W (D) South Southwest
+4. The following lots have drainage easements EXCEPT:
+(A) Lot 9 (B) Lot 10 (C) Lots 2 & 3 (D) Lot 1
+5. Roads in the subdivision are:
+(A) 25'.00 width (B) 50'.00 width (C) Paved (D) Unpaved
+6. The plan was approved by the planning board on:
+(A) 2/14/68 (B) 3/17/71 (C) 4/15/71 (D) 3/22/71
+7. The street heading in a N'ly direction is:
+(A) Sanford Rd. (B) Sanford Rd. (proposed)
+(C) Talbot Lane (D) No street in Flintlock Acres
+8. The course of the rear line of Lots 7, 8 and 9 is directed from:
+(A) Lots 7 and Hornbeam Rd. (B) Junction of Lots 9 & IO
+(C) Junction of Lots 6 & 7 (D) Parallel to Talbot Lane
+9. Which lot has the greatest area?
+(A) Lot 3 (B) Lot 7 (C) Lot 9 (D) Lot 11
+10. Which lot has the greatest frontage?
+(A) Lot 3 (B) Lot 7 (C) Lot 9 (D)Lot IO
+11. From observation, it would appear that the following lot has the greatest
+depth:
+(A) Lot 4 (B) Lot 6 (C) Lot 3 (D)Lot 10
+12. From calculation, the following lot has the greatest depth:
+(A) Lot 3 (B) Lot 4 (C) Lot 6 (D) Lot IO
+13. Lot 3 has a frontage exceeding:
+(A) 300' (B) 325'
+14. Land of Downing abuts:
+(A) Lots 1, 2 & 3
+(C) Lots 4, 5 & 6
+15. Locke Road has a width of:
+(C) 350'
+(B) Lots 7, 8 & 9
+(D) Lots 6 & 7
+(D) 400'
+(A) Variable (B) 50'.00 (C) Not shown (D) 40'.00
+16. That portion of the rear lot line of Lot 11 which abuts land of Lambert
+has a course and distance of:
+(A) N 67°-l8'-14"E, 140'.77
+(B) N I3°-21'-03"E, 235'.00
+(C) S 21 °-06'-I3"W, 68'.57
+(D) SSW, 68'.57
+17. Lot 10 has a frontage exceeding:
+(A) 156'.82 (B) 200'.00 (C) 220'.30 (D) 228'.00
+18 The SE'ly radius of Sanford Rd. by Lot 3 is:
+(A) 217'.76 (B) 104'.19 (C) 125'.00 (D) 19'.52
+19. The following lot(s) has more than one drainage easement:
+(A) Lot 1 (B) Lot 3 (C) Lot 10 (D) Lot 11
+20. Cul de sacs on the plan are shown on:
+(A) Sanford Rd. (B) Sanford Rd. (proposed)
+(C) Talbot Lane (D) Hornbeam Rd.
+21. The subdivided land is owned by:
+(A) V. Downing (B) V. Dahlgren (C) Murray (D) Haynes
+22. The approved subdivision is obviously in a:
+(A) 1h acre zone (B) 3/, acre zone (C) acre zone (D) l 1/, acre zone
+23. On which of the following lots would a home probably face Northeast:
+(A) Lots 7, 8 & 9 (B) Lots 10 & 11
+(C) Lots 1, 2 & 3 (D) Lots 4, 5 & 6
+24. Identify the following property on the plan:
+S 30°36'35"W, 150'.00, thence S 51° 32'42", 294'.35, thence S 18°
+22'21 "W, 133'.00, thence N 49° 34'44"W, 264'.32, containing 40,024
+sq. ft. more or less:
+(A) Lot 7 (B) Lot 8 (C) Lot 5 (D) Lot 2
+25. In the Government Survey System a township contains:
+(A) 36 acres (B) 36 sq. miles (C) 40 acres (D) 160 acres
+Answers
+1. B 6.B 11. D 16. C 21. B
+2. C 7.A 12. D 17. D 22.C
+3. B 8.A 13. C 18. C 23. B
+4.A 9. C 14. D 19. A 24. C
+5. B 10.A 15.A 20.C 25.B
+
+
+QUESTIONS
+Answer questions 1-9 based on the completed Settlement Statement
+Worksheet for the previous closing problem.
+I. The amount of the Buyers' new mortgage is:
+(A) $15,000 and a Sellers' debit (B) $24,000 and a Sellers' credit
+(C) $15,000 and a Sellers' credit (D) $24,000 and a Buyers' debit
+2. Sellers' expenses include:
+(A) Deed preparation
+(C) Insurance premium
+3. Buyers' expenses include:
+(A) Mortgage discharge
+(C) Title search
+4. Sellers' expenses include:
+(B) Annual Taxes
+(D) Deed recording
+(B) Excise stamps
+(D) Annual taxes
+(A) Excise stamps (B) Recording of deed and mortgage
+(C) Title exam (D) Betterment payoff
+5. Broker's fee is:
+(A) 6% (B) $3,300 (C)5%
+6. The broker holds the deposit and, upon conveyance:
+(A) Will receive $3,300 (B) Will receive $2,310
+(D) $2,310
+(C) Will pay the Sellers $990 (D) The Sellers will pay $990
+7. Total cash or amount of check due from the Buyers at closing is:
+(A) $33,305 (B) $27,466.66 (C) $15,347.86 (D) $5,838.34
+8. The Sellers' total expenses are:
+(A) $15,423. IO (B) $17,697.14
+(C) $15,347.86 (D) $17,530.48
+9. The prorated insurance is:
+(A) The Buyers' credit
+(C) A debit for buyers and sellers
+10. The RESPA covers all EXCEPT
+(B) The Sellers' debit
+(D) The Buyers' debit
+(A) Federally related mortgage loans (B) 1-4 family homes
+(C) Mobile homes (D) Commercial property
+11. AU niform Settlement Statement must be provided the Buyer:
+(A) One day before closing
+(B) At time of settlement unless waived
+(C) At time of loan application
+(D) When loan is approved
+12. Which of the following type of loans are subject to RESPA?
+(A) A refinanced loan (B) Second mortgage
+(C) VA (D) A loan on raw land
+13. A "good-faith" estimate required by RESPA is:
+(A) Accurate (B) Closely approximate
+(C) Very approximate (D) A "guesstimate"
+14. A good faith estimate required by RESPA is made by the lender:
+(A) One day before closing (B) At time of settlement
+(C) At time of loan application (D) When loan is approved
+15. After taking title and occupying the property, Cutts discovered a cloud
+on his title. He cannot sue the attorney who did the title work if:
+(A) His property is a five-family
+(B) His property is a three-family
+(C) He has no title insurance
+(D) The attorney delivered a title abstract at closing
+16. RESPA rule regarding controlled business arrangements makes it possible
+for a broker to:
+(A) Receive a kick-back from a mortgagee
+(B) Affiliate with allied services and give discounts
+(C) Receive a commission from a title insurer
+(D) Execute an Affidavit of Purchase and Vendor for a client.
+Answers
+1. B 5. D 9. D
+2.A 6. C 10. D
+3. C 7. D 11. B
+4.A 8. B 12. C
+13. B
+14. C
+15. A
+16. B
+
+QUESTIONS
+1. Without any extension, the exclusive right to sell on the Oakes' property
+will expire
+(A) June 11 (B) July 11 (C) August 10 (D) July 10
+2. The Oakes' home contains:
+(A) Basement (B) 3 Bedrooms
+(C) Fiberglass insulation (D) 1,196 sq. ft.
+3. The den of the property contains:
+· (A) 126 sq. ft. (B) 90 sq. ft. (C) 114 sq. ft. (D) 140 sq. ft.
+4. Oakes' monthly payment includes:
+(A) Principal and interest
+(B) Pri ncipal, interest, taxes and insurance
+(C) Principal, interest, utilities
+(D) Pri ncipal, interest, taxes
+5. Maish's' first mortgage is:
+(A) $60,000 (B) $60,400 (C) $60,500 (D)$60,050
+6. The chattels included in the sale are:
+(A) Gas range, venetian blinds, washer and dryer
+(B) Gas range, venetian blinds, washer, dryer and bedroom carpeting
+(C) Heating unit
+(D) Venetian blinds, washer, dryer and bedroom carpeting
+7. The second mortgage is:
+(A) At 9% interest (B) For 5'h years (C) $3,775 (D) $3,785
+8. Maish's' down payment is:
+(A) $11,325 (B) $15,100 (C) $3,775 (D) $15,000
+9. On the settlement statement, the purchase price is shown as:
+(A) Credit to Seller and debit to Buyer
+(B) Credit to Seller only
+(C) Debit to Seller and credit to Buyer
+(D) Debit to Buyer only
+10. The proceeds of the first mortgage are:
+(A) $60,200 credit to Seller (B) $60,400 debit to Buyer
+(C) $60,200 debit to Seller (D) $60,400 credit to Buyer
+11. The earnest money deposit of the Buyer is:
+(A) A credit to the Buyer (B) A credit to the Seller
+(C) $1,500 (D) $7,980
+12. Payoff of Oakes' mortgage is:
+(A) $7,980 and a Buyer's credit
+(B) $9,222.21 and a Seller's debit
+(C) $7,980 a Seller's debit
+(D) $9,221.21 and a Buyer's credit
+13. Insurance is:
+(A) A debit to the Buyer (B) A credit to the Buyer
+(C) A credit to the Seller (D) A debit to the Seller
+14. The prorated amount of taxes is:
+(A) $466.73 (B) $436.82 (C) $463.95 (D) $548.55
+15. Prorated taxes are shown as:
+(A) Debit to Seller and credit to Buyer
+(C) Credit to Seller and debit to Buyer
+(B) Debit to Seller only
+(D) Credit to Buyer only
+16. Deed preparation is:
+(A) A credit to Seller (B) A debit to Buyer
+(C) A $75 debit to Seller (D) A $75 credit to Buyer
+17. Conveyancing attorney's fee for title exam is:
+(A) Debit to Seller (B) Debit to Buyer
+(C) Credit to Seller (D) Credit to Buyer
+18. Broker's commission is:
+(A) Debit to Seller of $4,440
+(C) Debit to Seller of $4,530
+19. Title insurance is:
+(B) Prorated
+(D) Credit to Buyer
+(A) Debit of $87.50 to Buyer (B) Credit of $87.50 to Seller
+(C) Prorated (D) Credit of $87.50 to Buyer
+20. First mortgage preparation is:
+(A) A credit of the mortgagee (B) A debit of the mortgagor
+(C) A credit to the Seller (D) A credit to the Buyer
+21. Second mortgage to the Seller is:
+(A) Debit to Seller
+(B) Credit to buyer
+(C) Debit to Seller and credit to Buyer
+(D) Credit to Seller and debit to Buyer
+22. Seller is required to pay discount of:
+(A) $755 (B) $604 (C) $589 (D) $740
+23. Loan service fee is:
+(A) $604 (B) $755 (C) $589 (D) $740
+24. The survey is an expense of the:
+(A) Seller (B) Mortgagee (C) Buyer (D) Title insurance company
+25. Recording the deed and mortgages is a:
+(A) Seller debit (B) Buyer debit (C) Seller credit (D) Buyer credit
+26. Discharge of the mortgage is:
+(A) Seller debit (B) Buyer debit (C) Seller credit (D) Buyer credit
+27. The Buyer requires the following to close:
+(A) $9,662.07 (B) $11,162.02 (C) $10,162.07 (D) $11,662.07
+28. Proceeds due Seller are:
+(A) $61,647.02 (B) $60,908.20 (C) $59,908.20 (D) $57,700
+
+Answers
+1. D 8.A 15. A 22. B
+2. D 9.A 16. C 23. A
+3. D 10. D 17. B 24.C
+4.D 11. C 18. C 25. B
+5. B 12. C 19. A 26.A
+6. B 13. A 20.B 27.B
+7. C 14. A 21. C 28. D
+
+QUESTIONS
+1. The Clark property is fully described in Middlesex So. District Registry
+of Deeds:
+(A) In Book 2915 on page 17
+(C) In Book 2900 on pages 7-12
+(B) As Lot 17 in Happy Oaks
+(D)As 114ApexSt.
+2. Clarks' lot has:
+(A) 100' frontage on W'ly. side of Apex St.
+(B) 150'.07 by Lot 15
+(C) 16,000 sq. ft.
+(D) 100'.00 by land now or formerly of Proctor
+3. The Clarks' house contains:
+(A) 6 rooms and 2 baths
+(C) 7 rooms and I bath
+(B) 61/2 rooms and l 'h baths
+(D) 7 rooms and 2 baths
+4. Clarks' home is or has:
+(A) Heated by gas hot air
+(C) A 55 gal. water heater
+(B) Heated by forced hot water
+(D) Gas water heater
+5. Siding of the Clark home is:
+(A) Wood shingle (B) Wood clapboard
+(C) Vinyl shingle (D) Aluminum clapboard
+6. Your exclusive on the Clark property is for:
+(A) 30 days (B) 60 days (C) 90 days (D) 120 days
+7. The Acme Shopping Center most likely fronts on:
+(A) Clear St. (B) Apex St. (C) Main St. (D) Clark St.
+8. Apparently, children in the Clark property:
+(A) Walk to elementary school (B) Walk to junior high
+(C) Walk to high school (D) Bus to all schools
+9. The first offer on the Clark property is:
+(A) $96,000 (B) Accompanied by a $1,500 deposit
+(C) A contingency offer (D) $98,000
+10. A counter-offer of $98,000 was made by:
+(A) Tick (B) Leland Smith (C) Mitchum Assoc.
+11. The $98,000 agreed upon was
+(A) Subject to a $78,400 mortgage for 20 years
+(B) With a $10,500 deposit
+(C) With a $9,500 deposit
+(D) Subject to a 13% interest loan
+(D) Clark
+12. If Tick procured the mortgage agreed upon, his annual interest would
+amount to:
+(A) $10,192 (B) $12,874.10 (C) $9,988 (D) $11,192
+13. Wall-to-wall carpeting was included in the contract for the:
+(A) Living and dining room (B) Living room
+(C) Dining room (D) Living room and hall
+14. Drapes were included for the:
+(A) Living and dining room (B) Living room
+(C) Dining room (D) Bedrooms
+15. The fee between your office (Leland Smith) and the selling office is to
+be a split on the following basis:
+(A) 40-60 (B) 60-40 (C) 50-50 (D) 45-55
+I 6. Your office's share of the fee will be:
+(A) $5,880 (B) $2,940 (C) $5,700 (D) $2,850
+I 7. Of the amount retained by your office, you should receive:
+(A) $2,940 (B) $1,029 (C) $2,058 (D) $997.50
+18. Most office principals feel their salespeople should make at least two
+sales per month in order to be "worth their salt". Based on the fee you
+have earned on this sale, if you were to repeat the same procedure twice
+each month for one year, your gross income would be:
+(A) $24,696 (B) $70,560 (C) $49,392 (D) $23,667
+19. The range, oven and dishwasher will:
+(A) Be taken by the Clarks (B) Be sold as personal property
+(C) Remain as part of the real estate (D) Be considered fixtures
+20. The lot on which the Clark house is located:
+(A) Is free of easements or restrictions
+(B) Was engineered by B. Sullivan
+(C) Is exceptionally landscaped
+(D) Is fenced in
+Answers
+1. C 5. D 9. C
+2. D 6. B 10. D
+3. D 7. C 11. B
+4. C 8.A 12. A
+13. B 17. B
+14.A 18. A
+15. C 19. C
+16. B 20.B
+
+
+QUESTIONS-COMMERCIAL BROKERAGE
+l. The commercial broker is involved with:
+(A) Office buildings (B) Apartment buildings
+(C) Income producing properties (D) Shopping centers
+2. When seeking a property for an investor you should:
+(A) Try to satisfy his personal objectives
+(B) Look for the best tax shelter possible
+(C) Look for a property with the best cash flow
+(D) Look for a property with a good balance sheet
+3. A balance sheet
+(A) Shows net profit and loss
+(B) Shows the assets and liabilities of a business at a particular time
+(C) Shows the net worth of a business
+(D) Shows gross profit and loss
+4. That part of a mortgage payment applied to principal is called:
+(A) Interest (B) Equity buildup
+(C) Appreciation (D) Mortgage reduction
+5. When a property is refinanced and the proceeds are reinvested in other
+property, the process is called:
+(A) Pyramiding (B) Leverage (C) Tax deferment (D) Tax shelter
+6. A building generates income of $60,000. Expenses are $35,000 and debt
+service is $10,000. What profit is generated?
+(A) $15,000 (B) $25,000 (C) $10,000 (D) $20,000
+7. What is the profit margin in question 6?
+(A) 17% (B) 25% (C) 58% (D) 75%
+8. If an investor was able to procure a 90% mortgage on a property valued
+at $150,000, he would have gotten:
+(A) Leverage
+(C) Enhanced speculative capacity
+(B) An internal rate of return
+(D) A pyramid
+9. For income tax purposes depreciation is considered to be:
+(A) Exhaustible
+(B) A tax shelter
+(C) An offset from ordinary income
+(D) A reduction from gross income to provide recovery of an investment
+10. Even though a building may not decline in market value an investor may
+take a yearly deduction in order to:
+(A) Improve his net worth
+(B) Recapture his investment in a wasting asset
+(C) Improve the building's adjusted cost basis
+(D) Increase the salvage value at end of the building's useful life
+11. The initial cost of a property was $200,000. Closing costs were $3200.
+Capital improvements over a year period were $62,000 and $65,000
+depreciation was taken. What is the adjusted cost basis?
+(A) $265,200 (B) $200,200 (C) $197,200 (D) $210,200
+12. The declining balance method of depreciation computation is based on
+the following premise:
+(A) That property depreciates more rapidly in its early years
+(B) That depreciation proceeds at a stable rate
+(C) Remaining economic life of the property
+(D) A shortened useful life and faster write-off
+13. The '93 Tax Act used straight line depreciation and divided value of the
+improvement by 39 years to determine:
+(A) Life expectancy
+(B) Useful life of the investment
+(C) Residential rental property depreciation
+(D) Annual depreciation of non-residential property
+14. Changes in tax codes which affect income property depreciation can
+occur in any year at the whim of the:
+(A) President of the United States
+(B) Internal Revenue Service
+(C) Congress
+(D) Department of the Treasury
+15. If the base price of a property is $430,000 and the adjusted cost basis is
+$490,000, what is the $60,000 difference called?
+(A) Cumulative depreciation (B) Net after tax
+(C) Capital (D) Book
+16. Fuller, a bachelor owned a single family home from 1994 to 1999 and
+resided in it from 1977 to 1999. He is entitled to a capital gains exemption
+of:
+(A) A one-time exemption of $125,000
+(B) Postponement of his exemption for 24 months
+(C) Postponement of any gain over $125,000 if he buys a higher priced
+home
+(D) $250,000
+17. Sills invests $10,000 in a syndicated acquisition of real property managed
+by the Williams Group. Sills role is that of a (an):
+(A) Passive investor
+(B) Passive investor and limited partner
+(C) Active investor
+(D) Active investor and general partner
+18. An active investor had earned income of $125,000 in 1994. How much
+was he entitled to deduct for rental property losses?
+(A) $25,000 (B) $12,500 (C) 100% (D) $22,500
+19. The developer of a real estate security in Massachusetts must:
+(A) Register with the Board of Registration
+(B) File a prospectus with the Massachusetts Investment Trust
+(C) Register with and be licensed by the SEC
+(D) Register with and be licensed by the Board of Registration
+20. Federal and state laws regulating the sale of investment securities are
+referred to as:
+(A) Blue Sky Laws (B) Securities and exchange laws
+(C) Common law business trusts (D) Investment security laws
+21. A real property exchange provides for all EXCEPT:
+(A) Tax deferral of "like-kind" exchanges
+(B) Improved buying power
+(C) Improved after-tax return
+(D) Recognition of losses for tax purposes
+22. The Garnets have an $80,000 mortgage remaining on their multi-family
+valued at $120,000. If they use their equity to exchange for a like-kind
+property with a downpayment of 25% how much can they afford?
+(A) $320,000 (B) $480,000 (C) $160,000 (D) $200,000
+23. Taxable income on an installment sale in any tax year is obtained by:
+(A) Multiplying principal payments by gross profit ratio
+(B) Dividing total contract price by gross profit ratio
+(C) Dividing the taxable gain by gross profit ratio
+24. If Nichols had a gross sales price of $200,000 and his adjusted basis is
+$135,000, what would the gross profit ratio be?
+(A) 48% (B) 32.5% (C) 42% (D) 34.3%
+25. A pro forma statement:
+(A) Shows gross operating income
+(B) Shows gross profit ratio
+(C) Shows amount of debt service
+(D) Shows projected income and expenses
+26. Environmental considerations frequently affect commercial enterprises.
+Which of the following may be required if adverse effect on the environment
+is questionable?
+(A) A Federal clean water certificate
+(B) An Environmental Impact Report
+(C) An inspection by the Environmental Protection Agency
+(D) An inspection by the Conservation Commission
+27. Capital gains for depreciation recapture on the sale of an investment *
+property are taxed at:
+(A) 18% (B) 20% (C) 22% (D)25%
+28. Reinvesting proceeds into additional property from refinanced already *
+owned properties is called:
+(A) Recapture (B) Appreciation (C) Pyramiding (D) Progression
+Answers
+I. C 7.B 13. D 19. C 25. D
+2.A 8.A 14. C 20.A 26. B
+3. B 9. D 15. C 21. D 27.B
+4. B 10. B 16. D 22.C 28. C
+5.A 11. B 17. A 23. A
+6.A 12. A 18. C 24. B
+
+
+QUESTIONS ON RULES AND REGULATIONS
+1. Developer A engages the services of broker B to handle the houses in his
+subdivision. Broker B assigns salesperson C to sell the properties. Who
+requires a broker's license?
+(A) Developer A (B) Broker B (C) Salesperson C (D) All three
+2. The Board of Registration consists of 5 persons. Which of the following
+statements is correct?
+(A) All 5 shall be licensed brokers
+(B) 3 shall be licensed brokers with 5 years experience
+(C) All 5 shall be experienced licensed brokers
+(D) 2 shall be representatives of the public
+3. Duties of the Board of Registration include all of the following EXCEPT:
+(A) Inspection of a broker's escrow account
+(B) Holding periodic license examinations
+(C) Determination of commission rates
+(D) Inspection of a broker's records
+4. A real estate salesperson can be:
+(A) A person, partnership or corporation
+(B) Employed by one or more brokers
+(C) Employed by a real estate broker
+(D) Anyone over 21 years of age
+5. Should a licensee receive notice that his license has been suspended, he:
+(A) May request another hearing within 10 days
+(B) May continue to operate until the matter is settled by appeal
+(C) May make an appeal within 10 days
+(D) Immediately loses his right to operate as a licensee
+6. A licensed broker or salesperson may do the following EXCEPT:
+(A) Negotiate a commission
+(B) Act in the capacity of undisclosed principal and licensee
+(C) Charge more than a 7% commission
+(D) Give copies of an Offer to Purchase to buyer and seller
+7. A licensee's license may be revoked for:
+(A) Failing to account for commissions earned
+(B) Failing to have a written listing signed by the owner
+(C) Commingling funds
+(D) Failing to co-broke with another licensee.
+8. A licensed salesperson may
+(A) Advertise property personally listed by him
+(B) Advertise a property he owns
+(C) Advertise a property only after gaining owner's permission
+(D) Advertise any listed property provided the ad is non-discriminatory
+9. When a licensed broker changes his place of business:
+(A) A new license will be issued by the Board automatically
+(B) His license may be revoked if he does not notify the Board
+(C) Any new license issued will be for a full term
+(D) The new address must be approved by the Board
+10. A licensee whose license has been revoked after a hearing:
+(A) Has no right of appeal
+(B) May appeal to a district court sitting in equity within 20 days
+(C) May appeal to the Board within 20 days
+(D) May appeal to the superior court for his county within 20 days
+11. The Board may suspend, revoke or refuse to renew a broker's or salesperson's
+license for one of the following actions:
+(A) Failing to have a written listing
+(B) Failing to induce a lessee to break a lease for personal gain
+(C) Failing to solicit a listing because of a change in neighborhood
+(D) Misrepresentation
+12. Real estate, defined in the Rules and Regulations of the Board of
+Registration includes all EXCEPT:
+(A) Incorporeal interests in land
+(B) A lease of property to a tenant
+(C) No improvements on the land
+(D) Corporeal interest in land
+13. A broker's or salesperson's license can be suspended or revoked if it is
+found that the licensee:
+(A) Encouraged the prospective entry into a neighborhood of persons of
+another race
+(B) Accepted from a prospective seller a bonus in excess of commission
+for sale of a property
+(C) Failed to give buyer and seller a copy of the purchase and sale
+agreement
+(D) Engaged in the sale of property located in another state
+14. A corporation can be licensed as a real estate broker if:
+(A) All officers are either licensed brokers or salespersons
+(B) At least one officer is licensed as a real estate broker and designated
+to perform the brokerage business of the corporation
+(C) Its assets are primarily real estate
+(D) It is so voted by the board of directors
+15. Seller A lists property with broker B with the stipulation A will get
+$75,000. All proceeds over that will go to B.
+(A) In Massachusetts B could lose his license for taking a net listing
+(B) Chances are A will not receive $75,000
+(C) Broker B owes no fiduciary duty to A
+(D) Seller A cannot change the price without notifying B
+16. An individual owns an apartment building more than four blocks from
+his home. He employs a janitor to care for the building. The janitor occupies
+a basement apartment.
+(A) The individual needs a broker's license to sell the building
+(B) The janitor must have a broker's or a salesman's license before he
+can rent to tenants
+(C) The owner needs a broker's license to negotiate leases
+(D) A tenant needs a broker's license to negotiate a lease for another
+17. A licensed broker is required to furnish copies of which of the following
+instruments prepared by him or under his supervision:
+(A) Purchase and sales agreement (B) All instruments
+(C) Leases and sales agreements only (D) Listing agreements
+18. In the event a licensed broker who is sole proprietor of a real estate business
+dies:
+(A) The Board will, upon application, issue a temporary license to his
+legal representative
+(B) The senior salesperson may run the business on a salesperson's
+license for a period of one year
+(C) The Board may grant his heirs or assigns a waiver of license for a
+six month period
+(D) The Board will, upon receipt of an application fee of $75.00, issue
+a license to the next of kin for a one year period
+19. Broker Sanford sold her property to the Deeres without saying she
+owned it. She was guilty of:
+(A) Acting for more than one party (B) Misrepresentation
+(C) Violation of the license law (D) Puffing unknowingly
+20. In order to sell or rent real property a licensed L.L.C. must:
+(A) Have a licensed salesperson on his staff.
+(B) Have E&O insurance covering fraudulent and criminal acts
+(C) Carry professional liability coverage
+(D) Notify the Board within 7 days if insurance is cancelled
+21. No broker or salesperson in advertising or promoting a lease of a property
+may:
+(A) Use any media other than prescribed by the rules and regulations of
+the Board
+(B) Disclose the address of the property
+(C) Make representation that the property has been approved or inspected
+by the Board of Registration
+(D) Disclose the terms of the lease
+22. A salesperson may:
+(A) Work for one broker only
+(B) Work for one or more brokers
+(C) Work for more than one broker with knowledge and permission of all
+(D) Work for commissions for one and with salary for another
+23. An Apartment Rental Service shall Not:
+(A) Advertise without an owner's permission
+(B) Take exclusive listings
+(C) Advertise disclosing a property's address
+(D) Retain copies of signed contracts for more than 18 months
+24. The Board may investigate the conduct of licensees:
+(A) To settle commission disputes
+(B) Upon receipt of oral complaints
+(C) For alleged price fixing
+(D) On its own authority
+25 . Deposits on property remain in the broker's escrow account until the:
+(A) Lending institution approves financing
+(B) Seller executes the purchase and sale agreement
+(C) Buyer waives broker's escrow responsibility
+(D) Consummation of the transaction
+26. Before approval by the Board for promotion of out-of-state land sales
+can be obtained:
+(A) Approval must first be granted by the Attorney General
+(B) Application must be made by a licensed Massachusetts broker
+(C) Registration must be made by the developer
+(D) Application must be made by the out-of-state broker
+27. The license law prohibits licensees from:
+(A) Advising a buyer that he will be represented by the bank's attorney
+at closing and hence does not need an attorney
+(B) Having a purchase and sale agreement executed on Sunday
+(C) Failing to advise a seller he needs an attorney at closing
+(D) Disclosing their fiduciary relationship
+28. All of the following are cause for license revocation or suspension EXCEPT
+(A) Failure to notify the Board in writing of a business address change.
+(B) Failure to disclose a personal interest in a transaction
+(C) Failure to renew one's license within one year of expiration
+(D) Failure to submit all offers to a seller forthwith
+29. When a Massachusetts broker represents a developer for out-of-state
+land sales, he must:
+(A) Review all documents for accuracy
+(B) Agree to advertise the property frequently
+(C) Certify that promotional material is factual
+(D) Notify the Board within 7 days of accepting the developer as a client
+30. Broker A received 3 deposits on a "hot" property within 20 minutes, from
+Salesperson A for $92,500, from his own prospect for the listed price of
+$92,000, and from Salesperson B for $91,800. What should he do?
+(A) Present all offers simultaneously and forthwith
+(B) Present only the highest offer
+(C) Call other prospects to see if they will top $92,500
+(D) Delay submission as long as possible of any and all offers to see if
+a higher offer is obtained
+31. The Massachusetts regulations define "full-time employment" when
+applying for a broker's license as:
+(A) 25 or more hours (B) 30 or more hours
+(C) 35 or more hours (D) 40 or more hours
+32. A broker/salesperson about to show his listing should disclose whom he
+represents to the prospect:
+(A) When an Offer to Purchase is signed.
+(B) When a P&S is signed.
+(C) After leaving the property, and not before.
+(D) At their first personal meeting to discuss a specific property.
+33. Action against a non-licensee who acts as or advertises that he is a real
+estate broker would be handled by:
+(A) The Board of Registration.
+(B) The attorney general.
+(C) The Department of Consumer Affairs.
+(D) The Investigative Unit of the Board of Registration.
+34. For a broker's license a salesperson must do all EXCEPT:
+(A) Be associated with a broker for at least
+(B) Complete a -hour course from an approved real estate school
+(C) Pass a state examination
+(D) Be bonded for $2000
+35. If a broker's license is placed on inactive status he may:
+(A) Work directly with the public
+(B) Work part-time for a broker
+(C) Take referral fees
+(D) Take listings only
+36. A buyer's deposit must be deposited in a firm's escrow account:
+(A) Within 2 business days (B) Within 5 days
+(C) Immediately (D) As soon as time permits
+37. A salesman receiving notice of his license suspension must deliver his
+license to the:
+(A) Owner of his firm
+(C) Attorney General
+(B) Office of the Board
+(D) His office manager
+
+Answers:
+l.B 10. D
+2. D 11. D
+3. C 12. C
+4.C 13. C
+5. D 14. B
+6. B 15. A
+7. C 16. D
+8. B 17. C
+9. B 18. A
+19. C
+20. C
+21. C
+22.A
+23.A
+24.D
+25. D
+26.C
+27.A
+28. C
+29. D
+30.A
+31. A
+32. D
+33. B
+34. D
+35. C
+36. C
+37. B
+
+
+MATH PROBLEMS
+The following fifty-three problems are designed to test the student's ability
+to solve the type likely to be encountered singly or in combination on a
+license examination or in actual practice. Method of computation and
+answers will be found on pages following the problems. Prices, rates, taxes,
+etc. are for example only and are not necessarily those reflected in the current
+real estate market.
+1. Albert Jones, a broker sold five lots at $6,750 each, nine at $8,500 each
+and seven at $10,750 each. If his commission rate was 6.75% what was
+his total commission?
+(A) $11,130.25 (B) $11,130.00 (C) $12,700.25 (D) $12,521.25
+2. It is agreed that all commissions collected by the office on sales made by
+a salesman be divided as follows: 10% to the sales manager and the
+balance to be divided equally between the broker and salesman. The salesman
+closes a sale on which the sales price is $95,600 and the office
+collects a 5'/z% commission. What amount of commission is due the
+salesman?
+(A) $1,183.05 (B) $2,137.50 (C) $2,629.00 (D) $2,366.10
+3. If the rate of interest is 12.8% per annum and the monthly interest payment
+is $650, on what principal are you paying?
+(A) $60,937.50 (B) $60,987.50 (C) $60,900.00 (D) $61,000.00
+4. Mr. Gomez's annual net income from an apartment house is $19,950
+which is 5% of his investment in the property. What is the amount of his
+investment?
+(A) $199,950 (B) $450,000 (C) $210,000 (D) $399,000
+5. An apartment house had a gross income of $1,250 per month with annual
+expenses of $5,900, including depreciation. What price would a buyer
+pay to show a net return of 6¼% per annum on his investment, computing
+the answer to the nearest cent?
+(A) $186,412.90 (B) $138,650,00 (C) $134,814.81 (D) $212,450.75
+6. The size of a lot is 59'-8" on the street and 140'-3" deep to the end of the
+lot. The sales price is $14.00 per square foot. Which figure is nearer the
+sales price?
+(A) $121,153.00 (B) $130,000.40 (C) $117,155.50 (D) $116,944.70
+7. A land contract requires a monthly payment of $135.00 of which $85.00
+is interest. The interest rate is 6%. What is the principal amount owing
+on the contract?
+(A) $13,500.00 (B) $17,000.00 (C) $16,500.00 (D) $16,000.00
+8. The assessed value of a house is $51,750. The property is assessed at
+45% of its market value. What is its market value?
+(A) $115,000 (B) $110,500 (C) $125,000 (D) $129,000
+9. A bank agreed to lend the owner of a home a sum equal to 80% of its
+appraised valuation at an interest rate of 11.75% per annum. The first
+year's interest amounts to $2,750.00. What was the 100% appraisal?
+(A) $23,404 (B) $29,255 (C) $25,265 (D) $26,255
+10. A building was sold for $285,500 and the total commission received by the
+broker was $19,950.00. What was the percentage of commission charged?
+(A)4'/z% (B)6% (C)7% (D) 6'/zo/o
+11. An agent was to receive a 5% commission on a property listed for $80,000.
+How much commission would he receive if the property sold for 15% less?
+(A) $3,200 (B) $3,000 (C) $3,400 (D) $3,300
+12. There is a balance of $21,650 due on a real estate contract which
+requires principal monthly payments of $167 plus interest at I I 'Ii% per
+annum, payable monthly. What would the monthly payment be?
+(A) $370.25 (B) $369.46 (C) $379.46 (D) $374.48
+13. A new apartment house had a fifty-year economic life and is 22 years old
+today. The original cost of the apartment house was $200,000. What is
+the undepreciated value of the building today?
+(A) $180,000 (B) $112,000 (C) $145,000 (D) $165,000
+14. Savin inherited 8 acres of land his father had bought 60 years ago for
+$200 per acre. He divided the property into one-third acre lots. Keeping
+two lots for himself, he sold the rest at a price per lot of twenty times
+what his dad had paid per acre. What percentage profit did the son make
+on his dad's investment?
+(A) 1000% (B) 3500% (C) 1500% (D) 5500%
+15. The value of a certain property is $60,000. It is assessed at 80% of its
+real value. It is taxed at the rate of $55.00 per thousand on the assessed
+value. What are the taxes?
+(A) $2,500 (B) $1,650 (C) $3,150 (D) $2,640
+16. Broker Dale borrowed $8,000 during an economic downturn. His quarterly
+interest payments are $200 per quarter on the full amount. What
+annual interest rate was he charged?
+(A) 9'h% (B) 10'/•% (C) 10'/zo/o (D) 10%
+17. A tenant is paying $500 a month rent. He has $50,000 in savings paying
+5'/•% interest. He has an opportunity to buy a small duplex for $50,000.
+He can rent half of it for $400/mo. and pay monthly expenses of
+$282.14. Which of the following is most nearly correct?
+(A) He should continue to rent.
+(B) He should continue to rent but invest @ 5'h%.
+(C) He can buy the duplex and earn 5'/zo/o.
+(D) He can buy the duplex and earn over 10%.
+18. The value of a frame house at the end of six years was estimated to be
+$67,650. What was the original cost of the house if the yearly rate of depreciation
+was 2'h%?
+(A) $79,588 (B) $69,588 (C) $75,588 (D) $77,588
+19. A lot 165' wide and 150' deep was sold for $27,670. What was the price
+per front foot?
+(A) $121.00 (B) $165.70 (C) $121.70 (D) $167.70
+20. The net amount received by a seller for his property, after the broker had
+deducted a sales commission of 5% and an allowance of $240.00 forcertain
+other expenses, was $69,080. What was the selling price?
+(A) $68,840 (B) $73,050 (C) $72,968 (D) $71 ,652
+21. A resident manager collects $535/mo. on each of 3 apartments. He
+makes monthly disbursements of $328.50 for utilities and $22 for insurance
+premiums. His management fee is 10% per month. How much does
+he send to the owner each month?
+(A) $1 ,056 (B) $1 ,256 (C) $1 ,094 (D) $1 ,294
+22. A three-story apartment building contains 4 units on each floor. First
+floor units each rent for $625/mo., second floor units each rent for $615
+and third floor units each rent for $600. The landlord receives a 10%
+return after expenses of $25,600. The value of his investment is:
+(A) $600,000 (B) $627,200 (C) $600,200 (D) $622,700
+23. An owner received $92,780 after paying his broker 7%. What was the
+selling price?
+(A) $97,963 (B) $99,763 (C) $99,973 (D) $98,693
+24. Boyle makes a down payment of $6,600 on a $66,000 ranch using VA
+financing. Monthly payments on principal are $247.50 per month. How
+many years will it take to pay off the loan?
+(A) 12 yrs. (B) $18 yrs. (C) 20 yrs. (D) 25 yrs.
+25. Closing on the Tole property is to be December 4. Taxes for the year are
+levied for the fiscal year (July I-June 30) and are payable in two installments
+(Nov. 1 and May 1). Tole has paid $480 as his first installment.
+Compute the proration. Who will get the credit?
+(A) $71.98 to seller (C) $71.98 to buyer
+(B) $65.60 to buyer (D) $65.60 to seller
+26. A blueprint using a scale of 'I•" = 1' showed a display room measuring
+4" X 3'/z". What would it cost for floor tile at $8.00/sq. yd.?
+(A) $184.32 (B) $189.12 (C) $199.12 (D) $203.32
+27. A broker charges a management fee of one-third of the first month's rent
+and 2% of each subsequent month's rent. He pays a $100 "finder's fee"
+to an agent. If the house rents for $800 per month, how much does the
+broker make in a year?
+(A) $432.66 (B) $332.32 (C) $351.16 (D) $342.66
+28. Belmont sells her house for $80,000. She pays 3 points to the lender on
+a 90% FHA loan and a 6.5% commission. Having bought the house for
+$60,000 4 yrs. before, what was the annual rate of her profit?
+(A) 7.5% (B) 5.27% (C) 5.63% (D) 6.07%
+29. The sale of an apartment building is being closed on Sept. 15th, 2000.
+Sept. rents of $600 each of the 10 apartments have been collected. The
+seller holds security deposits of one month's rent from each tenant.
+Figure the proration and who receives the credit.
+(A) $3,000 (B) $6000 (C) $9,000 (D) $9,500
+30. Insurance on the apartment in Problem 29 is a 5 year policy which
+expires on June 6, 2005. The premium of $8,000 has been paid in full.
+Figure the proration and who receives the credit.
+(A) $7,559.88 seller (B) $3,779.80 seller
+(C) $8,359.88 buyer (D) $8,359.80 buyer
+31. The Underhill Savings loaned 60% of value at 13% per annum. The
+interest payment for the first month was $703.20. What was the value?
+(A) $108,185 (B) $106,125 (C) $100,200 (D) $100,215
+32. Simons made a $7,500 deposit on a $77,500 property and obtained an
+FHA mortgage. His monthly payment for principal and interest is $350.
+How many years will it take to pay off the mortgage?
+(A) 16 yrs. 8 mos. (B) 15 yrs. 9 mos.
+(C) 19 yrs. 9 mos. (D) 15 yrs. 8 mos
+33. Baiting Brook bisects a parcel of land, leaving a triangle plot on either
+side. Lot A has 600' frontage on Mitchell Lane and a 700' depth. How
+many acres are there in Lot A?
+(A) 4.82 acres (B) 9.64 acres
+(C) 2.41 acres (D) 3.64 acres
+34. Bond wishes to net $83,000 and agrees to pay his broker 6'h%. At what
+price should the property be listed?
+(A) $89,770 (B) $89,460 (C) $88,460 (D) $88,770
+35. Fifty studs, each 12' long and 4" X 6" were delivered at a building site.
+How many board feet would the builder be charged for?
+(A) 1,200 (B) 1,152 (C) 24 (D) 1,300
+36. A country home has 2,500' frontage on Old County Road and 5,000' on
+Hudson Road which intersects Old County at right angles. A third
+boundary runs parallel to Old County for a distance of 5,000. '00. How
+many acres are in the tract?
+(A) 861 acres (B) 573.9 acres
+(C) 430.4 acres (D) 634.9 acres
+37. An apartment building sells for 90% of its offering price of $200,000. If
+the tax rate in the jurisdiction in which the building is located is $3.80
+per hundred based on 45% of a property's market value, how much is the
+annual tax on the building?
+(A) $3,420 (B) $3,078 (C) $3,175 (D) $3,575
+38. A house is offered at $96,000 with a 6% fee. After 5 months, an offer of
+$80,000 will be accepted if the broker will accept a 5% fee. If accepted,
+how much less will the salesman involved get than he anticipated when
+he listed the property if he is on a 50% fee arrangement with his broker?
+(A) $1,760 (B) $880 (C) $440 (D) $760
+39. A broker's fees for managing an income property are 10% of the rental
+income for the first year, 6% for the second, and 5% thereafter. Annual
+gross income is $30,000 and other expenses $4,000. For the first year the
+owner's investment was capitalized at 9%. Approximately what was the
+difference between the capitalization rates for the first and second years?
+(A)3% (B)5% (C)7'h% (D) '!,%
+l 200'
+1
+Figure 17-26
+--------1,200' -------
+90°
+55'
+c=J23•
+90°
+---------1,300' -------➔
+STREET
+40. From Figure 17-26 determine:
+A) Acreage in the parcel
+B) Cost of the dwelling at $26.00 per sq. ft.
+C) Maximum number of residential lots that can be developed within
+the parcel, given the following four restrictions:
+1) each house is to have a 55' X 28' rectangular foundation
+2) each house is to face the street
+3) length of each house is to be parallel with the street
+4) front, side and rear set-backs must be at least 50'
+A. Acreage is: (A) 5.7 (B) 6.2 (C) 4.9 (D) 6.4
+B. Dwelling cost is: (A) $39,700 (B) $39,940 (C) $40,040
+C. Maximum number of lots is: (A) 5 (B) 6 (C) 7 (D) 8
+41. A developer agrees to sell a lot 430' X 500' from a tract he bought at
+$5,000 per acre. He wants 20% return on his investment. How much
+should he ask for the lot?
+(A) $28,400 (B) $30,200 (C) $29,400 (D) $28,200
+42. A four bedroom colonial was built 22 years ago at a cost of $30,000 on
+a 20,000 sq. ft. lot which cost $4,800. The dwelling has appreciated
+205% and the lot 500%. What is the current value of house and lot?
+(A) $100,500 (B) $120,300 (C) $125,100 (D) $119,800
+43. A lot was purchased on speculation for $6,000 with $1,200 down. The
+balance is to be paid in installments of $50.00 per month, in addition to
+which the buyer pays interest. The contract was dated July 1, 1991 and
+the first payment was due on August 1, 1991. If all payments are made
+regularly and not more than a $50.00 principal payment is made on any
+installment date, when will the contract be paid off?
+(A) July 1, 1998 (B) Aug. 1, 1997 (C) July 1, 1996 (D) July 1, 1999
+44. Woods applies to his bank for a loan to purchase an $85,000 home. The
+bank requires an I 8% down payment on the first $40,000 and a I 4%
+down payment on the balance. If 4 points are charged on the balance
+what will be the bank's loan fee?
+(A) $2,860 (B) $775.20 (C) $3,400 (D) $2,560
+45. Taxes on Lot A are $1,400 this year. The first 6 months have already
+been paid by the seller. If title conveys on Dec. 15, how much would the
+seller be charged when prorating taxes?
+(A)$641.67 (B)$116.16 (C)$58.33 (D)$137.19
+46. A I½ acre lot is to be built upon. When engineered, 25% was found to
+be ledge and another 'h unbuildable. One-sixth of the usable area is an
+easement. How many sq. ft. can be built upon?
+(A) 27,225 (B) 22,687.50 (C) 2 I ,225 .50 (D) 21 ,777
+47. Bronson owns a 50' X I 80' city lot for which he paid $65/front foot.
+Scott offers to sell land adjoining for $1 .50/sq. ft. If Bronson limits his
+total investment to $7,300, how many square feet in total will he own
+after the purchase?
+(A) 11,300 (B) 11,700 (C) 2,700 (D) 2,300
+48. Foss and Boss, next-door neighbors, plant gardens. Foss makes his in
+circular form, 36' across. Boss makes his in the form of a square with a
+30' side. Which is larger and by how much?
+(A) Square by 117.36 (B) Circle by 117.36
+(C) Square by 127.34 (D) Circle by 127.34
+49. You have measured a house and determine it has 1,640 sq. ft. The garage
+measures 22' X 30'. Cost of the house when built 8 years ago was
+$30.50/ft. and the garage $12.00/ft. Depreciation has averaged 2% per
+year. The lot is 150' X 250'and is comparably valued in the neighborhood
+at $.90/sq. ft. What would be your estimate of value using the Cost
+Approach if there is no functional or economic obsolescence?
+(A) $48,670 (B) $57,940 (C) $82,420 (D) $80,560
+50. Building A, containing 6 condo units has an annual maintenance fee of
+$16,500 which unit owners share on a cost prorata basis. When sold, the
+units cost $125,000, $150,000, $160,000, $165,000, $168,000 and
+$172,000. What is the monthly assessment of the $165,000 unit?
+(A) $182.83 (B) $239.31 (C) $241.31 (D) $248.78
+51. Investor A wants a return of 14% on his investment. B's business nets
+$60,000/year. How much should A offer?
+(A) $400,000 (B) $400,571 (C) $428,571 (D) $428,000
+52. What rate of return will a property yield which has a price of $150,000
+and net income of $15,000?
+(A) 10% (B) 9% (C) 11 % (D) 12%
+53 What would the return be in Problem 52, if $100,000 was invested and a
+loan of $50,000 obtained which reduced net income by $2,500 per year
+for interest expense?
+(A) 11.5% (B) 12.5% (C) 13.5% (D) 13%
+MULTIPLE CHOICE MATHEMATICAL ANSWERS
+1. $ 6,750 X 5 = 33,750
+$ 8,500 X 9 = 76,500
+$10,750 X 7 = 75,250
+Total sales $185,500 $185,500 X .0675 = $12,521.25
+2. $95,600 X .055 = $5,258
+$5,258 X .45 X $2,366.10
+3. $650.00 per mo. X 12 = $7,800/yr.
+100% total commission
+-10% sales manager
+90% for broker and
+salesman or 45% each.
+PART = RATE
+WHOIB
+$7,800 + .128 = $60,937.50 principal ~~e = 12.8 or-~~: = Whole
+4 Part R t 19•950 = 5% 19_0 •9
+5
+50 • Whole = a e Whole = $399,000 investment
+5. $1,250/mo. X 12 = $15,000 income/yr.
+Part 9,100
+Whole = Rate Whole = 6•75
+~()~~~ = $134,814.81 price he would pay.
+$15,000 gross
+= 5,900 expenses
+$ 9,100 net
+6. 59'-8" = 59 ¾ft . 140'-3" = 140 ¼ft. Area = length X width
+187
+2 1 179 561'
+59 3 X 140 4 = ,-3' X 4 = 8368.25 X $14 = $117,155.50
+1
+or 59.66 X 140.25 = 8367.32 X $14 = $117,142.41
+7. $85.00 int.Imo. X 12 = $1,020 interest/yr.
+l,020 = 6% Whole= 1•_0
+0
+2
+6° = $17,000 principal amount
+Whole
+8. 51 ,750 = 45%X
+51 •750 = X X = $115,000 market value
+.45
+9. ~•1~;~ = 23,404.25 principal 23,404.25 = 80%X
+23 •~~;·25 = 29,255.32 or $29,255 appraisal
+19,950
+10. 285 000 = .07 or 19,950:285,000 = X:100
+'
+285,000X = 1,995,000
+X =7%
+11. $80,000 X .85 = $68,000 $68,000 X .05 = $3,400 Answer
+12. $21 ,650 X .115 = 2,489.75 2,489.75 + 12 = $207.48/mo. interest
+$167 principal+ $207.48 mt.= $374.48 monthly payment
+13. 50 - 22 = 28 years undepreciated age
+28
+50 X $200,000 = $112,000
+14. 8 X 200 = $1,600 original cost 8 X 3 lots/acre = 24 lots total
+24 - 2 = 22 lots sold X (20 X 200) = $88,000
+88,000 + 1,600 = 5500%
+15. $60,000 X .80 = $48,000 assessed value
+48 •000 = 48 48 X 55 = $2,640
+1,000
+16. Interest = principal X rate X time I= PRT
+Interest = $200/qtr. X 4 = $800/yr. 800 = 8,000 X R X T
+Principal = $8,000
+Time= l year
+R = .10 or 10%
+800 = 8000R X l
+17. Rent = 500 X 12 = $6,000/yr.
+50,000 X .0525 = $2,625 interest/yr.
+800
+8,000 = R
+If purchased and rented, 400 X 12 = $4,800/yr. rental income
+4,800 income 1,414.32 net income
+-3,385.68 annual expenses 6,000.00 rent saving
+1,414.32 net income 7,414.32
+7,414.32 14 891
+50,000 = . o return
+18. 6 X .025 = 15% total depreciation 100% - 15% = 85%
+85%:67,650 = 100%:x .85x = 67,650
+x = -6-7- -•6:S5S0 = $79 ,5 88 on•g m• a1 cost
+I 9. 27,670 + 165 = $167.70 per front foot
+20. Selling price - commission - allowance = Net price
+SP - 5% - $240 = $69,080
+SP - 5% = $69,080 + 240
+100% - 5% = 95% SP = $69,320
+SP = 6~:5
+20 = $72,968.42 Selling price
+21. $535 X 3 = $1,605 gross mo. income
+328.50 + 22.00 + 160.50 (management fee) = 511.00 expenses
+1,605 - 511 = $1,094 net income sent each month.
+22. 4 X 625 = 2,500 1st floor
+4 X 615 = 2,460 2nd floor
+4 X 600 = 2,400 3rd floor
+$7,360 Total monthly rents X 12 = 88,320/yr.
+-25,600 expenses
+62,720 + 10% = $627,200 value 62,720 net
+23. 93%:92,780 = 100%:x .93x = 92,780
+92780
+~ = X X = $99,763
+24. 66,000 - 6,600 = $59,400 VA mortgage
+59,400 + 247.50 = 240 mos 240 mos+ 12 = 20 years
+25. $480 X 2 = $960 annual tax $960 + 12 = $80 monthly tax
+$80.00 + 30 = $2.666 daily tax 31 days in Dec. -4 = 27 days
+27 days X $2.666/day = $71.98 tax credit to seller.
+26. 1/4" = 1' or I" = 4' 4" = 16', 31/z'' = 14'
+16' X 14' = 224 sq. ft. + 9 = 24.89 sq. yds. X $8.00 = $199.12
+800
+27. - 3- = $266.66 for 1st mo.
+Each additional mo.= $800 X .02 = $16 X 11 mos.= $176.00
+$266.66 + $176.00 = $442.66 - $100 = $342.66
+28. $80,000 X .90 = $72,000 amt. of loan $72,000 X .03 = $2,160
+in points
+$80,000 X .065 = $5,200 commission 2,160 + 5,200 = 7,360 expenses
+$80,000 - 60,000 = $20,000 profit - $7,360 expenses= $12,640 net profit
+$12,640 + 4 = $3,160 profit per year
+3,160 + 60,000 = 5.27% profit per year
+29. 600 X 10 = $6,000 monthly rent $6,000 + 30 = $200 daily rent
+30 days in Sept. - 15 = 15 days rent unearned by seller. $200 X 15 days =
+$3,000 due buyer as a credit plus security deposits (not prorated). $3 000
+credit will be given buyer.
+30. 8,000 + 5 = $1,600/yr. 1,600 + 12 = $133.33 monthly
+133.33 + 30 = $4.44 daily
+Years
+200,i 4
+-2000
+4
+Months
+i ,5 17
+9
+8
+Days
+i 36
+15
+21
+1,600 x 4 years =
+133.33 x 8 mos. =
+4.44 X 21 =
+Insurance proration of $7,559.88, a credit to seller
+31. $703.20/mo. int. X 12 = $8,438.40 annual interest
+8,438.40 + 13 = 64,911 = 60% value
+$
+$6,400
+1,066.64
+93.24
+7,559.88
+60%:64,911 = 100%:x .60x = 64,911 x = $64,911 + 60
+x = $108,185 value
+32. $77,500 - $7,500 = $70,000 mortgage $70,000 + $350 = 200 mos.
+200 months+ 12 = 16 2/3 yrs or 16 years 8 mos.
+(2/3 X 12 = 8 mos.)
+. 600, X 700' 420 000 fit
+33. Area of triangle = 2 2 sq. = 210,000 sq. ft
+210,000 sq. ft. + 43,560 = 4.82 acres.
+34. 100% - 6 1/2% = 93 1/2% .935x = $83,000
+.935:83,000 = 1:x 8~9~~0 = $88,770
+35. 1 board ft. = 12 sq. in. X 1 in. thickness
+4" X 6" = 24 sq. in. --;- 12 = 2 2 = 12' = 24 board feet
+24 board feet x 50 = 1,200 board feet
+36. 2,500' X 5,000' = 12,500,000 sq. ft.
+5,000' - 2,500' = 2,500' 2,500 X 5,000 + 2 = 6,250,000 sq. ft.
+12,500,000 + 6,250,000 = 18,750,000 sq. ft. --;- 43,560 = 430.44 acres.
+37. 90% of200,000 = 180,000
+45% of 180,000 = 81,000
+8l,OOO = 810 810 X $3.80 = $3,078
+100
+38. 96,000 X .06 = 5,760
+80,000 X .05 = 4,000
+$17 60 Total difference if accepted
+50% X 1,760 = $ 880
+39. 1st year 30,000
+Expenses 4,000
+3,000 -7,000
+$23,000
+.09:23,000 = x:$24,200
+2,178 = 23,000x
+2nd year
+Expenses 4,000
+1,800
+.0947
+-.0900
+30,000
+-5,800
+$24,200
+X = .0947 .0047 or 1/2% difference
+40. A) 1,200 X 200 = 240,000
+100 X 200 = 10 000
+2 ,
+240,000 + 10,000 = 250,000
+250,000 --;- 43,560 = 5.7 acres in parcel
+B) 55 X 28 = 1,540 sq. ft. X $26.00 = $40,040 cost
+C) 50 + 55 + 50 = 155 front and rear feet per lot required.
+\~~O = 7.742 7 lots can be developed.
+215,000
+41. 430 X 500 = 43 ,560 = 4.9A
+$5,000 per Acre + 20% profit = $6,000 per acre
+$6,000 X 4.9A = $29,400
+42. $30,000 X 2.05 = $61,500 + $30,000 = $ 91,500 house
+4,800 X 5.0 = 24,000 + 4,800 = 28,800 lot
+43. $6,000 - $1,200 = $4,800
+44. 40,000 X 18% = $ 7,200
+45,000 X 14% = 6,300
+$13,500
+$120,300 total
+4,800 --;- 50 = 96 mo. installments
+96 mo. + 12 = 8 years
+1991 + 8 = 1999 July 1, 1999
+$85,000 - $13,500 = $71,500 mortgage X .04 = $2,860
+45. 1400 + 2 = $700 paid
+700 + 6 = $116.66 per month
+116.66 + 2 = $58.33 per 1/2 month
+$700 - $58.33 = $641.67 seller's tax charge
+46. 1.5 acres = 65,340 sq. ft. .25 X 65,340 = 16,335
+1/3 X 65,340 = 21,780
+not usable 38,115 sq. ft.
+65,430 - 38,115 = 27,225 usable sq. ft.
+1/6 X 27,225 = 4,537.5 sq. ft. easement
+27,225 - 4,537.5 = 22,687 sq. ft. can be built upon.
+47. 50 X $65 = $3,250
+$7,300 - $3,250 = $4,050 bal. to be invested
+$4,050 + $1.50 = 2,700 sq. ft. that can be bought
+50' X 180' = 9,000 already owned
++ 2,700
+11 ,700 sq. ft. total
+48. Area of circle = 3.14 X r'
+d = 36, hence r = 18
+18 X 18 X 3.14 = 1017.36 sq ft.
+49. House 1,640 sq. ft. x $30.50 =
+Garage 22 x 30 x $12.000
+2% depr. for 8 years = 16%
+30' X 30' = 900 sq. ft.
+1017.36 - 900 = 117'.36 larger
+$50,020
+7,920
+57,940
+-9,270
+$48,670
+Land 150' X 250' = 37,500 sq. ft. X .90 33,750
+50. Total cost of units = $940,000
+$165,000
+$940,000 = 17 .55% of total cost
+$82,420 estimated value
+$ 16,500 x .1755 = $2,895.75/yr. + 12 = $241 .31/mo.
+60,000
+51. WHOLE = l4%
+60•000 = $428 571
+.14 '
+15,000
+52. 150,000 = RATE
+15,000 + 150,000 = 10%
+53. 15,000
+-2,500
+12,500
+1~~:~~~ = .125 or 12.5% (An increased yield due to financing)
+
+
+
+
+
+TEST ONE-SECTION A
+1. A broker's promise to make every effort to sell an exclusive listing
+makes a (an):
+(A) Unilateral Contract
+(C) Executed Contract
+2. An appraiser is hired to:
+(A) Determine market value
+(B) Estimate market value
+(C) Establish market value
+(D) Determine cost
+(B) Bilateral Contract
+(D) Voidable Contract
+3. A measurement to determine land boundaries is known as a (an):
+(A) Appraisal (B) Search (C) Survey (D) Metes and Bounds
+4. Fifty years ago A bought 14'h acres for $275/acre which B inherited.
+After dividing the acreage into 'h acre lots, he kept 2 and sold the rest
+for 17 'h times per lot what A had paid per acre. After paying a 10% commission,
+what profit did B make?
+(A) 600% (B) 2,933% (C) 1,090% (D) 2,160%
+5. A percentage lease is generally based on:
+(A) Net profits
+(B) Gross profits
+(C) Gross profits plus % of net profits
+(D) Base rent plus % of gross profits
+6. Of the following restrictive covenants, which is enforceable?
+(A) Restricts use to single family dwellings
+(B) Prohibits resales
+(C) Prohibits resales for limited time
+(D) Prohibits sale to minorities
+7. The passing of title to real estate is:
+(A) From grantor to mortgagee
+(B) From grantee to vendee
+(C) From grantor to vendor
+(D) From grantor to grantee
+8. Whether an article is a fixture is determined in part by:
+(A) Secret intent of the buyer (B) Its appearance
+(C) Manner in which it is attached (D) Its utility
+9. The most distinguishing feature of joint tenancy is that:
+(A) Tenants possess separate estates
+(B) Tenants may possess unequal interests in a separate estate
+(C) Interest of a deceased tenant passes to remaining tenant
+(D) Interest of a deceased tenant passes to next of kin
+10. Assigning different weights to the three appraisal approaches to value is
+known as:
+(A) Averaging (B) Reconciliation
+(C) Comparison (D) Accrued depreciation
+11 . An attorney-in fact is the holder of:
+(A) A law degree
+(B) A power of attorney
+(C) An appointment by court order
+(D) A deed from a trustee under a will
+12. A mortgage containing an alienation clause will:
+(A) Penalize prepayment (B) Become due at maturity
+(C) Prevent assumption (D) Permit prepayment
+13. In the listing process, a broker would estimate value of a home by the:
+(A) Cost approach
+(B) Income approach
+(C) Market approach
+(D) Use of the gross rent multiplier
+14. Constructive notice is given when a deed is:
+(A) Signed (B) Sealed (C) Recorded (D) Delivered
+15. Question deleted.
+(A) B's by $2,635 (B) A's by $2,635
+(C) A's by $12,744 (D) B's by $12,744
+16. A fee simple estate is all EXCEPT:
+(A) Without limitation (B) Inheritable
+(C) Of infinite duration (D) Free of encumbrances
+17. To be valid, a deed requres:
+(A) Acknowledgement
+(B) Acceptance
+(C) Recording
+(D) Grantee's signature
+18. Tearing down a vacant downtown department store to build an office
+building is an example of:
+(A) Highest and best use (B) Conformity
+(C) Substitution (D) Progression
+19. A written agreement signed by both buyers and sellers and specifying
+title conveyance in 30 days is:
+(A) Unconscionable
+(B) A bilateral implied executory contract
+(C) An express bilateral executory contract
+(D) An express bilateral executed contract
+20. Dahl's home appraised for $130,000. If the appraiser depreciated it 25%
+since purchased 5 years ago, what was Dahl's cost?
+(A) $162,500 (B) $162,333 (C) $170,500 (D) $173,333
+21. RESPA requires a lender to provide a purchaser with:
+(A) A good faith estimate of closing costs
+(B) Lender's application for title insurance
+(C) A "HUD Information and You" booklet
+(D) An accurate list of closing costs
+22. A owns a property valued at $450,000 with a mortgage of $370,000 and
+wishes to exchange it for B's $600,000 property with a $460,000 mortgage.
+If the mortgages are assumed how much boot is involved?
+(A) $140,000 (B) $80,000 (C) $70,000 (D) $60,000
+23. Limited partners are:
+(A) Active in management
+(B) Restricted in amount of earning
+(C) Limited in liability
+(D) Limited in amounts invested
+24. The Federal Fair Housing Act of 1968 provides for all EXCEPT:
+(A) Familial status
+(B) Obtaining legal custody of a child
+(C) Disabled accessibility to a bakery
+(D) Steering
+25. The authority granted an agent to accomplish incidentals to a sale is or
+must be:
+(A) Apparent (B) Implied (C) Express (D) In writing
+26. A broker, as agent for a seller, procures a 90 day option to purchase.
+When would he be entitled to a commission, if at all?
+(A) Upon signing of the option
+(B) When optionee exercises option
+(C) When execution of purchase contract occurs
+(D) When option is recorded
+27. A homeowner has a capital gain exclusion of $500,000 when he sells *
+under the following conditions EXCEPT:
+(A) Must own the property
+(B) Must occupy for 2 of last 5 years
+(C) Regardless of age
+(D) Exclusion can be used only once
+28. A passive investor is one who:
+(A) Only invests capital in a project
+(B) Manages business
+(C) Invests and participates in management of a project
+(D) Hopes to become an active investor
+29. An appraiser finds a comp sold 6 months ago for $85,000. If inflation
+was 4% last year, what adjustment should be made?
+(A) Adjust upward 4% (B) Adjust up to $86,700
+(C) Adjust down 4% (D) Adjust down to $83,300
+30. A paid $3,857 for a 7 month period on a $68,000 mortgage. The interest
+rate is between:
+(A) 7 & 8% (B) 8 & 9% (C) 9 & 10% (D) 10 & 11 %
+31. A deciding factor in determining procuring cause might be any of the
+following EXCEPT:
+(A) Which broker the buyer preferred
+(B) Who had the listing
+(C) Who first took the buyer over the threshold
+(D) Who made the customer a buyer
+32. A house has an assessed value of $42,000 which is 30% of market value.
+Tax rate is $32.00/$1 ,000. What is its market value and annual tax?
+(A) $200,000 - $6,400 (B) $140,000 - $4,480
+(C) $60,000 - $1,920 (D) $54,600 - $1,747
+33. A house on a rectangular lot has a value of $198,000. Lot frontage is
+180'. What is the depth if the value is the equivalent of $4.00/sq. ft.?
+(A) 310' (B) 330' (C) 275' (D) 300'
+34. A tenant's 3 year lease expired yesterday. Today the landlord finds he is
+still in the apartment. What type occupancy does the tenant have?
+(A) Periodic tenancy (B) Tenancy at will
+(C) License (D) Tenancy at sufferance
+35. The cost basis of a property is affected by all EXCEPT
+(A) Depreciation taken
+(B) Interest rate on the mortgage
+(C) Improvements made
+(D) Initial purchase price
+36. A pending suit that could affect a property's title is:
+(A) Encroachment (B) Lis Pendens (C) Restitution (D) Defeasance
+37. An estate created at the same time as another, but limited to begin upon
+termination of the other companion estate is known as:
+(A) Remainder estate (B) Life estate
+(C) Surviving estate (D) Estate upon termination
+38. A ground lease is:
+(A) A lease in which the lessee pays taxes on the land
+(B) A rental of raw land with improvements by the lessee
+(C) A separate rent for land and improvements
+(D) A land lease without encumbrances
+39. A building may not decline in market value, but an investor may take
+yearly depreciation in order to:
+(A) Recapture his investment in a wasting asset
+(B) Improve his adjusted cost basis
+(C) Improve his net worth
+(D) Shorten the building's useful life and faster write-off
+40. Annual rents were $72,500 and expenses were $27,000. What is the
+return on the investment if the building was bought for $500,000?
+(A) 9% (B) 9.2% (C) 8.8% (D) 8.5%
+41. Category #1 of the Mass. Fair Housing Practices exceeds Title VIII of
+the federal law by including:
+(A) Handicapped (B) National origin
+(C) Sexual orientation (D) Familial status
+42. All of the following are advantages of an FHA loan EXCEPT:
+(A) Lower downpayment
+(B) Long term mortgages
+(C) Helpful to first time buyers
+(D) Buyer is protected by FHA insurance
+43. The Federal Equal Opportunity Act prohibits the following EXCEPT:
+(A) Discrimination against credit applicants
+(B) Refusal to give a credit applicant a copy of an appraisal
+(C) A lender notifying an applicant of a denied loan within 3 days
+(D) Broker discrimination in referring a customer to a lender
+44. A lease purchase option may provide for a portion of the rent to be
+applied to the downpayment provided that:
+(A) The optionee exercised within the option period at the agreed price
+(B) The optionee has made all rent payments as scheduled.
+(C) The optionor has not accepted another option.
+(D) The optionee has kept the premises in good condition.
+45. A broker co-brakes a property for $84,000 subject to VA approval with
+$4,200 down. The CRY comes in for $77,500 which the seller refuses.
+The buyer cannot increase his downpayment. The broker should:
+(A) Ask the seller to carry a $2,300 second mortgage
+(B) Lend the buyer the money
+(C) Reduce his commission by $2,300
+(D) Return the buyer's deposit
+46. The following are true EXCEPT:
+(A) An offer may be withdrawn before acceptance
+(B) An offer remains effective until terminated or withdrawn
+(C) A counteroffer terminates the original offer
+(D) A counteroffer precludes any further lesser offer
+47. An estate in fee simple which forbids the sale of antiques is a:
+(A) Fee upon condition (B) Fee simple absolute
+(C) Fee simple determinable (D) Freehold estate
+48. In question 47, if antiques are sold on the premises the estate:
+(A) Becomes fee simple defeasible
+(B) Reverts to the grantor
+(C) Continues until the business is sold
+(D) Requires the grantor to serve constructive notice
+49. The size of a waterfront lot may be increased by all EXCEPT:
+(A) Alluvion (B) Affiant (C) Accretion (D) Avulsion
+50. An owner of land abutting a standing body of water has which of the following
+rights?
+(A) Adjacent owners' (B) Littoral
+(C) Riparian (D) Shoreland
+51. At a foreclosure sale which of the following liens has priority?
+(A) Betterment (B) Mechanic's
+(C) Mortgage (D) Vendee's
+52. A 67 year old widow has a homestead exemption. A creditor puts an
+attachment on her property for $150,000. How much must she pay?
+(A) $00,000 (B) $50,000 (C) $100,000 (D) $150,000
+53. A failed to fulfill his obligations in a contract with C causing C to lose
+$5,000. C could sue for:
+(A) Specific performance (B) Reformation
+(C) Rescission (D) Compensatory damages
+54. A, B, C and Dare joint tenants. A dies and leaves his interest to Z. B then
+dies. The state of the title is:
+(A) 1/4 in C, 1/4 in D, 1/4 in Zand 1/4 in B's heirs
+(B) 1/3 in C, 1/3 in D, and 1/3 in Z
+(C) 1/2 in C and 1/2 in D
+(D) 2/3 in C and D and 1/3 in Z as a tenant in common
+55. The type of deed in which the grantor warrants the premises to be free
+of encumbrances made by him is:
+(A) Warranty (B) Special warranty
+(C) Quitclaim (D) Certificate of title
+56. A lease in which the lessee pays all except debt service is a:
+(A) Net net net (B) Net (C) Graduated (D) Percentage
+57. A clause in a lease that indicates there will be no transaction until the
+lessor wishes to do business is a (an):
+(A) Option (B) Right of first refusal
+(C) Renewal (D) License
+58. Of the following, which is a property manager's highest priority?
+(A) To manage in accordance with owners s instructions
+(B) Make a profit
+(C) Enhance the property's reputation
+(D) Procure good tenants
+59. A mortgagee will require a mortgagor to have what kind of insurance to
+cover the mortgage?
+(A) Homeowner's insurance (B) Mortgage insurance
+(C) Fire insurance (D) Flood insurance
+60. A 3 bedroom ranch, built 20 years ago, cost $30,000 on a 19,000 sq. ft.
+lot costing $5,000. The dwelling has appreciated 200% and the lot
+500%. What is the current total value?
+(A) $85,000 (B) $90,000 (C) $120,000 (D) $115,000
+61. A has had his 1 'h acre lot engineered. 1/3 was found unbuildable and
+25% is ledge. 116th of the usable area is a sewer easement. How many
+sq. ft. can be built upon?
+(A) 22,687 (B) 21,225.5 (C) 22,898 (D) 27,225.5
+62. An annual percentage rate is:
+(A) The note rate plus finance charge
+(B) The monthly rate X 12
+(C) The prime rate plus finance charge
+(D) The bank rate X 12
+63. Under Regulation Z which of the following is permissible in an
+advertisement?
+(A) $400 per month
+(B) $5,000 down, 10% interest for 30 years
+(C) Reasonable monthly terms
+(D) 10% interest, nothing down
+64. A broker in order to collect a commission on the sale of his exclusive
+right to sell listing by another firm need only prove that:
+(A) He advertised the property
+(B) Listing was signed by seller
+(C) He was the procuring cause
+(D) Listing was in effect at time of sale
+65. A built a three story dwelling in conformity with zoning requirements
+but cut off B's ocean view in the process.
+(A) A was in violation of his adjacent owner's rights
+(B) B can sue for compensatory damages
+(C) A was within his air rights
+(D) B's littoral rights were violated
+66. The land lying between high and low water marks is:
+(A) Alluvion (B) Accretion (C) Foreshore (D) Waterfront property
+67. Which of the following means "and husband"?
+(A) Et deux (B) Et al (C) Et ux (D) Et con
+68. Two appraisers use the income approach. A uses an economic life of 20
+years. B estimates it to be 15 years. Which statement is correct?
+(A) B's value is higher than A's
+(B) A's value is higher than B's
+(C) Difference in value is 1 %
+(D) Difference in value is 2%
+69. Remaining economic life may be described as:
+(A) Remaining life if functional obsolescence is remedied
+(B) Life during which economic value will be contributed
+(C) Life determined by use of a realistic capitalization rate
+(D) Life expected if economic obsolescence is remedied
+70. An example of downzoning would be:
+(A) Reduction of set-back requirements
+(B) Decreasing lot sizes
+(C) Changing from single family to multi-family use
+(D) Changing from multi-family to single family use
+71. A co-broker property sold for $215,500. The listing firm gets 40% of a
+6½% commission, the listing salesman 20% and the selling salesman
+50%. What does each firm net?
+(A) $5,603-$8,404.50 (B) $4,482.40-$4,202.25
+(C) $5,554-$8,234 (D) $4,650.35-$4,433.25
+72. The quasi governmental agency foremost in the secondary mortgage
+market is:
+(A) FDIC (B) FHLMC (C)FNMA (D) GNMA
+73. A property was valued at $400,000 using a 7% capitalization rate. A
+prospective buyer wants a 9% return. The property's value will be:
+(A) $301,119 (B) $311,111 (C) $299,510 (D) $321,510
+74. A Realtor® is:
+(A) A member of the National Association or Realtors®
+(B) Any licensed broker
+(C) Any licensed salesman
+(D) Anyone who sells real estate
+75. Broker A, a subagent of listing Broker B, told a customer that the seller
+would probably accept $2,000 less than the asking price. Broker A:
+(A) Exercised a fiduciary duty
+(B) Did what a subagent should do to make a sale
+(C) Was being loyal to the customer and Broker B
+(D) Violated his fiduciary relationship with the seller
+76. Condemnation of a property for public use is under which of the following
+powers?
+(A) Ejectment (B) Eminent domain (C) Police (D) Escheat
+77. Tenant A leased space to B for the balance of the term. This was a (an):
+(A) Sublease (B) Disposal of control
+(C) Assignment (D) Complete assignment
+78. A court might decide that a grieved party has lost a right by not asserting
+it within a reasonable period of time because of:
+(A) Novation (B) Laches (C) Estoppel (D) Reformation
+79. HUD does which of the following?
+(A) Insures single family dwelling loans under Title I, Sect 201
+(B) Guarantees 1-4 family loans under Title II, Sect 202
+(C) Insures 1-4 family loans under Title II, Sect. 203
+(D) Insures condominium loans under Title I, Sect 201
+80. In conveying real estate, all rights, easements, etc. are included:
+(A) Unless they are only apparent
+(B) Subject to grantor's approval
+(C) Subject to grantee's approval
+(D) Unless the contrary is stated in the deed
+81. Which of the following is of definite duration?
+(A) Estate for years (B) Periodic tenancy
+(C) Tenancy at will (D) Estate at suffrance
+82. A 1-story building is to be erected on a rectangular lot having 105'.00
+front and 135'.00 depth. Zoning setbacks are 20' front and rear and 10'
+sides. At $48/sq. ft. for the maximum square footage of the building,
+what will it cost?
+(A) $570,000 (B) $387,600 (C) $469,200 (D) $680,400
+83. A real estate broker has a fiduciary duty to the:
+(A) Seller (B) Office he works for
+(C) Buyer (D) The one who hired him
+84. In a lease, habitability of the premises is:
+(A) Guranteed (B) Not guaranteed
+(C) A foregone conclusion (D) An implied warranty
+85. Homes worth $300,000 were built on each side of one worth $200,000.
+Which appraisal principle applied?
+(A) Contribution (B) Over improvement
+(C) Progression (D) Regression
+86. Marketability refers to all EXCEPT:
+(A) Chain of title (B) Property defects
+(C) Easements (D) Encroachments
+TEST ONE-SECTION B
+1. An owner wishes to list his dwelling which, he admits, contains .09 parts
+of UFFI. What would you do?
+(A) List the property and disclose to a prospect
+(B) Refuse to list
+(C) To list would be discriminating
+(D) To refuse would be incriminating
+2. If an owner cannot provide a title reference, where could it be found?
+(A) Local assessor's office (B) Tax collector's office
+(C) Mortgage note (D) Registry grantor-grantee index
+3. The most common form of title insurance policy in Mass. is:
+(A) Mortgagee's (B) Leasehold
+(C) Owner's (D) Mortgagor's
+4. A took a promissory note for $500 as B's deposit on C's property.
+(A) A broke the law
+(B) A must tell C about the note
+(C) A must cover B's note with cash
+(D) A must cover B's note by check
+5. Familial status includes all the following persons EXCEPT:
+(A) Pregnant
+(B) Under age 18 living with parent
+(C) In process of obtaining legal custody
+(D) Under 16 living with guardian
+6. The Massachusetts Industrial Finance Agency does all EXCEPT:
+(A) Insure investors (B) Issue bonds
+(C) Insure loans (D) Make direct loans
+7. A customer's deposit may be placed in any account EXCEPT:
+(A) A non-interest bearing trust
+(B) An operating reserve
+(C) An interest bearing trust
+(D) A customer's depository fund.
+8. Zoning bylaws as a police power:
+(A) Are not an encumbrance
+(B) Are deed restrictions
+(C) Never impede use
+(D) Are a type of encumbrance
+9. A buyer made a $1,000 deposit when offering $103,000 for a property
+priced at $107,500. The owner accepted. When the transaction "soured"
+both buyer and seller requested the deposit. If the broker complied with
+instructions in the agreement he should:
+(A) Return the deposit to the buyer
+(B) Give the deposit to the seller
+(C) Keep funds in escrow until problem is solved
+(D) File an interpleader
+10. After a P&S was signed and 2 days before closing, a broker discovered
+water in the normally dry basement. The broker should:
+(A) Refund the buyer's deposit
+(B) Inform the seller
+(C) Inform no one because of the closing in 2 days
+(D) Inform seller and buyer
+11. A broker's surety bond is made payable to:
+(A) An aggrieved party (B) The broker
+(C) The Commonwealth (D) The Board of Registration
+12. To obtain approval for promotion of out-of-state land sales, application
+must be:
+(A) Made by the developer
+(B) Made by out-of-state licensed broker
+(C) Approved by Attorney General
+(D) Made by Mass. licensed broker
+13. A leaking underground fuel storage tank must be reported to:
+(A) Local fire chief
+(B) Local police chief
+(C) Local board of health
+(D) Dept. of Environmental Quality Engineering
+14. A licensee may do the following EXCEPT:
+(A) Negotiate a commission
+(B) Charge more than a 7% commission
+(C) Act as undisclosed principal and licensee
+(D) Give copies of an offer to buyer and seller
+15. Which of the following would be blockbusting?
+(A) Refusal to rent to "testers"
+(B) Refusal to lend in a designated area
+(C) Directing prospects to comfortable racial areas
+(D) Soliciting listings based on fear of racial change
+16. A black apartment owner can:
+(A) Refuse to rent to a white couple
+(B) Charge 2 singles a higher security deposit than a maiTied couple
+(C) Refuse to allow the seeing-eye dog of a blind person if other dogs
+are not allowed
+(D) Require a handicapped tenant to pay for necessary modifications for
+his use
+17. A residential tenant, having a 2 year lease, moved out without notice
+after 8 months. The owner may:
+(A) Sue for 4 mos. rent (B) Retain the security deposit
+(C) Sue for 16 mos. rent (D) Notify the local rent board
+18. If a customer of an Apartment Listing Service has not found a rental by
+the time his contract with the service expires, he is entitled to:
+(A) Have any deposit refunded
+(B) A refund of all except any fee agreed to in writing
+(C) Refund of any deposit in excess of $30.00
+(D) No refund
+19. Upon death of a principal broker, his wife upon payment of the prescribed
+fee could:
+(A) Run the business without a license for 1 year
+(B) Have a licensed salesman run the business
+(C) Obtain a temporary license upon filing of a bond
+(D) Let her 19 year old son run the business for one year
+20. At the closing of a condo resale, which of the following is necessary?
+(A) 6D Certificate (B) Floor plan
+(C) Condo Declaration (D) Deed to common areas
+21 . A violation of Mass. Fair Housing Practices may result in any of the following
+EXCEPT:
+(A) Compensatory damages (B) Civil penalty of $10,000
+(C) 60 day license suspension (D) License revocation
+22. In a consumer action case a court might award treble damages in each
+case EXCEPT:
+(A) Broker acted in good faith
+(B) Reasonable offer of settlement was made
+(C) Demand notice was not sent
+(D) Broker committed a deceptive practice
+23. The Massachusetts Smoke Detection Law requires a seller to:
+(A) Have a smoke detector in the front hallway
+(B) Tie smoke detectors into the house electrical system
+(C) Present an Inspection Certificate at closing
+(D) Have a smoke detector in each bedroom ceiling
+24. To be recorded in Mass. an out-of-state deed must have:
+(A) Originating state excise stamps
+(B) Certificate of Notorial Authority
+(C) Certificate of appointment
+(D) Notary's seal and certificate of acknowledgment
+25. In Mass. an Agency Disclosure Form must be given to a prospective
+buyer or seller:
+(A) Before a P&S is signed
+(B) When first offer is made
+(C) At first meeting to discuss a specific property
+(D) Before closing
+26. An unlicensed developer hires a broker to sell his homes on a non-exclusive
+basis. The developer:
+(A) May sell his homes without a license
+(B) Is subject to Board of Registration disciplinary action
+(C) Owes the broker commissions for homes he sells
+(D) Subjects his broker to possible Board action
+27. In Mass. discriminatory provisions for commercial space are the same as
+those for residential EXCEPT:
+(A) Familial and veteran status (B) Marital status
+(C) Handicapped (D) Sexual orientation
+28. The Massachusetts Housing Finance Agency obtains its funds from:
+(A) The Commonwealth (B) HUD
+(C) The sale of bonds to investors (D) Low interest mortgages
+29. In Mass. which of the following deeds is most common?
+(A) Quitclaim (B) Warranty
+(C) Special warranty (D) Certificate of Title
+30. A subagent of a listing broker may disclose which of the following to a
+prospect without permission?
+(A) What is wrong with the property (B) What the seller paid
+(C) Why the seller must sell (D) What the seller may accept
+31. Three of the members of the Board of Registration must be:
+(A) Representative of the public
+(B) Licensed brokers active for at least 7 years
+(C) Appointed by the chairman
+(D) Appointed for a 7 year term
+
+
+ANSWERS
+TEST ONE-SECTION A
+1. A 14. C 27. D 40.A 53 . D 66.C 79 . C
+2.B 15. 28 . A 41. C 54 . C 67. D 80 . D
+3. C 16 . D 29 . B 42 . D 55 . C 68. B 81. A
+4. B 17. B 30. C 43 . C 56 . A 69 . B 82 . B
+5. D 18 . A 31. C 44 . A 57 . B 70 . D 83. D
+6.A 19 . C 32 . B 45 . D 58. A 71. B 84 . D
+7. D 20. D 33. C 46. D 59. C 72. C 85 . C
+8. C 2 1. A 34. D 47 . C 60 . C 73 . B 86 . B
+9. C 22 . D 35 . B 48 . B 61. A 74 . A
+10. B 23 . C 36. B 49 . B 6 2. A 75 . D
+11. B 24.C 37 . A 50 . B 63 . C 76.B
+12. C 25.B 38. B 51. A 64 . D 77.C
+13. C 26.C 39.A 52.A 65.C 78.B
+TEST ONE-SECTION B
+1. A 6.A 11. C 16. D 21. D 26.A
+2. D 7. B 12 . A 17. B 22 . C 27.A
+3 . A 8. D 13 . A 18. B 23 . C 28 . C
+4 . B 9.A 14. C 19 . C 24. D 29.A
+5.D 10.D 15. D 20.A 25.C 30 . A
+31. B
+TEST ONE-MATH SOLUTIONS
+4. 14.5 X 275 = 3,987.50 orig. cost 14.5 X 2 lots/acre = 29 lots total
+27 lots sold X (17.5 X 275 ) = 27 X 4,812 .50 = $129,937.50
+129,937.50 - 12,993.75 comm. = $116,943.75
+116,943 .75 + 3,987.50 orig . cos t = 29.33 or 2,933 % profit
+15. 24 X 36 = 864 sq. ft. X $52 = $44,928 for A
+24 X 36 X 8
+24 X 36 X 7 = 6,048 vol. 1st fi . 2 = 3,456 vol. 2nd fi.
+6,048 + 3,456 = 9,504 cu. ft. X $4.45 = $42 ,293
+$44,928 - $42 ,293 = $2 ,635 less for B
+20. $13 ,000 = 75 % of orig . co st $130,000 + .75 = $173 ,333 Dahl's co st
+22. $450,000 - $370,000 = $80 ,000 $600,000 - $460,000 = $140,000
+$140,000 - $80,000 = $60 ,000 cash (boot)
+29. $85 ,000 X .04 = $3,400 + 2 = $1 ,700 $85,000 + $1,700 = $86,700
+30. 3,857 + 7 = $551/mo. or $6,612/yr.
+$6,612 + $68,000 = .097 or 9.7 %
+(up for inflation)
+32. $42,000 = .30 X $42,000 + .30 = $140,000 value
+rate is $32/$1,000 or $140 X $32 = $4,480 tax
+33. $198,000 + $4.00 = $49,500 + 180' = 275' depth
+40. $72,500 -$27,000 =$45,500 net income
+I $45,500 45,500
+V = R $500,000 = R or R = 500,000 = .091 or 9.1 % return
+60. $30,000 X 2.00 (200%) = $60,000 + $30,000 = $90,000
+$5,000 X 5.00 (500%) = $25,500 + $5,000 = $30,000
+$90,000 + $30,000 = $120,000 current value
+61. 43,560 X l '/z = 65,340 sq. ft.
+1/3 X 65,340 = 21,780 25% X 65,340 = 16,335
+21,780 + 16,335 = 38,115 65,340 - 38,115 = 27,225 usable area
+1
+27,225 +6 = 4,538' easement
+27,225 - 4,538 = 22,687 sq. ft. can be built on
+68. 100 + 20 = 5 capitalization rate 100 + 15 = 6.7 cap rate
+V = ! V = $1,000* iincome) = $200 \~~O = $149.25
+A's value is higher
+*$ I ,000 income was chosen for illustration. Any income would answer the question.
+71. $215,500 X .065 = $14,007.50 comm.
+$14,007.50 X .40 = $5,603 .00 listing firm
+$5,603 X .20 = $1,120.60 lister
+net, listing off. $4,482.40
+$14,007.50 X .60 = $8,404 .50 selling firm
+$8,404.50 X .50 = $4,202.25
+net, selling off. $4,202.25
+73. $400,000 X .07 = $28,000 income $28,000 + .09 = $311,111 value
+82. 105' X 135' = 14,175 sq. ft. lot 105' - 10 - 10 = 85' width
+135' - 20 - 20 = 95' depth 85' X 95' = 8,075 max. sq. footage .
+8,075 X $48/sq. ft. = $387,600 cost of building
+
+
+
+TEST TWO-SECTION A
+1. Prior to delivery of a deed in a condo resale the following are expected
+EXCEPT:
+(A) Premises will be free of tenants
+(B) Buyer not to inspect premises before delivery
+(C) Conformity with zoning laws
+(D) Premises in good condition
+2. The appraisal method which combines income and cost approaches to
+determine land value is which of the following?
+(A) Comparative (B) Distribution
+(C) Land residual (D) Development
+3. Book value is all of the following EXCEPT:
+(A) Market value
+(B) Adjusted cost basis
+(C) Cost basis minus depreciation
+(D) Value carried on accounting books
+4. A building sold for $285,000. Broker's commision was $19,950. What
+was the percentage of commission?
+(A) 5% (B) 6% (C) 7% (D) 8%
+5. A straight 8% loan at 80% of appraised value earned interest of $8,825
+the first year. What was the appraised value?
+(A)$110,312 (B)$137,890 (C)$115,414 (D)$139,650
+6. A proprietary lessee owning stock in the corporation describes a:
+(A) Condominium (B) Time share
+(C) Planned unit development (D) Cooperative
+7. Closing date for a sale is October 13. The seller has paid taxes of $3 ,180
+for the year and is responsibile for costs including date of closing. The
+closing statement shows the seller would be:
+(A) Debited $2,499.83 (B) Debited $680.17
+(C) Credited $2,499.83 (D) Credited $680.17
+8. Five years ago A bought an investment property assessed at $200,000 for *
+$160,000. Land was valued at $20,000. Using straight line depreciation
+for a 30 year life what would the present book value be?
+(A) $116,690 (B) $126,690 (C) $136,690 (D) $140,690
+9. A 30' X 50' rectangular building with 12' ceiling height had sq. ft. costs as
+follows: floor $3.50; flat roof $6.10; walls $2.60 and ceiling $2.50. What
+was the total cost per sq. ft.?
+(A) $15.43 (B) $12.74 (C) $12.98 (D) $13.14
+10. That theory of mortgage law in which the lender is viewed as the owner
+until the mortgage is paid off is:
+(A) Lien theory (B) Title theory
+(C) Title redemption (D) Intermediate theory
+11. M told N his roof didn't leak. N bought the property and found the roof
+did leak. M denied his statement in court. What was M guilty of?
+(A) Exculpatory (B) Estoppel
+(C) Caveat emptor (D) Hypothecation
+12. An executed P&S gives the buyer what type of title?
+(A) Legal (B) Temporary (C) Equitable (D) Consent
+13. A owned a piece of land valued at $50,000 on which he constructed an *
+office building. His pro forma statement indicated income of $95,000
+and expenses of $20,000. If he expects a 10% return on his total investment
+what will be the value of the improvements?
+(A) $700,000 (B) $750,000 (C) $635,000 (D) $678,500
+14. Financing obtained by a tenant with a long term lease is a:
+(A) Tenant's estate (B) Junior mortgage
+(C) Fee mortgage (D) Leasehold mortgage
+15. Before a subdivision can be recorded it must have approval of:
+(A) Civil engineers and land surveyors
+(B) Civil engineers, land surveyors and zoning board
+(C) Zoning board and board of health
+(D) Planning board and board of health
+16. An industrial building 50' X 150' X 12' rents for $1.10/cu. yd. per
+month. What is the annual rent?
+(A) $36,000 (B) $37,500 (C) $39,000 (D) $44,000
+17. Seller A accepted buyer B's offer thru broker C. He then learned C was
+an undisclosed dual agent and refused to sell. He can
+(A) Be subject to specific performance
+(B) Withdraw without obligation to B or C
+(C) Withdraw by agreement with B
+(D) Withdraw but be subject to punitive damage by C
+18. A triangular parcel containing 4½ acres has road frontage of 200'. What
+is its depth?
+(A) 1960'.2 (B) 1760'.5 (C) 1205'.l (D) 1765'.3
+19. A prospective tenant looked at office space on a blueprint with a scale of
+1/," = 1'. The space he wanted measured 3" X 2½". At a cost of
+$6.75/sq. yd. what would it cost to tile the floor?
+(A) $300.50 (B) $339.48 (C) $359.98 (D) $367.85
+20. Building D with 30,000 sq. ft. contains 5 condo units. Unit 3D has 1,875
+sq. ft. Annual maintenance fee is $16,000. What is Unit 3D's monthly fee?
+(A) $101.66 (B) $95.18 (C) $83.33 (D) $79.66
+21. An appraiser had problems getting comps in an area of mixed uses. The
+term for such an area would be:
+(A) Heterogeneous (B) Hypothication
+(C) Homogeneous (D) Intrinsic
+22. An action brought against one party for an entire debt of all involved is
+a (an):
+(A) Laches (B) Joint and several liability
+(C) Injunction (D) Attomment
+23. An owner who gives his property as security for a loan is all EXCEPT:
+(A) Mortgagee (B) Debtor
+(C) Borrower (D) Mortgagor
+24. Nynex has an underground wire easement across A's land. What type of
+easement would it be?
+(A) Affirmative (B) Negative
+(C) Appurtenant (D) Right of way
+25. Broker Z's commission at 6% is $16,404. He holds a deposit of $5,500,
+owes subagent Y 50% and his lister 20%. What was the selling price and
+Z's net?
+(A) $269,000 - $7,210.40
+(C) $273,400 - $6,561.60
+(B) $273,400 - $7,210.40
+(D) $269,000 - $6,561.60
+26. A homeowner debates about having a concrete circular patio 12'.0 across
+at $9.00/sq. ft. or a 9' x 12' flagstone at $11.00/sq. ft. Which would be
+cheaper and by how much?
+(A) 9' X 12' by $117.36 (B) Circle by $118.43
+(C) 9' X 12' by $178.56 (D) Circle by $170.64
+27. Salesman X, having 3 sales on the books, left Broker Y's firm to go with
+Broker Z. After conveyance, Y sent only 2 of the three commission
+checks due: X can:
+(A) Request the licensing board to take action against Y
+(B) File suit against Y
+(C) Have Z file suit against Y
+(D) File for action with the attorney general
+28. Jones signed a contract under duress which makes the contract:
+(A) Voidable (B) Void (C) Illegal (D) Unenforceable
+29. "Time is of the essence" means:
+(A) The commission will be paid upon conveyance
+(B) Prompt performance may be extended
+(C) Punctual performance of a binding contract
+(D) The commission will be paid upon recordation
+30. All of the following are real estate EXCEPT:
+(A) An apple tree (B) A prize azalea bush
+(C) A garden of emblements (D) Fruit on the apple tree
+31. Highest and best use refers to:
+(A) A 100% location
+(B) Desire influences demand
+(C) A property must have use to have value
+(D) Optimum use to produce best net return
+32. RESPA allows all of the following EXCEPT:
+(A) The use of computerized loan originator systems
+(B) Rental of office space to service providers
+(C) A broker's acceptance of anything of value from a lender
+(D) A real estate firm to have one-stop shopping
+33. A verbal agreement for 10 months is:
+(A) Voidable by lessee (B) Enforceable
+(C) Illegal (D) Unenforceable
+34. FIRPA is concerned with:
+(A) Purchase of U.S. property from a foreign investor
+(B) Bank foreclosure
+(C) Lender regulations
+(D) Financial Institutions Real Properties Act
+35. A commitment for a definite loan amount for a future unknown buyer is:
+(A) An FHA conditional commitment
+(B) A VA Certificate of Reasonable Value
+(C) An FHA firm commitment
+(D) A VA conditional commitment
+36. The central banking system that regulates money supply and interest
+rates is the:
+(A) Federal Home Loan Bank Board
+(B) Federal Deposit Insurance Corp.
+(C) Federal Savings and Loan Ass'n
+(D) Federal Reserve System
+37. A P&S containing a default clause for liquidated damages refers to:
+(A) Punitive damages (B) Forfeiture of buyer's deposit
+(C) Compensatory damages (D) Specific performance
+38. Five brokers have an open listing on 637 Mill Rd. If sold:
+(A) All will share in the commission
+(B) Selling broker gets commission
+(C) All are entitled to advertising costs
+(D) No broker was the procuring cause
+39. Lessor and lessee executed a 3 year lease. After 2 years the lessor died
+leaving no heirs:
+(A) Lessee inherits the property
+(B) Lease ended with lessor's death
+(C) The state acquires the property with the lease
+(D) The state acquires the property without the lease
+40. The type of mortgage which can be added to as long as it does not
+exceed the original amount is a (an):
+(A) Graduated payment (B) Adjustable rate
+(C) Blanket (D) Open end
+41. Before a prospective FHA buyer signs a P&S he must:
+(A) Request a conditional commitment
+(B) Sign a HUD lead-based paint disclosure form
+(C) Have property inspected for asbestos
+(D) Have a UFFI inspection
+42. A lien against a property could be for which of the following:
+(A) Unpaid betterment (B) Right of way
+(C) Nonconforming use (D) Parol
+43. The purpose of the residual capitalization technique is to:
+(A) Determine highest and best use
+(B) Determine the cap rate
+(C) Convert net income to value
+(D) Determine remaining economic life
+44. Dower and curtesy rights refer to:
+(A) Rights of a surviving spouse whose deceased spouse held title individually
+(B) Rights to a deceased partner's estate
+(C) Rights of a surviving spouse to separate property of a deceased
+spouse.
+(D) Rights of unmarried domestic partners
+45. Complaints under the Federal Fair Housing Act should be made to:
+(A) MCAD (B) FHA (C) VA (D) HUD
+46. The requirements of a valid contract include the following EXCEPT:
+(A) Offer and acceptance (B) Legality
+(C) Competency of parties (D) Must be in writing
+47. A contract considered so unfair that it is unenforceable is:
+(A) Reformation (B) Rescission
+(C) Unconscionable (D) Novation
+48. A developer is interested in a 12'/s acre rectangular parcel 143'.5 deep. It
+lies in a 20,000 ft. zone requiring minimum frontage of 135'.
+a) How many lots can he develop?
+(A) 26.57 (B) 25.32 (C) 27.3 (D) 25.57
+b) What is the total frontage?
+(A) 3,337'.6 (B) 3,435'.92 (C) 3,703'.36 (D) 3,852'.49
+c) What will the frontage of each lot be?
+(A) 139.37 (B) 126.5 (C) 143.7 (D) 14 l.7
+49. Marketability of a title may be affected by all EXCEPT:
+(A) Encroachments (B) Property defects
+(C) Encumbrances (D) Easements
+50. At settlement the following documents will be "passed" to the buyer
+EXCEPT:
+(A) Municipal lien certificate (B) Home Inspection Report
+(C) Mortgage note (D) Mortgage deed
+51. After a closing, the attorney does all of the following EXCEPT:
+(A) Discharges old mortgage
+(B) Assures no last minute liens
+(C) Discharges old deed
+(D) Records new deed and mortgage
+52. In a period of recession which of the following economic principles
+might have the greatest effect on real estate?
+(A) Highest and best use (B) Supply and demand
+(C) Scarcity (D) Change
+53. Two of the elements necessary to constitute fraud are that the misrepresentation
+concerns a material fact and that the party to whom the statement
+is made has the right to rely on it. A third element necessary is that:
+(A) The party did not believe it
+(B) The broker knew the truth
+(C) The prospect did not employ the broker
+(D) The property will resell for a particular amount
+54. A summary of the various links in the chain of title, together with a statement
+of liens, charges, or encumbrances is called:
+(A) Title link (B) Abstract
+(C) Title menorandum (D) Title summary
+55. Who should sign a P&S on behalf of a seller who is getting full price?
+(A) All who are named in the deed
+(B) Husband
+(C) Wife
+(D) Principal broker, wife and husband
+56. How do corporations enter into a P&S?
+(A) President signs
+(B) All corporate officers sign
+(C) Those officers authorized to do so sign
+(D) Treasurer signs
+57. According to law how must the purchase price, other than a deposit, be
+paid at closing?
+(A) In cash (B) By personal check
+(C) By corporate check (D) By cash, certified or bank check
+58. Full performance of a P&S occurs when:
+(A) Buyer and seller meet at the settlement table
+(B) Conveying attorney presents deed to buyer
+(C) Seller executes the deed
+(D) Buyer or his nominee accepts the deed
+59. An interest in land which enables the owner to impose restrictions on its
+future use is a (an):
+(A) Fee upon condition (B) Life estate
+(C) Fee simple estate (D) Estate for years
+60. Salesman A, affiliated with Broker B, cobroked a listing of Broker C. A
+is directly responsible to:
+(A) The seller (B) Broker C
+61. Value is best described as the:
+(A) Assessed value
+(C) The buyer
+(B) Price a prospective buyer would involuntarily pay
+(C) Present worth of future benefits
+(D) Price the owner paid
+(D) Broker B
+62. The depreciation method based on the premise that property depreciates *
+more rapidly in its early years is:
+(A) Straight line (B) Declining balance
+(C) Sum of the years (D) Accelerated cost recovery
+63. The following are true of a Real Estate Investment Trust EXCEPT:
+(A) Must have at least 50 shareholders
+(B) Be incorporated
+(C) Be managed by I or more trustees
+(D) Titles are taken in trustees' names
+64. The following are true of exchanges EXCEPT:
+(A) They involve "like-kind" properties
+(B) Properties must be identified within 45 days
+(C) Titles must be obtained within 5 months
+(D) Intermediary holds money and titles
+65. A one-time exemption of $250,000 for the sale of a residence requires *
+which of the following?
+(A) Being married
+(B) Being age 56 or older.
+(C) Ownership and occupancy of the dwelling for 2 of the past 5 years
+(D) Ownership of the dwelling for the past four years
+66. A, age 56, bought his home in 1982 for $160,000. He occupied it until
+he sold it in 1988 for $285,000. In 1991 he bought a new home for
+$350,000. Which of the following is true?
+(A) He can defer a capital gain of $65,000
+(B) He can defer a captial gain of $125,000
+(C) He has no capital gain to defer
+(D) He has a capital gain exclusion of $125,000
+67. A broker should insure that his salespeople are trained in all EXCEPT:
+(A) Federal and state fair housing practices
+(B) Avoiding testers
+(C) Handling of protected classes
+(D) Racial violence and intimidation
+68. The following employer obligations are true, EXCEPT:
+(A) Must carry unemployment compensation for independent contractors
+and employees
+(B) May carry medical insurance for employees
+(C) May carry dental insurance for employees
+(D) Have independent contractors file own income taxes
+69. A tenancy in common interest with exclusive occupancy for definite
+periods is a (an):
+(A) Cooperative (B) Time share ownership
+(C) Fee upon condition (D) Fee simple determinable
+70. The American With Disabilities Act requires accessibility to the disabled
+for the following EXCEPT:
+(A) Commercial facilities
+(B) Public accommodations
+(C) Private accommodations not serving the public
+(D) A real estate office
+71. The system which measures land from base lines and meridians is
+known as:
+(A) Government survey
+(C) Topological survey
+72. Nonfreehold possession
+fixed term is:
+(B) Geographic survey
+(D) Latitude and longitude
+of property by verbal permission
+(A) Periodic tenancy (C) Tenancy in serverabiity
+(B) Tenancy at will (D) Tenancy at sufferance
+without a
+73. Loss in value due to major functional or economic changes is:
+(A) Depreciation (B) Obsolescence
+(C) Physical deterioration (D) Accrued depreciation
+74. A listing provision giving time after expiration for a broker to earn a fee
+if a specified prospect buys the property is a (an):
+(A) Extension (B) Proviso (C) Office exclusive (D) Safety clause
+7 5. A property sold for $189,900. The buyer, short of downpayment requested
+the broker to show a price of $192,900 on the P&S. To do so would be:
+(A) The way to save the sale (B) Fraudulent
+(C) Reasonable (D) Legal
+76. Title to personal property is transferred by:
+(A) Bill of sale (B) Inclusion in P&S
+(C) An addendum to P&S (D) Personalty
+77. The seller of a property under contract has a flaw in his title. The P&S *
+agreement provides for him to do any of the following EXCEPT:
+(A) Clear title with buyer's deposit
+(B) Clear title with purchase money
+(C) Extend P&S with buyer's permission
+(D) Refund buyer's deposit
+78. The following encumbrances listed in a P&S do not cloud the title *
+EXCEPT:
+(A) Liens assessed before date of agreement
+(B) Provisions of existing building and zoning laws
+(C) Taxes not due and payable on date of deed delivery
+(D) Party walls not the subject of written agreement
+MONTHLY AMORTIZATION TABLE FOR A $1,000 LOAN
+YRS. 7% 8% 9% 10%
+5 19.80 20.28 20.76 21.25
+10 11 .61 12.13 12.67 13.22
+15 8.99 9.56 10.14 10.75
+20 7.75 8.36 9.00 9.65
+25 7.07 7.72 8.39 9.09
+30 6.65 7.34 8.05 8.78
+79. X and Y each borrowed $120,000 for 20 years. X's interest was 9%. Y's
+was 8%. Using the table above, what percent less than X did Y pay over
+life of the loan?
+(A) 13% (B) 87% (C) 16% (D) 86.75%
+80. A property bought for $150,000 has a $100,000 mortgage for 25 years at
+10%. Using the above table, what will interest payments increase cost of
+the house by?
+(A) 76% (B) 100% (C) 115% (D) 123%
+81. A building has a remaining economic life of 6 years and remaining value *
+of $135,000. What is its depreciation using sum-of-the-years digits?
+(A) $36,818 (B) $37,212 (C) $38,212 (D) $38,571
+82. The premium on a 3 year insurance policy was $732.00 paid to June 1,
+2002. Date of closing is Oct. 13, 1999. The buyer, assuming the policy
+will owe the seller how much at settlement?
+(A) $650.64 (B) $662.88 (C) $697.83 (D) $698.37
+83. A bought veteran B's home subject to the mortgage. A has:
+(A) Full liability (B) Primary liability
+(C) Secondary liability (D) No liability
+84. X wishes to sell his duplex for $77,500 with monthly expenses of *
+$447.00 Y rents unit 1 for $645/mo. Z pays $650/mo. in unit 2. Z has
+savings of $28,700 earning 5'/•%. If interested, what, if any, return
+would Z get?
+(A) 0% (B) 13% (C) 5'h% (D) 12%
+85. A lender refusing to grant a loan in a "high risk" area would be guilty of:
+(A) Steering (B) Blockbusting (C) Coercion (D) Redlining
+86. Oskosh Federal Savings, whose deposits are insured by FDIC, uses
+Knox Bros., attorneys for their closings. Settlement charges must be
+itemized on which of the following forms?
+(A) HUD Uniform Settlement Statement
+(B) Knox Bros. Certified Settlement
+(C) FDIC Settlement Statement
+(D) FNMA Uniform Closing
+87. "Lack of capacity" to make an agreement includes all EXCEPT
+(A) A person under 21
+(B) An insane person
+(C) An intoxicated person
+(D) A person of insufficient mental ability
+88. The term "caveat emptore" means:
+(A) Let the seller beware
+(B) Let the buyer beware
+(C) Let the unlicensed broker beware
+(D) Engage an attorney
+89. A clause in a lease intended to relieve a landlord from liability for
+tenants' injuries in common areas is called a (an):
+(A) Extender (B) Habendum
+(C) Exculpatory (D) Unencumbered
+90. Lender A requires that a mortgage applicant's monthly P.I.T. plus insurance
+and other monthly expenditures not exceed 38% of income.
+Applicant B earns $55,300. His outstanding debts total $506.92/mo. He
+desires an 80% loan on a $110,000 house for 20 years at 8% interest.
+Taxes are $2,800/yr. and insurance $37 .50/mo. What percent of income
+will his monthly costs be?
+(A) 30.34 (B) 31.9 (C) 32.8 (D) 33.15
+91. A died and left his property to B. C & D had debt claims against the
+property. They may file:
+(A) Mechanic's liens
+(C) Decendant's debts liens
+(B) Vendee's liens
+(D) Vendor's liens
+TEST TWO-SECTION B
+1. In the Tristam's Landing Case the Supreme Court ruled that a broker is
+entitled to a commission EXCEPT
+(A) When he produces a ready, willing and able buyer on owner's terms
+(B) When buyer enters binding contract with seller
+(C) When a contract is not consummated because of lack of financial
+ability
+(D) When the buyer completes the sale by taking title
+2. The following Board establishes education, experience and examination
+requirements for appraisers:
+(A) Appraisal Review Bd.
+(B) Mass. Bd. of Real Estate Appraisers
+(C) Mass. Bd. of Registration of Real Estate Appraisers
+(D) The Appraisal Institute
+3. Unit 87 of Seacrest Condos is about to be foreclosed. Payment of common
+area charges is delinquent. The condo association should file a lien
+which will give it priority over unpaid:
+(A) Property taxes (B) Water and sewer charges
+(C) First mortgage payments (D) Betterment charges
+4. The following statements regarding a security deposit are true EXCEPT:
+(A) Begins with first day of tenancy
+(B) Unpaid rent may be deducted
+(C) Annual interest may not exceed 6%
+(D) Not required on vacation property
+5. A makes an offer on B's property contingent upon sale of his own home
+in 75 days. B wishes to accept the offer but objects to the contingency.
+B's broker would, in an active market, probably recommend:
+(A) Acceptance
+(B) Refusal
+(C) Acceptance with a "kick-out" clause
+(D) A counter offer with no contingency
+6. The Mass. Hazardous Waste or Super Fund Law:
+(A) Prohibits a chemical plant from disposing of hazardous waste
+(B) Protects from liability owners of 1-4 family residences who did not
+know of their property contamination
+(C) Prevents oil spills on navigable waters
+(D) Makes a lien imposed upon commercial property a "chronological" lien.
+7. N bought M's property for $199,500 and assumed M's 20 yr. 5% mortgage
+of $135,320. What was the cost of the deed excise stamps?
+(A) $294.12 (B) $909.72 (C) $291.84 (D) $907.44
+8. A died intestate leaving his wife and 2 children. After payment of taxes,
+debts and other claims by the state, the estate was divided as follows:
+(A) Wife received 100%
+(B) Wife received 50%; each child 25%
+(C) A's parents 25%; spouse and children 75%
+(D) Wife 25%; each child 25%; brothers and sisters 25%
+9. Long Life Insurance Co. owns a 195 unit apartment building. Tenant #176
+with a 2 year lease paid $735/mo. for year 1 and $765.50/mo. for year 2
+plus a prorata share of any tax increases which totaled $7,000. Damage
+above normal wear and tear was $195. Security escrow earned 3.5%. What,
+if any, security deposit did the tenant receive after termination of the lease.
+(A) $555.55 (B) $572.18 (C) $548.68 (D) $556.61
+10. The Board of Registration requires that a broker:
+(A) Train salespeople "ethics"
+(B) Train salespersons in "Fair Housing"
+(C) Hold periodic sales meetings
+(D) Be responsible for salesperson's acts
+11. The Statute of Limitations is a state law that:
+(A) Limits legal action
+(B) Encourages legal action
+(C) Limits time periods for legal actions
+(D) Grants relief through the "doctrine of laches"
+12. In a mortgage deed the words Statutory Power of Sale means:
+(A) In event of default the mortgagee may sell the property
+(B) Mortgagor may sell to the mortgagee
+(C) That the mortgage is not a deed to the property
+(D) The mortgage deed contains an "alienation clause"
+13. In a mortgage deed the words Statutory Condition means the mortgagor
+will do all EXCEPT:
+(A) Make mortgage payments on time
+(B) Pay taxes when due
+(C) Keep property insured for fair market value
+(D) Not commit waste
+14. The following are true at a statutory foreclosure auction EXCEPT:
+(A) The mortgagor has the right of redemption
+(B) The mortgagee may bid and acquire the property
+(C) A successful bidder will sign a Memorandum of Sale
+(D) Excess proceeds belong to the mortgagor
+15. A real estate licensee must notify the Board of Registration when he:
+(A) Renews his license (B) Retires
+(C) Returns a deposit (D) Changes address
+16. All of the following are true about land court or registered land EXCEPT:
+(A) Certificate of title is issued
+(B) Title must be registered with each transfer
+(C) May be acquired by prescription
+(D) Owner is exempt from future claims
+17 All of the following are cause for license suspension or revocation
+EXCEPT:
+(A) Failure to submit all offers promptly
+(B) Failure to notify the Board in writing of a business address change
+(C) Failure to renew your license within 6 mos. of expiration
+(D) Failure to dislose a personal interest in a transaction
+18. An owner occupant of a 2 family in Medford could do all EXCEPT:
+(A) Refuse a handicapped tenant
+(B) Refuse services of a broker
+(C) Refuse a rental assisted tenant
+(D) Refuse tenants of all races, except his own
+19. The Statute of Frauds requires:
+(A) Listings to be in writing (B) Signed written listings
+(C) P&S to be in writing (D) Signed written P&S
+20. The most common form of tenancy taken in Mass, by husband and wife is:
+(A) By the entirety (B) In common (C) Joint (D) Life estate
+21. A Marion dwelling with a market value of $200,000 only appraised for
+$168,000. Assessed value was $182,000 and tax rate $13.85. What
+would taxes be for 6 mos.?
+(A) $1,731.25 (B) $1,648.15 (C) $1,260.35 (D) $2,520.70
+22. Causes for termination of a lease may be any of the following EXCEPT:
+(A) Destruction of premises (B) Reprisal for reporting a violation
+(C) Nonpayment of rent (D) Breach of lease provisions
+23. A prospective buyer must be allowed at least 10 days for inspection for
+the following EXCEPT:
+(A) Lead paint (B) Asbestos (C) Radon (D) U.F.F.I.
+24. You have screened Mr. Wing and Ms. Wong and are about to show them
+two specific properties. You must:
+(A) Have them sign the Seller Disclosure Forms
+(B) Ask if they are married
+(C) Tell them you represent the seller
+(D) Have them sign an Agency Disclosure Form
+25. Documentary stamps on a selling price of $250,750 would be:
+(A) $1,140 (B) $1,125.62 (C) $1,144.56 (D) $1,149.12
+26. A had an Exclusive Agency on B's property for $179,900 at 6%. Subagent
+C, through A, presented B with an offer of $175,000 from D. B refused the
+offer and sold direct to E for $170,000. By not selling to D, B saved:
+(A) $5,500 (B) $894 (C) $2,194 (D) $4,890
+27. A broker's relationship when exclusively representing a buyer or a seller
+is that of:
+(A) Direct agency (B) Implied agency
+(C) Fiduciary (D) Apparent authority
+28. A salesman cannot buy a property for himself:
+(A) Unless he gets the listing
+(B) In which he has an interest
+(C) Without disclosing same to the seller
+(D) Without his brokers permission
+29. The following are true for a real estate firm EXCEPT:
+(A) Blind advertising is prohibited
+(B) Salesmen cannot advertise
+(C) Discriminatory advertising prohibited
+(D) Advertising may contain a telphone number only
+three years apprenticeship
+30. The following apply to salesmen wishing to become licensed brokers
+EXCEPT
+(A) Must serve a
+(B) Must work 24 or more hours/week
+(C) Must work for a licensed broker
+(D) Must apply for broker's license within two years of apprenticeship
+termination
+31. As a licensee covering an open house you must:
+(A) Have each prospect sign an agency disclosure
+(B) Have a property description form available
+(C) Have listing literature available
+(D) Conspicuously display your agency relationship
+32. When two or more brokers occupy the same business address:
+(A) One must be the designated broker
+(B) One must be an employee
+(C) Their contractual relationship must be filed with the Board
+(D) Only one broker's license need be displayed
+33. The words on a deed, "Worcester County Registry of Deeds, Book 1057,
+pages 8-10" would be the:
+(A) Multi-page reference
+(B) Registry reference
+(C) Title reference
+(D) Land Court reference
+34. A fixed point which indicates elevation above sea level is:
+(A) A base line in government survey
+(B) Point of beginning in a land description
+(C) Found on every plot plan
+(D) A "benchmark"
+35. Contour lines on a plan which are close together indicate a:
+(A) Sloping surface (B) Wooded surface
+(C) Level surface (D) Wet surface
+36. In Mass. a deed, to be recorded, need only be witnessed by:
+(A) A broker (B) The grantee
+(C) An attorney-in-fact (D) A notary public
+37. A gift deed is all EXCEPT
+(A) Given for love and affection
+(B) Valid where no consideration is required
+(C) A support deed
+(D) Can be voided if given to defraud creditors
+38. Salesman A, an independent contractor, works on a 40% commission
+weekdays for Broker B and for Broker C weekends on a 50% commision.
+Salesman A:
+(A) Owes greater loyalty to B for 5 days work
+(B) Is in violation of the license law
+(C) Owes equal loyalty to B and C
+(D) Owes greater loyalty to C for higher commission
+39. The Statute of Fraud requires that a lease for more than one year:
+(A). Be witnessed
+(B) Be in writing
+(C) Be recorded
+(D) Requires lessee's signature only
+40. A licensee who receives notice of his license suspension:
+(A) May appeal within IO days
+(B) Must cease operation immediately
+(C) May request a re-hearing
+(D) May continue to operate until settled by appeal
+41. To comply with Title X and state requirements, before signing an "offer"
+for a home built in 1977, the buyer must be given a (an):
+(A) Title 5 Notification
+(B) U.F.F.I. Disclaimer
+(C) Agency Disclosure Form
+(D) Complete package of DPW Lead Paint Prevention Program and
+Notification Forms
+ANS'1VERS
+TEST TWO-SECTION A
+l.B 15. D 29. C 42.A 53. B 66. C 79.A
+2. C 16. D 30.C 43.C 54. B 67. B 80. C
+3.A 17. B 31. D 44.A 55. A 68.A 81. D
+4. C 18. A 32. C 45. D 56. C 69. B 82. B
+5. B 19. C 33. B 46. D 57. D 70.C 83. D
+6. D 20.C 34.A 47. C 58. D 71. A 84.B
+7. D 21. A 35.A 48a. A 59.C 72. B 85. D
+8. C 22.B 36. D 48b. C 60.D 73.B 86.A
+9.A 23.A 37. B 48c. A 61. C 74. D 87.A
+IO. B 24.B 38.B 49.B 62. B 75.B 88.B
+11. B 25.C 39.C 50. B 63.A 76.A 89. C
+12. C 26. D 40. D 51. C 64.C 77.A 90.C
+13.A 27. B 41. B 52. B 65. C 78.A 91. C
+14. D 28. A
+TEST TWO-SECTION B
+l.C 7.A 13. C 19. D 25. C 31. D 37. C
+2. C 8. B 14. A 20.A 26.A 32. C 38. B
+3. C 9.A 15. D 21. C 27. C 33. C 39.B
+4. C 10. D 16. C 22.B 28. C 34. D 40.B
+5. C 11. C 17. C 23. D 29. D 35. A 41. D
+6. B 12. A 18. C 24. D 30.B 36. D
+TEST TWO-SECTION A-MATH SOLUTIONS
+4. 19950 = X % of 285,000
+X = $19,950 + $285,000 = .07 or 7% commission
+5. A straight mortgage is interest payments only
+$8,825 = .08X = $8,825 + .08 = $110,312.50
+$110,31 2.50 =.SOX= $110,312.50 + .80 = $137;890.62 or
+$137,890 appraised value
+7. $3,180 + 360 = $8.83/day. Using 30 day months, 17 days would remain
+in Oct., 30 in Nov. and 30 in Dec. or 77 days X 8.83 = $679.91 or
+$680 credit to seller
+8. $160,000 - $20,000 = $140,000 cost of improvements
+100% + 30 yrs. = 3.33% depreciation per yr.
+3.33% X 5 yrs. = 16.65% .1665 X $140,000 = $23,310 depreciation
+$140,000 - $23,310 = $116,690 deprec. improvements
+$116,690 + $20,000(land) = $136,690 book value
+9. 30 X 50 = 1,500 sq. ft.
+floor- 1,500 X 3.50 = $5,250
+roof- 1,500 x 6.10 = 9,150
+walls- 30 x 12 = 360 x 2 = 720 x 2.60 = 1,872
+50 X 12 = 600 X 2 = 1,200 X 2.60 = 3,120
+ceilings- 1,500 x 2.50 = 3,750
+total cost $23,142
+$23,142 + 1,500 sq. ft.= $15.43 cost/sq. ft.
+13. $95,000 - $20,000 = $75,000 net+ .10 = $750,000
+$750,000 - $50,000 land value = $700,000 value of improvements
+16. 50' X 150' X 12' = 90,000 cu.ft.
+90,000 + 27 cu.ft./yd. = 3,333.33 cu.yds.
+3,333.33 cu.yds. X $1. 10 = $3,666.66/mo.
+$3,666.66 X 12 mo. = $43,999.96/yr. rent
+18. A triangle of 4'/i acres = a rectangle of 9 acres
+9 X 43,560 = 392,040 sq.ft. + 200' = 1,960'.2 depth
+19. Scale of 'Is"= l'.0 or l" = 8'.0, 3" = 24'.0, 2'/i" = 20'.0
+24'.0 X 20'.0 = 480 sq. ft., 9 sq. ft. = 1 sq. yd., 480 sq. ft. + 9 = 53.33 sq. yds
+53.33 sq. yds X $6.75/sq. yd. = $359.98 cost to tile
+20. Total sq.ft. = 30,000 1,875 + 30,000 = 0625 (6.25%)
+$16,000 X .0625 = $1 ,000/yr. + 12 = $83.33/mo. fee
+25. $16,404 = .06X X = $273,400 selling price
+$16,404 X .50 = $8,202 owed Y $8,202 X .20 = $1,640.40 owed lister
+$8,202 - $1,640.40 = $6,561.60 net to Z
+26. Area of circle = 3. l 4r2
+r = 1/zd or 6 6 X 6 X 3.14 = 113.04 sq.ft.
+113.04 X $9.00 = $1,017.36
+9' X 12 = 108 sq. ft.
+108 sq. ft. X $11.00 = $1,188
+$1,188 - $1,017.36 = $170.64 circle is cheaper
+48a. 121/s acres= 12.2 X 43,560 = 531,432 sq. ft.
+531 '432 20,000 = 26 .5 7 poss1" bl e 1o ts
+48b. 5~!:t~2 = 3,703'.36 total frontage
+20 000 .
+48c. 143 _5 = 139'.37 required frontage/lot
+79. X - $120,000 (20 yrs.@9%) = 120 x 9.00 = $1 ,080/mo.
+$1,080 X 12 = $12,960/yr. X 20 yrs. = $259,200 total
+$259,200 - $120,000 = $139,200 total interest for X
+Y - $120,000 (20 yrs.@8%) = 120 x 8.36 = $1,003.20/mo.
+$1,003.20 X 12 = $12,038.40/yr. X 20 yrs. = $240,768 total
+$240,768 - $120,000 = $120,768 total interest for Y
+$120,768 + $139,200 = .8675 or 87%
+100% - 87% = 13% less interest Y paid
+80. $100,000 for 25 yrs.@10% = 9.09/$1,000
+100 X 9.09 = 909/mo. X 12 = $10,908/yr.
+$10,908 X 25 = $272,700 - $100,000 = $172,700 total interest
+$172,700 + $150,000 = 1.15 or 115% increased cost
+remaining yrs. economic life . . . .
+81. sum of yrs. d"1 g1. ts X remammg value = depreciat10n
+6 6
+6+5+4+3+2+1 X $135,000 = 21 X $135,000 = $38,571.43 deprec.
+82. Years Months Days
+Premium paid to June 1, 2002 (/2 01 / 18 j 31
+Closing date Oct. 13, 1999 99 10 13
+Unexpired period 2 8 18
+$732.00 + 3 yrs. = $244.00/yr. -;- 12 mos = $20.33/mo. + 30 = $.68/day
+2 yrs. X $244.00 = $488.00 8 mos. X $20.33 = $162.64
+18 days X .68 = $12.24
+$488.00 + $162.64 + $12.24 = $662.88 debit to buyer, credit to seller
+84. Savings, $28,700 X .0525 = $1 ,506.75 int./yr.
+Rent unit 1, $645 X 12 = $7,740/yr.
+Expenses $447 X 12 = $5,364/yr.
+$7,740 yearly income - $5,364 expenses = $2,376 net
+$2,376 net income+ rent saved of $7,800 (650/mo X 12) = $10,176 t = R $10,176 + $77,500 = .1313 or 13.13%
+90. Using the Monthly Amortization Table, P + I for 20 yrs, 8% =
+8.36 X 88 = $735.68/mo. Taxes $2,800 --,- 12 = $233.33/mo
+Ins. $37.50/mo. Other payments $506.92/mo.
+Total monthly payments= $1,513.43
+$1,513.42 X 12 = $18,161.16/yr __,_ $55,300 = .328 or 32.8% ofmo. costs
+TEST TWO-SECTION B-MATH SOLUTIONS
+7. $199,500 - $135,320 assumed mortgage= $64,180 diff.
+64 X $4.56 = $291.84 + $2.28 = $294. 12
+9. $735 X .035 = $25.725 int. X 2 yrs. = $51.45 mt.
+$51.45 int. + $735 = $786.45 deposit + int.
+$7,000 tax--,- 195 units= $35.90 for ea. unit
++ $195 damages= $230.90 deduction
+$786.45 deposit and int. - $230.90 deduction = $555.55 to tenant
+21. Assessed value, $182,000 =
+182 X $13.85/thousand = $2,520.70--,- 2 = $1,260.35, 6 mos. tax
+25. $250,750 sales price= 251 X $4.56 = $1,144.56
+26. $175,000 X .06 = $10,500 comm.
+$175,000 - $10,500 = $164,500 net to B with broker
+$170,000 actual net - $164,500 = $5,500 saved
